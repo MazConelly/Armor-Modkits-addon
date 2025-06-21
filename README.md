@@ -1,5 +1,5 @@
 # Armor Modkits addon
-Extension to the Anomaly's Armor Modkits mod https://github.com/ahuyn/anomaly-armor-attachments
+Extension for the Armor Modkits mod for Anomaly https://github.com/ahuyn/anomaly-opo
 
 More upgrades and change more outfits, weapon upgrade kits, mod patches. Easy custom patches.
 
