@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+    <string id="st_paintkit_nosorog_csvariant">
+        <text>Clear Sky's specialized Nosorog mod kit</text>
+    </string>
+    <string id="st_paintkit_nosorog_csvariant_descr">
+        <text>A package of armor plates and specialized components for the upgrade of a Nosorog armor, along with an upgraded helmet. Carefully selected by Novikov to be used only on a CS-6 Nosorog armor, he only offer these to particularly trusted people as a way to free him from some work (or to let disatisfied customers to downgrade their Nosorogs themselves, the ingrates).</text>
+    </string>
+
+    <string id="st_paintkit_csnosorog_upgrade">
+        <text>Specialized Nosorog upgrade mod kit</text>
+    </string>
+    <string id="st_paintkit_csnosorog_upgrade_descr">
+        <text>A package of armor plates and specialized components for the upgrade of a Nosorog armor, along with an upgraded helmet. Carefully selected to allow a user to upgrade themselves a baseline nosorog into an upgraded variant.</text>
+    </string>
+	
+</string_table>
