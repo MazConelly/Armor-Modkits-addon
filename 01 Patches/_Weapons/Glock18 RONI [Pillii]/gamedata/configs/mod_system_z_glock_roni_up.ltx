@@ -1,0 +1,313 @@
+;------------------------------------------------------------------------------------------------
+![wpn_glock_auto]
+parent_section                           = wpn_glock_auto
+
+; scopes                                   = roni_upkit
+scope_status                             = 0
+
+;------------------------------------------------------------------------------------------------
+[wpn_glock_auto_roni_upkit]:wpn_glock_auto
+parent_section                           = wpn_glock_auto_roni_upkit
+
+slot                                     = 2
+animation_slot                           = 8
+ef_main_weapon_type                      = 2
+ef_weapon_type                           = 6
+hand_dependence                          = 1
+single_handed                            = 0
+
+inv_name                                 = st_wpn_glock_roni
+inv_name_short                           = st_wpn_glock_roni
+description                              = st_wpn_glock_roni_descr
+
+kind                                     = w_smg ;w_pistol
+inv_weight                               = 1.9
+cost                                     = 60350
+repair_type                              = pistol
+weapon_class                             = assault_rifle
+
+hud                                      = wpn_glock_roni_upkit_hud
+visual                                   = dynamics\weapons\wpn_glock_roni\wpn_glock_roni_world.ogf
+orientation                              = 0.0, 0.0, 0.0
+position                                 = 0.0, 0.0, 0.0
+fire_point                               = 0.0, 0.188, 0.392
+fire_point2                              = 0.0, 0.188, 0.392
+strap_bone0                              = bip01_spine2
+strap_bone1                              = bip01_spine1
+strap_position         	                 = -0.2,-0.22,0.12
+strap_orientation                        = -10, -5, 10
+ph_mass                                  = 3
+
+flame_particles                          = weapons\generic_weapon05
+smoke_particles                          = weapons\generic_shoot_00
+grenade_flame_particles                  = weapons\generic_weapon01
+
+shell_point                              = 0.0, 0.188, 0.082
+shell_dir                                = 0.0, 1.0, 0.0
+shell_particles                          = weapons\9x19mm
+
+light_disabled                           = false
+light_color                              = 0.6, 0.5, 0.3
+light_range                              = 5
+light_time                               = 0.2
+light_var_color                          = 0.05
+light_var_range                          = 0.5
+		
+icons_texture      = ui\ui_wpn_glock_roni
+
+inv_grid_width     = 4
+inv_grid_height    = 2
+inv_grid_x         = 4
+inv_grid_y         = 0
+
+upgr_icon_path     = ui\ui_wpn_glock_roni
+
+upgr_icon_x        = 200
+upgr_icon_y        = 100
+upgr_icon_width    = 200
+upgr_icon_height   = 100
+
+fire_modes                               = 1, -1
+ammo_class                               = ammo_9x19_fmj, ammo_9x19_fmj_bad, ammo_9x19_fmj_verybad, ammo_9x19_pbp, ammo_9x19_pbp_bad, ammo_9x19_pbp_verybad, ammo_9x19_ap, ammo_9x19_ap_bad, ammo_9x19_ap_verybad
+ammo_elapsed                             = 33
+ammo_mag_size                            = 33
+startup_ammo                             = 90
+
+scopes                                   = 1
+scope_status                             = 1
+scope_zoom_factor                        = 0
+
+silencer_status                          = 0
+
+hit_impulse                              = 34
+hit_power                                = 0.46, 0.46, 0.46, 0.46
+hit_type                                 = fire_wound
+fire_distance                            = 400
+bullet_speed                             = 400
+rpm                                      = 1100
+rpm_empty_click                          = 200
+ap_modifier                              = 1.1
+
+use_aim_bullet                           = false
+time_to_aim                              = 0.0 ;  3.0
+zoom_dof                                 = 0.5, 1.0, 180
+zoom_enabled                             = true
+zoom_rotate_time                         = 0.25
+reload_dof                               = 0.0, 0.5, 5, 2
+control_inertion_factor = 1.0f
+crosshair_inertion                       = 4.35
+fire_dispersion_base                     = 0.24
+fire_dispersion_condition_factor         = 0.001
+inertion_origin_aim_offset               = -0.03
+inertion_origin_offset                   = -0.05
+inertion_tendto_aim_speed                = 8
+inertion_tendto_speed                    = 5
+
+condition_queue_shot_dec                 = 0.0014
+condition_shot_dec                       = 0.0012
+
+cam_return                               = 0
+cam_relax_speed                          = 5
+cam_dispersion                           = 0.8
+cam_dispersion_frac                      = 1.0
+cam_dispersion_inc                       = 0.0475
+cam_max_angle                            = 50.0
+cam_max_angle_horz                       = 50.0
+cam_step_angle_horz                      = 1.5
+zoom_cam_relax_speed                     = 10
+zoom_cam_dispersion                      = 0.7
+zoom_cam_dispersion_frac                 = 1.0
+zoom_cam_dispersion_inc                  = 0.04
+zoom_cam_max_angle                       = 38.0
+zoom_cam_max_angle_horz                  = 38.0
+zoom_cam_step_angle_horz                 = 1.1
+
+PDM_disp_accel_factor                    = 1.5
+PDM_disp_base                            = 0.5
+PDM_disp_crouch                          = 1.0
+PDM_disp_crouch_no_acc                   = 1.0
+PDM_disp_vel_factor                      = 1.5
+
+cam_relax_speed_ai                       = 120.75
+zoom_cam_relax_speed_ai                  = 120.75
+holder_fov_modifier                      = 1.0
+holder_range_modifier                    = 1.0
+min_radius                               = 0
+max_radius                               = 500
+hit_probability_gd_novice                = 1.00
+hit_probability_gd_stalker               = 1.00
+hit_probability_gd_veteran               = 1.00
+hit_probability_gd_master                = 1.00
+
+kill_msg_x                               = 72
+kill_msg_y                               = 82
+kill_msg_width                           = 56
+kill_msg_height                          = 23
+
+        snd_draw        		                  = weapons\roni\roni_draw
+        snd_holster        		                  = weapons\roni\roni_holster
+        snd_reload					              = weapons\roni\roni_reload_part
+        snd_reload_empty		                  = weapons\roni\roni_reload_empty
+		snd_bore                                  = $no_sound
+		snd_bore_empty                            = $no_sound
+        snd_reload_misfire                        = weapons\roni\roni_unjam
+        snd_empty				                  = weapons\roni\glock_trigger
+        snd_empty_first				              = weapons\roni\glock_hammer
+		
+
+        scripted_snd_ammo_check                 = weapons\roni\roni_magcheck
+        scripted_snd_ammo_check_empty           = weapons\roni\roni_magcheck
+        scripted_snd_ammo_check_jammed          = weapons\roni\roni_magcheck
+        scripted_snd_ammo_check_empty_jammed    = weapons\roni\roni_magcheck
+        scripted_snd_ammo_check_no_mag          = $no_sound
+		scripted_snd_bore				        = weapons\roni\roni_inspect
+		scripted_snd_bore_empty				    = weapons\roni\roni_inspect_empty
+
+use_alt_aim_hud    = true
+
+laser_status       = true
+
+[wpn_glock_roni_upkit_hud]:wpn_glock_auto_hud
+item_visual                              = dynamics\weapons\wpn_glock_roni\wpn_glock_roni_upkit_hud.ogf
+attach_place_idx                         = 0
+zoom_hide_crosshair                      = true   
+
+item_position                            = 0, 0, 0
+item_orientation                         = 0, 0, 0
+
+        base_hud_offset_pos              = 0, 0, 0
+        base_hud_offset_pos_16x9         = 0, 0, 0
+        base_hud_offset_rot              = 0, 0, 0
+        base_hud_offset_rot_16x9         = 0, 0, 0
+		
+        hands_position                   = 0.0, 0.0, 0
+        hands_position_16x9              = 0.0, 0.0, 0
+        hands_orientation                = 0.0, 0, 0
+        hands_orientation_16x9           = 0, 0, 0
+
+        aim_hud_offset_alt_pos           = 0.001329, -0.02557, 0.019985
+        aim_hud_offset_alt_pos_16x9      = 0.001329, -0.02557, 0.019985
+        aim_hud_offset_alt_rot           = -0.00589, -0.070216, -0.563563
+        aim_hud_offset_alt_rot_16x9      = -0.00589, -0.070216, -0.563563
+
+        aim_hud_offset_pos               = -0.044271, 0.002139, -0.002844
+        aim_hud_offset_pos_16x9          = -0.044271, 0.002139, -0.002844
+        aim_hud_offset_rot               = -0.001325, -0.060534, -0.082555
+        aim_hud_offset_rot_16x9          = -0.001325, -0.060534, -0.082555
+		
+        lowered_hud_offset_pos           = 0.074696, -0.002621, 0.029649
+        lowered_hud_offset_pos_16x9      = 0.074696, -0.002621, 0.029649
+        lowered_hud_offset_rot           = 0.120166, -0.7695, -0.021248
+        lowered_hud_offset_rot_16x9      = 0.120166, -0.7695, -0.021248
+
+gl_hud_offset_pos                        = 0, 0, 0
+gl_hud_offset_pos_16x9                   = 0, 0, 0
+gl_hud_offset_rot                        = 0, 0, 0
+gl_hud_offset_rot_16x9                   = 0, 0, 0
+
+lean_hud_offset_pos                      = 0, 0, 0
+lean_hud_offset_rot                      = 0, 0, 0
+
+        anm_bore                                 = hands_roni_inspect, roni_inspect
+        anm_show                                 = hands_roni_draw, idle
+        anm_hide                                 = hands_roni_holster, idle
+
+        anm_idle                                 = hands_roni_idle_motion, idle
+        anm_idle_aim_moving                      = hands_roni_walk, idle 
+        anm_idle_aim_moving                      = hands_roni_walk, idle, 0.75 
+        anm_idle_aim_moving_crouch               = hands_roni_walk, idle, 0.8 
+        anm_idle_moving                          = hands_roni_walk, idle;, 0.95
+        anm_idle_moving_crouch                   = hands_roni_walk, idle
+        anm_idle_sprint                          = hands_roni_sprint, idle
+
+        anm_reload                               = hands_roni_reload_part, roni_reload_part
+        anm_reload_empty                         = hands_roni_reload_empty, roni_reload_empty
+        anm_reload_misfire          			 = hands_roni_unjam, roni_unjam
+        anm_switch_mode                 		 = hands_roni_switch_mode, roni_switch
+
+        anm_shots                                = hands_roni_shoot, roni_shoot
+		anm_shot_l                              = hands_roni_shoot, roni_shoot_last
+        anm_idle_aim                             = hands_roni_idle, idle
+
+        anm_walk2sprint                     = hands_roni_sprint_start, idle
+        anm_sprint2walk                     = hands_roni_sprint_end, idle
+        
+		;  Empty Animation Variants
+		anm_bore_empty                                 = hands_roni_inspect_empty, roni_inspect_empty
+        ;anm_bore_empty_empty                           = hands_roni_inspect_empty, roni_inspect_empty
+        anm_show_empty                                 = hands_roni_draw, idle_empty
+        anm_hide_empty                                 = hands_roni_holster, idle_empty
+
+        anm_idle_empty                                 = hands_roni_idle_motion, idle_empty
+        anm_idle_aim_moving_empty                      = hands_roni_walk, idle_empty 
+        anm_idle_aim_moving_empty                      = hands_roni_walk, idle_empty, 0.75 
+        anm_idle_aim_moving_crouch_empty               = hands_roni_walk, idle_empty, 0.8 
+        anm_idle_moving_empty                          = hands_roni_walk, idle_empty;, 0.95
+        anm_idle_moving_crouch_empty                   = hands_roni_walk, idle_empty
+        anm_idle_sprint_empty                          = hands_roni_sprint, idle_empty 
+
+        anm_reload_misfire_empty          			 = hands_roni_unjam, roni_unjam_empty
+        anm_switch_mode_empty                 		 = hands_roni_switch_empty, roni_switch_empty
+
+        anm_idle_aim_empty                             = hands_roni_idle, idle_empty
+		anm_shot_l                              = hands_roni_shoot, roni_shoot_last
+
+        anm_walk2sprint_empty                     = hands_roni_sprint_start, idle_empty
+        anm_sprint2walk_empty                     = hands_roni_sprint_end, idle_empty
+
+        ;   Jammed Animation Variants
+        anm_bore_jammed                                 = hands_roni_inspect_jammed, idle_jammed
+        anm_bore_empty_jammed                           = hands_roni_inspect_jammed, idle_empty_jammed
+        anm_show_jammed                                 = hands_roni_draw, idle_jammed
+        anm_hide_jammed                                 = hands_roni_holster, idle_jammed
+
+        anm_idle_jammed                                 = hands_roni_idle_motion, idle_jammed
+        anm_idle_aim_moving_jammed                      = hands_roni_walk, idle_jammed 
+        anm_idle_aim_moving_jammed                      = hands_roni_walk, idle_jammed, 0.75 
+        anm_idle_aim_moving_crouch_jammed               = hands_roni_walk, idle_jammed, 0.8 
+        anm_idle_moving_jammed                          = hands_roni_walk, idle_jammed;, 0.95
+        anm_idle_moving_crouch_jammed                   = hands_roni_walk, idle_jammed
+        anm_idle_sprint_jammed                          = hands_roni_sprint, idle_jammed 
+
+        anm_reload_misfire_jammed          			 = hands_roni_unjam, roni_unjam
+        anm_switch_mode_jammed                 		 = hands_roni_switch_mode_jammed, roni_switch_jammed
+
+        anm_idle_aim_jammed                             = hands_roni_idle, idle_jammed
+
+        anm_walk2sprint_jammed                     = hands_roni_sprint_start, idle_jammed
+        anm_sprint2walk_jammed                     = hands_roni_sprint_end, idle_jammed
+
+        ;  MagCheck Animation Variants
+        anm_ammo_check                           = hands_roni_magcheck, roni_magcheck
+        anm_ammo_check_empty                     = hands_roni_magcheck, roni_magcheck_empty
+        anm_ammo_check_jammed                    = hands_roni_magcheck, roni_magcheck_jammed
+        anm_ammo_check_empty_jammed              = hands_roni_magcheck, roni_magcheck_empty_jammed
+        anm_ammo_check_no_mag                    = hands_roni_magcheck, roni_magcheck_nomag
+
+        ; Transition Definitions
+
+
+        ts_pattern_walk2sprint      = .+, anm_idle_sprint, anm_walk2sprint, 1
+
+        ts_pattern_sprint2walk      = anm_idle_sprint, ^anm_idle.*, anm_sprint2walk, 1
+        ts_pattern_sprint2walk_aim  = anm_walk2sprint, ^anm_idle_aim.*, anm_sprint2walk, 1
+        ts_strict_sprint2walk_idle  = anm_walk2sprint, anm_idle, anm_sprint2walk
+        ts_strict_sprint2walk_move  = anm_walk2sprint, anm_idle_moving, anm_sprint2walk
+
+        ;ts_pattern_idle2aim         = ^anm_idle.*, ^anm_idle_aim$, anm_idle2aim, 1
+        ts_strict_sprint2aim        = anm_idle_sprint, anm_idle_aim, anm_sprint2walk
+
+        ts_strict_sprint2inspect        = anm_idle_sprint, anm_bore, anm_sprint2walk
+        ts_strict_walk2sprint_inspect        = anm_walk2sprint, anm_bore, anm_sprint2walk
+
+        ts_pattern_reload_interrupt     = anm_add_cartridge, ^anm_idle.*, anm_close 
+        ts_pattern_reload_empty_interrupt     = anm_add_cartridge_empty, ^anm_idle.*, anm_close   
+
+shell_bone                               = casing
+shell_dir                                = 0.0, 1.0, 0.0
+        shell_point                      = 0, 0, 0
+
+fire_bone                                = muzzle
+fire_bone2                               = muzzle
+fire_point                               = 0, 0, 0
+fire_point2                              = 0, 0, 0

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="st_wpn_tt33_tac">
+		<text>TT Brunner</text>
+	</string>
+	<string id="st_wpn_tt33_tac_descr">
+		<text>The TT-33 is a legendary Soviet pistol that, when equipped with a compensator, tactical grip, and LAM (Laser Aiming Module), transforms into a formidable sidearm ideal for tactical operations. The compensator reduces muzzle rise, allowing for quicker follow-up shots, while the tactical grip enhances control and stability during rapid fire. The addition of the LAM provides quick target acquisition and improves accuracy, especially in low-light conditions. This modified TT-33 is a versatile and reliable handgun, capable of holding its own in a variety of combat situations. \n</text>
+	</string>	
+	
+<!-- 	<string id="st_addon_scope_tt33_tac">
+		<text>"Brunner" Upgrade kit for TT-33</text>
+	</string>
+	<string id="st_addon_tt33_tac_descr">
+		<text>The Brunner upgrade kit adds a tactical rubber grip, muzzle compensator and LAM to the TT-33 Pistol. \n \n</text>
+	</string>	 -->
+	
+</string_table>
