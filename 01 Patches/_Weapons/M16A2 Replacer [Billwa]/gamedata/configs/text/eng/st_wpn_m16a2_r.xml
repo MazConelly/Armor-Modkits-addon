@@ -8,8 +8,8 @@
 	<string id="st_wpn_m16a2_r_descr">
 		<text>The M16A2 assault rifle is a select-fire, magazine-fed firearm that emerged as an evolution of the iconic M16 family. Renowned for its service in the United States military, the M16A2 features a 20-inch barrel, a semi-automatic and three-round burst firing mode, and a detachable magazine capacity of 30 rounds. Distinguished by its ergonomic improvements, such as an adjustable rear sight for varied distances, the M16A2 embodies accuracy and versatility. Adopted during the 1980s, this rifle showcases advancements in design and functionality, reflecting its significance in modern military history. \n \n
 		%c[ui_gray_2]ATTACHMENTS: \n
-		%c[d_purple] - %c[ui_gray_2] "Commando" Upgrade Kit. \n
-		%c[d_purple] - %c[ui_gray_2] NATO 5.56 suppressor\n \n</text>
+		%c[d_purple] - %c[ui_gray_2] NATO 5.56 suppressor\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS: Specialized weapon mod kit</text>
 	</string>
 	
 	<string id="st_wpn_m16a2_r_commando">

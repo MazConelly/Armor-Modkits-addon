@@ -2,17 +2,21 @@
 <string_table>
 <!-- NEW ARMOR KITS -->
     <string id="st_paintkit_novice">
-        <text>Jacket mod kit</text>
+        <text>Jacket patching kit</text>
     </string>
     <string id="st_paintkit_novice_descr">
-        <text>Package of various common tailoring materials. Nothing special, seems it was prepared to modify and improve simple clothes. As poor a protection as it is, newcomers tend to wear nothing better than the jacket they arrived to the Zone with, so such a package can help change them into something more capable to confront the needs of the Zone, though not as much as proper outfits.</text>
+        <text>
+		Package of various common tailoring materials. Nothing special, seems it was prepared to modify and improve simple clothes. As poor a protection as it is, newcomers tend to wear nothing better than the jacket they arrived to the Zone with, so such a package can help change them into something more capable to confront the needs of the Zone, though not as much as proper outfits.
+		</text>
     </string>
 	
 	<string id="st_paintkit_trenchcoat">
-        <text>Overcoat mod kit</text>
+        <text>Overcoat leather tools kit</text>
     </string>
     <string id="st_paintkit_trenchcoat_descr">
-        <text>Package of various tailoring materials suited for working wth leather. It also includes armor bits and pieces butchered from a scientist suit. Overcoats don't make for particularly protective outfits, but with this kit a patient stalker should be able to convert it into something a bit more respectable, at cost of double the weight. The included specialized tools should also allow one to recover the coat from such a conversion with minimal damage.</text>
+        <text>
+		Package of various tailoring materials suited for working wth leather. It also includes armor bits and pieces butchered from a scientist suit. Overcoats don't make for particularly protective outfits, but with this kit a patient stalker should be able to convert it into something a bit more respectable, at cost of double the weight. The included specialized tools should also allow one to recover the coat from such a conversion with minimal damage.
+		</text>
     </string>
 
     <string id="st_paintkit_merc_tactical">
@@ -28,7 +32,8 @@
         <text>SKAT armor mod kit</text>
     </string>
     <string id="st_paintkit_skat_descr">
-        <text>Special toolkit used to work with SKAT body armor, allowing one to improve an existing one or upgrade lesser outfits. The task of turning goverment issued military gear (the expensive kind, at that) into something usable by unaffiliated stalkers isn't a simple one. Some parts are not practical to be maintained in the Zone without army support, and they must be swapped by others of similar quality but easier to be repaired with the means available. There are other parts that must be removed, like geo localization devices, lest you find yourself with unexpected visitors one day.\n
+        <text>
+		Special toolkit used to work with SKAT body armor, allowing one to improve an existing one or upgrade lesser outfits. The task of turning goverment issued military gear (the expensive kind, at that) into something usable by unaffiliated stalkers isn't a simple one. Some parts are not practical to be maintained in the Zone without army support, and they must be swapped by others of similar quality but easier to be repaired with the means available. There are other parts that must be removed, like geo localization devices, lest you find yourself with unexpected visitors one day.\n
 		Most factions providing SKAT armors to their members don't have to worry about this, whether by virtue of force of numbers, possesing the technical means, or straight up not caring. But unaffiliated stalkers would be prudent to "clean" the prospective outfit themselves before thinking about using it. Restoring those parts should also be possible, though unless one is affiliated with the Army, it would beg the question of "why?"
 		-Can improve certain SKAT armors into a better version. \n
 		-Can improve certain lesser outfits closer to the standards of SKAT armor. \n
@@ -42,7 +47,8 @@
         <text>Paint weapon kit</text>
     </string>
     <string id="st_paintkit_gunkit_paint_descr">
-        <text>Package of various painting tools suitable for weapons. It should allow the user to change the appareance of their gun, including applying an appropiate camouflage pattern. There's also some parts that you can't decide if they're intended to support the paint or improve the weapon, but you won't complain. \n
+        <text>
+		Package of various painting tools suitable for weapons. It should allow the user to change the appareance of their gun, including applying an appropiate camouflage pattern. There's also some parts that you can't decide if they're intended to support the paint or improve the weapon, but you won't complain. \n
 		Some included tools should also help add engravings into a gun; some swear by the added looks, but as experienced soldiers could tell you, engravings have no tactical advantage whatsoever. \n
 		-Can turn any regular gun into their camouflaged version, and back. \n
 		-Can turn any regular shotgun into its engraved version. \n
@@ -54,7 +60,8 @@
         <text>Gunsmith weapon mod kit</text>
     </string>
     <string id="st_paintkit_gunkit_gunsmith_descr">
-        <text>Package of various basic gunsmithing materials. Seems it has enough things to modify and improve weapons in simple ways. You could repair an old gun, or turn any dime a dozen weapon into something more proper of the times, and more accepting of further improvements. There's also a saw for some reason, that could be useful in shortening a shotgun barrel. \n
+        <text>
+		Package of various basic gunsmithing materials. Seems it has enough things to modify and improve weapons in simple ways. You could repair an old gun, or turn any dime a dozen weapon into something more proper of the times, and more accepting of further improvements. There's also a saw for some reason, that could be useful in shortening a shotgun barrel. \n
 		-Can upgrade any gun in an order such as: regular > new > modern. \n
 		-Can turn any shotgun into its sawn-off version. \n
 		NOTE: Previous upgrades might need to be removed first (or lost).
@@ -65,7 +72,8 @@
         <text>Replacement weapon mod kit</text>
     </string>
     <string id="st_paintkit_gunkit_replace_descr">
-        <text>Package of various gunsmithing materials. Straight out of the fabrication chain, one could use these parts to slighlty change a compatible weapon. Not neccesarily as an improvement, but a sidegrade can have its own advantages. \n
+        <text>
+		Package of various gunsmithing materials. Straight out of the fabrication chain, one could use these parts to slighlty change a compatible weapon. Not neccesarily as an improvement, but a sidegrade can have its own advantages. \n
 		-Can turn any regular weapon into its alternate version. \n
 		NOTE: Previous upgrades might need to be removed first (or lost).
 		</text>
@@ -75,31 +83,9 @@
         <text>Custom weapon mod kit</text>
     </string>
     <string id="st_paintkit_gunkit_custom_descr">
-        <text>Package of various gunsmithing materials of good quality. One should be able to modify any properly cleaned up weapon into something more suitable to their needs, and even add some extra upgrades during the process. \n
+        <text>
+		Package of various gunsmithing materials of good quality. One should be able to modify any properly cleaned up weapon into something more suitable to their needs, and even add some extra upgrades during the process. \n
 		-Can turn any regular weapon into its custom version. \n
-		NOTE: Previous upgrades might need to be removed first (or lost).
-		</text>
-    </string>
-	
-    <string id="st_paintkit_gunkit_duty">
-        <text>Duty weapon mod kit</text>
-    </string>
-    <string id="st_paintkit_gunkit_freedom">
-        <text>Freedom weapon mod kit</text>
-    </string>
-    <string id="st_paintkit_gunkit_merc">
-        <text>Mercenary weapon mod kit</text>
-    </string>
-	   <string id="st_paintkit_gunkit_cs">
-        <text>Clear Sky weapon mod kit</text>
-    </string>
-	<string id="st_paintkit_gunkit_loner">
-        <text>Loner weapon mod kit</text>
-    </string>
-    <string id="st_paintkit_gunkit_faction_descr">
-        <text>Package of various materials of good quality. Some of these parts are intended to improve some weapons or outfits in certain ways, and sometimes help the user declare their allegiance more clearly. \n
-		-Can turn certain regular weapons and outfits into a faction appropiate version. \n
-		-Can improve certain faction equipment into a better version. \n
 		NOTE: Previous upgrades might need to be removed first (or lost).
 		</text>
     </string>
@@ -108,12 +94,42 @@
         <text>Specialized weapon mod kit</text>
     </string>
     <string id="st_paintkit_gunkit_scope_descr">
-        <text>Package of various gunsmithing materials for specialized purposes, including railings, optics for them, and even barrel threading. While integrating attachments into a weapon limits their usefulness in some ways, it can make them excell in others as they become specialized in them. \n
+        <text>
+		Package of various gunsmithing materials for specialized purposes, including railings, optics for them, and even barrel threading. While integrating attachments into a weapon limits their usefulness in some ways, it can make them excell in others as they become specialized in them. \n
 		Luckily, this package includes the very attachment you needed. No, you don't know which one is it. Yes, yes, you were that lucky. It's the Zone, shut up, don't question it. \n
 		-Can be used on any applicable regular weapon. \n
 		NOTE: Previous upgrades might need to be removed first (or lost).
 		</text>
     </string>
 
+    <string id="st_paintkit_gunkit_duty">
+        <text>Duty modification kit</text>
+    </string>
+    <string id="st_paintkit_gunkit_freedom">
+        <text>Freedom modification kit</text>
+    </string>
+    <string id="st_paintkit_gunkit_merc">
+        <text>Mercenary modification kit</text>
+    </string>
+	   <string id="st_paintkit_gunkit_cs">
+        <text>Clear Sky modification kit</text>
+    </string>
+	<string id="st_paintkit_gunkit_loner">
+        <text>Loner scrap box</text>
+    </string>
+    <string id="st_paintkit_gunkit_faction_descr">
+        <text>Package of various materials of good quality. Some of these parts are intended to improve some weapons or outfits in certain ways, and sometimes help the user declare their allegiance more clearly. \n
+		-Can turn certain regular weapons and outfits into a faction appropiate version. \n
+		-Can improve certain faction equipment into a better version. \n
+		NOTE: Previous upgrades might need to be removed first (or lost).
+		</text>
+    </string>
+	<string id="st_paintkit_gunkit_loner_descr">
+        <text>Package of miscellaneous materials of varied quality. You could improve some outfits with these, or salvage "lost" advanced equipment belonging to one of the main factions. \n
+		-Can improve certain low tier outfits. \n
+		-Can turn a factional version of some outfits into a neutral "loner" one. \n
+		NOTE: Previous upgrades might need to be removed first (or lost).
+		</text>
+    </string>
 
 </string_table>
