@@ -363,7 +363,7 @@
 		%c[d_purple] • %c[ui_gray_2] Scopes: All scopes for dovetail mount\n
 		%c[d_purple] • %c[ui_gray_2] VSS suppressor (integrated)\n
 		%c[ui_gray_2]COMPATIBLE MOD KITS: Specialized weapon mod kit
-		</text> </text>
+		</text>
 	</string>	
 
 	<string id="st_wpn_ak74u_n1">
@@ -507,7 +507,8 @@
 	</string>
 	<string id="st_wpn_pm_bas_descr">
 		<text>This Soviet legacy is the most common pistol in the Zone and is one of the best compact self-defence handguns available. It is small, highly reliable, easy to use and maintain in working order. It also suffers from several drawbacks, including short range, low firing accuracy and poor stopping power, while also losing out to modern pistols in its class in terms of weight and magazine size. In 1951, the Pistol Makarova was selected because of its simplicity, easy manufacturing, accuracy, and reasonable stopping power.\n
-		%c[ui_gray_2]COMPATIBLE MOD KITS: Custom weapon mod kit
+		%c[ui_gray_2]COMPATIBLE MOD KITS: Custom weapon mod kit\n
+		With Misc. Weapons Pack: Specialized weapon mod kit
 		</text>
 	</string>
 
@@ -592,7 +593,8 @@
 		%c[ui_gray_2]ATTACHMENTS: \n
 		%c[d_purple] • %c[ui_gray_2] Scopes:  All dovetail mount scopes except of except of red dot sights.\n
 		%c[d_purple] • %c[ui_gray_2] Silencer: KZRZP suppressor (after modification)\n
-		%c[ui_gray_2]COMPATIBLE MOD KITS: Mercenary modification kit
+		%c[ui_gray_2]COMPATIBLE MOD KITS: Mercenary modification kit\n
+		With Misc. Weapons Pack: Specialized weapon mod kit
 		</text>
 	</string>
 
@@ -1130,7 +1132,10 @@
 	</string>
 	<string id="st_wpn_sks_b_descr">
 		<text>The SKS is one of the first weapons chambered for the 7.62x39mm round. Replaced in Soviet front-line service by the AK-47 in the early 1950s, it remained in second-line service for decades and is still used as a ceremonial arm today.\n \n
-		%c[ui_gray_2]ATTACHMENTS: \n%c[d_purple]• %c[ui_gray_2] none\n</text>
+		%c[ui_gray_2]ATTACHMENTS: \n%c[d_purple]• %c[ui_gray_2] none\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		With Simple Weapons Pack: Gunsmith weapon mod kit
+		</text>
 	</string>
 
 	<string id="st_wpn_l85_m1">
@@ -1142,7 +1147,8 @@
 		%c[d_purple] • %c[ui_gray_2] Scopes: Susat with L85 native mount\n
 		%c[d_purple] • %c[ui_gray_2] Suppressor: ADVANCED ARMAMENT (AAC) M4-2000\n
 		%c[d_purple] • %c[ui_gray_2] Grenade Launcher: none\n
-		%c[ui_gray_2]COMPATIBLE MOD KITS: Gunsmith weapon mod kit</text>
+		%c[ui_gray_2]COMPATIBLE MOD KITS: Gunsmith weapon mod kit
+		</text>
 	</string>
 	
 	<string id="st_wpn_l85_m2">
@@ -1155,7 +1161,8 @@
 		%c[d_purple] • %c[ui_gray_2] Scopes: All for picatinny/weaver (except of Red Dot Sights with low mount: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (low mount), Docter Sight, 1P76 Rakurs (low mount).\n
 		%c[d_purple] • %c[ui_gray_2] Suppressor: ADVANCED ARMAMENT (AAC) M4-2000\n
 		%c[d_purple] • %c[ui_gray_2] Grenade Launcher: none\n
-		%c[ui_gray_2]COMPATIBLE MOD KITS: Specialized weapon mod kit</text>
+		%c[ui_gray_2]COMPATIBLE MOD KITS: Specialized weapon mod kit
+		</text>
 	</string>
 
 	<string id="st_wpn_l85_m3">
@@ -1192,7 +1199,8 @@
 		%c[d_purple] • %c[ui_gray_2] Scopes: All for picatinny/weaver (except of Red Dot Sights with low mount: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (low mount), Docter Sight, 1P76 Rakurs (low mount).\n
 		%c[d_purple] • %c[ui_gray_2] Suppressor: AAC 7.62 SDN-6\n
 		%c[d_purple] • %c[ui_gray_2] Grenade Launcher: FN HERSTAL FN40GL Mk2\n
-		%c[ui_gray_2]COMPATIBLE MOD KITS: Replacement weapon mod kit</text>
+		%c[ui_gray_2]COMPATIBLE MOD KITS: Replacement weapon mod kit
+		</text>
 	</string>
 
 	<string id="st_wpn_scar_siber_m1">
@@ -1219,7 +1227,8 @@
 		%c[d_purple] • %c[ui_gray_2] Scopes: All for picatinny/weaver (except of Red Dot Sights with low mount: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (low mount), Docter Sight, 1P76 Rakurs (low mount).\n
 		%c[d_purple] • %c[ui_gray_2] Suppressor: AAC 7.62 SDN-6\n
 		%c[d_purple] • %c[ui_gray_2] Grenade Launcher: none\n
-		%c[ui_gray_2]COMPATIBLE MOD KITS: Specialized weapon mod kit</text>
+		%c[ui_gray_2]COMPATIBLE MOD KITS: Specialized weapon mod kit
+		</text>
 	</string>
 
 	<string id="st_wpn_scar_siber_m2">
@@ -1342,7 +1351,8 @@
 		%c[ui_gray_2]ATTACHMENTS: \n
 		%c[d_purple] • %c[ui_gray_2] Scopes: All for picatinny/weaver (except of Red Dot Sights with low mount: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (low mount), Docter Sight and 1P76 Rakurs (picatinny).\n
 		%c[d_purple] • %c[ui_gray_2] Suppressor: ADVANCED ARMAMENT (AAC) M4-2000\n
-		%c[ui_gray_2]COMPATIBLE MOD KITS: Specialized weapon mod kit</text>
+		%c[ui_gray_2]COMPATIBLE MOD KITS: Specialized weapon mod kit
+		</text>
 	</string>
 	
 		<string id="st_wpn_sig550_tac_siber">
@@ -1365,7 +1375,8 @@
 		%c[ui_gray_2]ATTACHMENTS: \n
 		%c[d_purple] • %c[ui_gray_2] Scopes: All for picatinny/weaver (except of Red Dot Sights with low mount: Trijicon RMR, Leupold DeltaPoint PRO, Aimpoint T1 (low mount), Docter Sight and 1P76 Rakurs (picatinny).\n
 		%c[d_purple] • %c[ui_gray_2] Suppressor: ADVANCED ARMAMENT (AAC) M4-2000\n
-		%c[ui_gray_2]COMPATIBLE MOD KITS: Specialized weapon mod kit</text>
+		%c[ui_gray_2]COMPATIBLE MOD KITS: Specialized weapon mod kit
+		</text>
 	</string>
 
 	<string id="st_wpn_sig552_tac_siber">
@@ -1412,7 +1423,8 @@
 		%c[d_purple] • %c[ui_gray_2] The weapons are equipped with: the cheapest of all possible laser sight and a picatinny rail for attaching some small sights.(Also, as a bonus, Polymer gives you a set of 40 round mags when you buying it).\n
 		%c[d_purple] • %c[ui_gray_2] Scopes: All Red Dot Sights for picatinny/weaver except of scopes with long mount such as: Eotech 553/XPS, C-More, OKP-7, Meprolight M21, EKP-8-18 and Kemper.\n
 		%c[d_purple] • %c[ui_gray_2] Suppressor: 0217 Sound Suppressor.\n
-		%c[ui_gray_2]COMPATIBLE MOD KITS: Custom weapon mod kit</text>
+		%c[ui_gray_2]COMPATIBLE MOD KITS: Custom weapon mod kit
+		</text>
 	</string>
 	
 		<string id="st_wpn_kiparis_m2">
@@ -1426,7 +1438,8 @@
 		%c[d_purple] • %c[ui_gray_2] The weapons are equipped with: laser sight and, picatinny rail for attaching some small sights and handcrafted Bakelite foregrip. (Also, as a bonus, Polymer gives you a set of 40 round mags when you buying it).\n
 		%c[d_purple] • %c[ui_gray_2] Scopes: Trijicon Acog and Red Dot Sights for picatinny/weaver except of scopes with long mount such as: Eotech 553, C-More, Meprolight M21, EKP-8-18.\n
 		%c[d_purple] • %c[ui_gray_2] Suppressor: 0217 Sound Suppressor.\n
-		%c[ui_gray_2]COMPATIBLE MOD KITS: Clear Sky modification kit</text>
+		%c[ui_gray_2]COMPATIBLE MOD KITS: Clear Sky modification kit
+		</text>
 	</string>
 	
 			<string id="st_wpn_kiparis_m3">
@@ -1464,7 +1477,8 @@
 		%c[d_purple] • %c[ui_gray_2] The weapons are equipped with: Laser sight and a mount for small Red Dot sights. The kit includes a set of magazines for 30 rounds.\n
 		%c[d_purple] • %c[ui_gray_2] Scopes: Trijicon RMR, Leupold Deltapoint PRO, Aimpoint T1 (low mount) è Docter Sight.\n
 		%c[d_purple] • %c[ui_gray_2] Suppressor: Scorpion supressor.\n
-		%c[ui_gray_2]COMPATIBLE MOD KITS: Specialized weapon mod kit</text>
+		%c[ui_gray_2]COMPATIBLE MOD KITS: Specialized weapon mod kit
+		</text>
 	</string>
 	
 			<string id="st_wpn_vz61_scorpion_m2">
@@ -1486,7 +1500,8 @@
 		<text> Modification of an army machine gun with belt feed. Despite the high mass and unsatisfactory accuracy, it has found a fairly wide application in the Zone. It is mainly used to suppress an enemy outnumbered and when clearing mutant lairs.\n
 		%c[ui_gray_2]ATTACHMENTS: \n
 		%c[d_purple] • %c[ui_gray_2] None \n
-		%c[ui_gray_2]COMPATIBLE MOD KITS: Specialized weapon mod kit</text>
+		%c[ui_gray_2]COMPATIBLE MOD KITS: Specialized weapon mod kit
+		</text>
 	</string>
 
 			<string id="st_wpn_g28">
@@ -1528,7 +1543,8 @@
 		<text> The PK (Pulemyot Kalashnikova, or "Kalashnikov's machine gun"), is a belt-fed general-purpose machine gun, chambered for the 7.62?54mmR rimmed cartridge. Designed in the Soviet Union and currently in production in Russia, the original PK machine gun was introduced in 1961 and the improved PKM variant was introduced in 1969. The PK was designed to replace the SGM and RP-46 machine guns that were previously in Soviet service. The weapon remains in use as a front-line infantry and vehicle-mounted weapon with Russia's armed forces and has also been exported extensively and produced in several other countries under license.\n
 		%c[ui_gray_2]ATTACHMENTS: \n
 		%c[d_purple] • %c[ui_gray_2] None \n
-		%c[ui_gray_2]COMPATIBLE MOD KITS: Gunsmith weapon mod kit</text>
+		%c[ui_gray_2]COMPATIBLE MOD KITS: Gunsmith weapon mod kit
+		</text>
   	</string>
 
 	<string id="st_wpn_ppsh_bas">

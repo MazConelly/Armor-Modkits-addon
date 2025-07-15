@@ -317,7 +317,6 @@
 		%c[ui_gray_2]COMPATIBLE MOD KITS: Paint weapon kit, Custom weapon mod kit, Specialized weapon mod kit
 		With Misc. Weapons Pack: Specialized weapon mod kit (for AKS-74UN *custom*)
 		</text>
-		</text>
 	</string>
 	<string id="st_wpn_ak74u_old">
 		<text>AKS-74U</text>
@@ -426,7 +425,8 @@
 		%c[ui_gray_2]ATTACHMENTS: \n
 		%c[d_purple] • %c[ui_gray_2] APS suppressor\n
 		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
-		With Boomsticks and Sharpsticks: Specialized weapon mod kit</text>
+		With Boomsticks and Sharpsticks: Specialized weapon mod kit
+		</text>
 	</string>
 	<string id="st_wpn_aps_worn">
 		<text>APS (worn)</text>
@@ -634,7 +634,6 @@
 		<text>The IMI Desert Eagle is a semi-automatic handgun notable for chambering the largest centrefire cartridge of any magazine fed, self-loading pistol and also being the heaviest and blockiest gun of its type. No one knows why IMI thought shooting a calibre of this size out of a handgun was a good idea, even though there are plenty of rounds out there that can do the job without breaking your wrist; this one assumes because of a pissing contest between the .44 and .50 AE. Not only is it heavy and harsh in recoil, you can also use it to bludgeon your enemies to death because of its blockiness and weight. Although militaries and law enforcement around the world, in their moment of sanity, never adopted this brick; Hollywood did, mostly because of its "cool factor" and now is the poster child for gangsters and pimps and a status symbol for those who reached a certain rank in a certain console shooter. Rumour is that there's a stalker with a crowbar wandering around the Zone with a rechambered version of this gun, but it's just a rumour.\n
 		%c[ui_gray_2]COMPATIBLE MOD KITS: Gunsmith weapon mod kit, Custom weapon mod kit, Specialized weapon mod kit\n
 		With Misc. Weapons Pack: Specialized weapon mod kit (for Desert Eagle *custom*)
-		</text>
 		</text>
 	</string>
 	<string id="st_wpn_desert_eagle_modern">
@@ -986,7 +985,8 @@
 		%c[ui_gray_2]ATTACHMENTS: \n
 		%c[d_purple] • %c[ui_gray_2] 9x19 compatible suppressor\n
 		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
-		With Boomsticks and Sharpsticks: Gunsmith weapon mod kit</text>
+		With Boomsticks and Sharpsticks: Gunsmith weapon mod kit
+		</text>
 	</string>
 	<string id="st_wpn_kiparis_worn">
 		<text>OTs-02 Kiparis (worn)</text>
@@ -1033,7 +1033,8 @@
 		%c[ui_gray_2]ATTACHMENTS: \n
 		%c[d_purple] • %c[ui_gray_2] SUSAT scope (integrated)\n
 		%c[d_purple] • %c[ui_gray_2] 5.56x45 compatible suppressor (after modification)\n \n
-		%c[ui_gray_2]COMPATIBLE MOD KITS: Gunsmith weapon mod kit, Replacement weapon mod kit, Custom weapon mod kit</text>
+		%c[ui_gray_2]COMPATIBLE MOD KITS: Gunsmith weapon mod kit, Replacement weapon mod kit, Custom weapon mod kit
+		</text>
 	</string>
 	
 	<string id="st_wpn_l96a1">
@@ -1099,7 +1100,8 @@
 		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech scopes\n
 		%c[d_purple] • %c[ui_gray_2] M203 grenade launcher\n
 		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
-		With Misc. Weapons Pack: Specialized weapon mod kit</text>
+		With Misc. Weapons Pack: Specialized weapon mod kit
+		</text>
 	</string>
 	<string id="st_wpn_m16_worn">
 		<text>M16A4 (worn)</text>
@@ -1144,7 +1146,7 @@
 		%c[d_purple] • %c[ui_gray_2] M203 grenade launcher\n \n
 		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
 		With Boomsticks and Sharpsticks: Custom weapon mod kit, Specialized weapon mod kit
-		</text></text>
+		</text>
 	</string>
 	<string id="st_wpn_m4_worn">
 		<text>M4A1 RAS (worn)</text>
@@ -1197,7 +1199,10 @@
 	</string>
 	<string id="st_wpn_mosin_descr">
 		<text>A basic version of the Mosin-Nagant with slightly worn interiors. The M1891/30 was produced for standard issue to all Soviet infantry from 1930 to 1945. It was extremely successful in World War II as a sniper rifle when it was equipped with a 4x PE or a 3.5x PU scope.\n \n
-		%c[ui_gray_2]ATTACHMENTS: \n%c[d_purple]• %c[ui_gray_2] PU scope\n \n</text>
+		%c[ui_gray_2]ATTACHMENTS: \n%c[d_purple]• %c[ui_gray_2] PU scope\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS: \n
+		With Simple Weapons Pack: Gunsmith weapon mod kit
+		</text>
 	</string>
 	<string id="st_wpn_mosin_worn">
 		<text>Mosin-Nagant (worn)</text>
@@ -1232,7 +1237,8 @@
 	<string id="st_wpn_mp153_descr">
 		<text>The MP-153 self-loading shotgun was the first semi-automatic shotgun designed and manufactured by Izhevsk Mechanical Plant. It was developed along with the pump action MP-133 shotgun and shares many parts and assemblies with it. The MP-153 is one of the most popular semi-automatic shotguns of Russian origin, and is widely used to hunt various games in Russia. It is also sold for export, it is known as Remington "Spartan" SPR-453 autoloader in US. MP-153 shotguns are known for solid but somewhat heavy construction and reliability.\n
 		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
-		With Boomsticks and Sharpsticks: Specialized weapon mod kit</text>
+		With Boomsticks and Sharpsticks: Specialized weapon mod kit
+		</text>
 	</string>
 	<string id="st_wpn_mp153_rusty">
 		<text>MP-153 (rusty)</text>
@@ -1290,7 +1296,7 @@
 		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632 scopes, EOTech scopes\n
 		%c[d_purple] • %c[ui_gray_2] special MP5SD suppressor (integrated)\n \n
 		%c[ui_gray_2]COMPATIBLE MOD KITS: Gunsmith weapon mod kit, Custom weapon mod kit, Specialized weapon mod kit
-		</text></text>
+		</text>
 	</string>
 	<string id="st_wpn_mp5sd_new">
 		<text>MP5SD6 (new)</text>
@@ -1307,7 +1313,8 @@
 		%c[ui_gray_2]ATTACHMENTS: \n
 		%c[d_purple] • %c[ui_gray_2] APS suppressor (after modification)
 		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
-		With Misc. Weapons Pack: Specialized weapon mod kit</text>
+		With Misc. Weapons Pack: Specialized weapon mod kit
+		</text>
 	</string>
 	<string id="st_wpn_oc33_rusty">
 		<text>OTs-33 Pernach (rusty)</text>
@@ -1365,7 +1372,8 @@
 	<string id="st_wpn_pkp_descr">
 		<text>The PKP "Pecheneg" is a Russian light machine gun chambered for the 7.62x54mmR round. It is a modernised PKM machine gun. The Pecheneg is said to be more accurate than all its predecessors due to a heavier, non-removable, forced air cooling barrel with radial cooling ribs and a handle which eliminates the haze effect from hot gases and keeps the barrel cooler, making the weapon more reliable.\n
 		%c[ui_gray_2]COMPATIBLE MOD KITS: \n
-		With Boomsticks and Sharpsticks: Specialized weapon mod kit</text>
+		With Boomsticks and Sharpsticks: Specialized weapon mod kit
+		</text>
 	</string>
 	
 	<string id="st_wpn_pm">
@@ -1432,9 +1440,10 @@
 		<text>PPsh-41 (worn)</text>
 	</string>
 	<string id="st_wpn_ppsh41_descr">
-		<text>A major infantry weapon of the Soviet armed forces during World War II, the PPSh-41 was a durable, low-maintenance weapon made of cheap, easily-obtained components. They utilise 7.62x25mm cartridge.\n \n
+		<text>A major infantry weapon of the Soviet armed forces during World War II, the PPSh-41 was a durable, low-maintenance weapon made of cheap, easily-obtained components. They utilise 7.62x25mm cartridge.\n
 		%c[ui_gray_2]COMPATIBLE MOD KITS: Paint weapon kit, Gunsmith weapon mod kit\n
-		With Boomsticks and Sharpsticks: Clear Sky modification kit
+		With Boomsticks and Sharpsticks: Clear Sky modification kit\n
+		With Simple Weapons Pack: Specialized weapon mod kit
 		</text>
 	</string>
 	
@@ -1486,7 +1495,8 @@
 	<string id="st_wpn_rp_descr">
 		<text>Fitted with a skeleton buttstock made from wood as well as a hinged buttplate and a wooden pistol grip. The rear part of the buttstock houses a cleaning kit, and a disassembled cleaning rod is stored in the right leg of the bipod. A very reliable machine gun.\n
 		%c[ui_gray_2]COMPATIBLE MOD KITS: \n
-		With Boomsticks and Sharpsticks: Specialized weapon mod kit</text>
+		With Boomsticks and Sharpsticks: Specialized weapon mod kit
+		</text>
 	</string>
 	
 	<string id="st_wpn_rpd">
@@ -1525,6 +1535,7 @@
 		%c[d_purple] • %c[ui_gray_2] TGP-A suppressor\n
 		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
 		With Boomsticks and Sharpsticks: Specialized weapon mod kit
+		</text>
 	</string>
 	<string id="st_wpn_rpk74_worn">
 		<text>RPK-74N (worn)</text>
@@ -1558,7 +1569,6 @@
 		%c[ui_gray_2]COMPATIBLE MOD KITS: Gunsmith weapon mod kit, Custom weapon mod kit\n
 		With Boomsticks and Sharpsticks: Replacement weapon mod kit, Custom weapon mod kit, Specialized weapon mod kit
 		</text>
-		</text></text>
 	</string>
 	<string id="st_wpn_scar_new">
 		<text>FN SCAR-H (new)</text>
@@ -1579,7 +1589,6 @@
 		%c[d_purple] • %c[ui_gray_2] .45 ACP Suppressor \n
 		%c[ui_gray_2]COMPATIBLE MOD KITS: Custom weapon mod kit\n
 		With Boomsticks and Sharpsticks: Gunsmith weapon mod kit, Specialized weapon mod kit
-		</text>
 		</text>
 	</string>
 	<string id="st_wpn_sig220_nimble">
@@ -1673,8 +1682,9 @@
 	</string>
 	<string id="st_wpn_sks_descr">
 		<text>The SKS is one of the first weapons chambered for the 7.62x39mm round. Replaced in Soviet front-line service by the AK-47 in the early 1950s, it remained in second-line service for decades and is still used as a ceremonial arm today.\n \n
-		%c[ui_gray_2]ATTACHMENTS: \n%c[d_purple]• %c[ui_gray_2] PU scope\n \n
-		%c[ui_gray_2]COMPATIBLE MOD KITS: Gunsmith weapon mod kit
+		%c[ui_gray_2]ATTACHMENTS: \n%c[d_purple]• %c[ui_gray_2] PU scope\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS: Gunsmith weapon mod kit\n
+		With Simple Weapons Pack: Replacement weapon mod kit
 		</text>
 	</string>
 	<string id="st_wpn_sks_modern">
@@ -1778,8 +1788,9 @@
 	</string>
 	<string id="st_wpn_svt40_descr">
 		<text>The SVT-40 is a surplus semi-automatic rifle chambered in the 7.62x54mmR round. It saw widespread use in the Red Army and Wehrmacht during WWII.\n \n
-		%c[ui_gray_2]ATTACHMENTS: \n%c[d_purple]• %c[ui_gray_2] PU special scope\n \n
-		%c[ui_gray_2]COMPATIBLE MOD KITS: Gunsmith weapon mod kit
+		%c[ui_gray_2]ATTACHMENTS: \n%c[d_purple]• %c[ui_gray_2] PU special scope\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS: Gunsmith weapon mod kit (for regular variant)\n
+		With Simple Weapons Pack: Replacement weapon mod kit
 		</text>
 	</string>
 	<string id="st_wpn_svt40_modern">
@@ -2012,7 +2023,8 @@
 		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1 scopes\n
 		%c[d_purple] • %c[ui_gray_2] PBS-1 suppressor\n
 		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
-		With Misc. Weapons Pack: Specialized weapon mod kit</text>
+		With Misc. Weapons Pack: Specialized weapon mod kit
+		</text>
 	</string>
 	
 	<string id="st_wpn_vihr">
@@ -2229,7 +2241,8 @@
 		%c[ui_gray_2]ATTACHMENTS: \n
 		%c[d_purple] • %c[ui_gray_2] Barska ES AC10632, C-more Railway Tactical, EOTech scopes\n
 		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
-		With Misc. Weapons Pack: Specialized weapon mod kit</text>
+		With Misc. Weapons Pack: Specialized weapon mod kit
+		</text>
 	</string>
 	
 	<string id="st_wpn_wa2000">
