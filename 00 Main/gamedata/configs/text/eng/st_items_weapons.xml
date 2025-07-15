@@ -123,7 +123,10 @@
 		<text>The AK-47 can be described as a hybrid of previous rifle technology. Mikhail Kalashnikov designed this automatic rifle combining the best features of the American M1 and the German StG44. The Kalashnikov is a gas operated 7.62x39 assault rifle and by far the most prolific small arm of the 2nd half of the 20th century. It had been and still is, in more or less modified form, manufactured in dozens of countries and has been used in hundreds of conflicts since its introduction.\n \n
 		%c[ui_gray_2]ATTACHMENTS: \n
 		%c[d_purple] • %c[ui_gray_2] PBS-1 suppressor\n%c[d_red] • %c[d_red] None due to the absence of a dovetail mount\n
-		%c[d_purple] • %c[ui_gray_2] GP-25 grenade launcher (after modification)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] GP-25 grenade launcher (after modification)\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		With Misc. Weapons Pack: Specialized weapon mod kit
+		</text>
 	</string>
 	
 	<string id="st_wpn_ak101">
@@ -312,6 +315,8 @@
 		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1 scopes\n
 		%c[d_purple] • %c[ui_gray_2] PBS-4 suppressor\n \n
 		%c[ui_gray_2]COMPATIBLE MOD KITS: Paint weapon kit, Custom weapon mod kit, Specialized weapon mod kit
+		With Misc. Weapons Pack: Specialized weapon mod kit (for AKS-74UN *custom*)
+		</text>
 		</text>
 	</string>
 	<string id="st_wpn_ak74u_old">
@@ -627,7 +632,9 @@
 	</string>
 	<string id="st_wpn_desert_eagle_descr">
 		<text>The IMI Desert Eagle is a semi-automatic handgun notable for chambering the largest centrefire cartridge of any magazine fed, self-loading pistol and also being the heaviest and blockiest gun of its type. No one knows why IMI thought shooting a calibre of this size out of a handgun was a good idea, even though there are plenty of rounds out there that can do the job without breaking your wrist; this one assumes because of a pissing contest between the .44 and .50 AE. Not only is it heavy and harsh in recoil, you can also use it to bludgeon your enemies to death because of its blockiness and weight. Although militaries and law enforcement around the world, in their moment of sanity, never adopted this brick; Hollywood did, mostly because of its "cool factor" and now is the poster child for gangsters and pimps and a status symbol for those who reached a certain rank in a certain console shooter. Rumour is that there's a stalker with a crowbar wandering around the Zone with a rechambered version of this gun, but it's just a rumour.\n
-		%c[ui_gray_2]COMPATIBLE MOD KITS: Gunsmith weapon mod kit, Custom weapon mod kit, Specialized weapon mod kit
+		%c[ui_gray_2]COMPATIBLE MOD KITS: Gunsmith weapon mod kit, Custom weapon mod kit, Specialized weapon mod kit\n
+		With Misc. Weapons Pack: Specialized weapon mod kit (for Desert Eagle *custom*)
+		</text>
 		</text>
 	</string>
 	<string id="st_wpn_desert_eagle_modern">
@@ -766,7 +773,8 @@
 		<text>The H&amp;K G-36 was known as the HK-50 project in early 1990s. After the cancellation of the G11 and G41 projects, the Bundeswehr was left with outdated G3 rifles; Heckler &amp; Koch was set to develop a new assault rifle for both the German army and for export. The new 5.56x45mm assault rifle was adopted by the Bundeswehr in 1995 and also found its way into the hands of various law enforcement agencies worldwide, including British police and some US police departments. So far, there have been very few complaints about this rifle. The more common ones being the overheating of the handguards during sustained fire, and the loss of zero on the built in scope of G36KE rifles. Some German soldiers also complained about the position of the dual optical sights and it being easily fogged in bad weather. Otherwise, it is accurate, reliable and simple in maintenance.\n \n
 		%c[ui_gray_2]ATTACHMENTS: \n
 		%c[d_purple] • %c[ui_gray_2] 5.56x45 compatible suppressor\n \n
-		%c[ui_gray_2]COMPATIBLE MOD KITS: Paint weapon kit
+		%c[ui_gray_2]COMPATIBLE MOD KITS: Paint weapon kit\n
+		With Misc. Weapons Pack: Specialized weapon mod kit
 		</text>
 	</string>
 	<string id="st_wpn_g36_camo">
@@ -945,7 +953,8 @@
 		<text>The Browning Hi-Power is a single-action, 9mm semi-automatic pistol. It is based on the ideas of American firearms inventor John Browning, created and patented in 1922, later patented by FN Herstal. Browning died in 1926, before he had finished developing a production version, but FN arms designer Dieudonne Saive fully developed it. The Hi-Power pistol was noted for its 13 round magazine capacity, twice that of contemporary designs such as the Luger or Mauser 1910. This modified variant of the Browning HP pistol, despite its venerable age, enjoys popularity around the world.\n \n
 		%c[ui_gray_2]ATTACHMENTS: \n
 		%c[d_purple] • %c[ui_gray_2] 9x19 compatible suppressor (after modification)
-		%c[ui_gray_2]COMPATIBLE MOD KITS: Replacement weapon mod kit
+		%c[ui_gray_2]COMPATIBLE MOD KITS: Replacement weapon mod kit\n
+		With Misc. Weapons Pack: Specialized weapon mod kit
 		</text>
 	</string>
 	<string id="st_wpn_hpsa_rusty">
@@ -1063,7 +1072,8 @@
 		%c[d_purple] • %c[ui_gray_2] 5.56x45 compatible suppressor\n
 		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech scopes\n
 		%c[d_purple] • %c[ui_gray_2] M203 grenade launcher (after modification)\n \n
-		%c[ui_gray_2]COMPATIBLE MOD KITS: Paint weapon kit, Custom weapon mod kit
+		%c[ui_gray_2]COMPATIBLE MOD KITS: Paint weapon kit, Custom weapon mod kit\n
+		With Misc. Weapons Pack: Specialized weapon mod kit
 		</text>
 	</string>
 	<string id="st_wpn_lr300_rusty">
@@ -1087,7 +1097,9 @@
 		%c[ui_gray_2]ATTACHMENTS: \n
 		%c[d_purple] • %c[ui_gray_2] 5.56x45 compatible suppressor\n
 		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech scopes\n
-		%c[d_purple] • %c[ui_gray_2] M203 grenade launcher\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] M203 grenade launcher\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		With Misc. Weapons Pack: Specialized weapon mod kit</text>
 	</string>
 	<string id="st_wpn_m16_worn">
 		<text>M16A4 (worn)</text>
@@ -1293,7 +1305,9 @@
 	<string id="st_wpn_oc33_descr">
 		<text>OTs-33 "Pernach" (Russian for multivaned mace) is a recent entry into the small class of Russian automatic pistols. The OTs-33 is a blowback-operated weapon firing the 9x18mm Makarov pistol cartridge in automatic and semi-automatic mode. The Pernach was developed in 1995 to replace the Stechkin APS pistol in special paramilitary units. Designed in 1995 by Igor Stechkin at the TSKIB SOO, Central Design Bureau for Sporting and Hunting arms, Tula, Russia, the same designer who developed the APS.\n \n
 		%c[ui_gray_2]ATTACHMENTS: \n
-		%c[d_purple] • %c[ui_gray_2] APS suppressor (after modification)</text>
+		%c[d_purple] • %c[ui_gray_2] APS suppressor (after modification)
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		With Misc. Weapons Pack: Specialized weapon mod kit</text>
 	</string>
 	<string id="st_wpn_oc33_rusty">
 		<text>OTs-33 Pernach (rusty)</text>
@@ -1368,7 +1382,8 @@
 	</string>
 	<string id="st_wpn_pm_descr">
 		<text>This Soviet legacy is the most common pistol in the Zone and is one of the best compact self-defence handguns available. It is small, highly reliable, easy to use and maintain in working order. It also suffers from several drawbacks, including short range, low firing accuracy and poor stopping power, while also losing out to modern pistols in its class in terms of weight and magazine size. In 1951, the Pistol Makarova was selected because of its simplicity, easy manufacturing, accuracy, and reasonable stopping power. \n
-		%c[ui_gray_2]COMPATIBLE MOD KITS: Custom weapon mod kit
+		%c[ui_gray_2]COMPATIBLE MOD KITS: Custom weapon mod kit\n
+		With Misc. Weapons Pack: Specialized weapon mod kit
 		</text>
 	</string>
 	<string id="st_wpn_pm_rusty">
@@ -1492,7 +1507,9 @@
 		<text>RPK</text>
 	</string>
 	<string id="st_wpn_rpk_descr">
-		<text>The RPK is a Soviet light machine gun, developed by Mikhail Kalashnikov in 1961 based on the Kalashnikov assault rifle. Created as part of Soviet efforts to standardise the armoury of the Red Army, the RPK replaced the RPD and is still in use to present day.\n \n</text>
+		<text>The RPK is a Soviet light machine gun, developed by Mikhail Kalashnikov in 1961 based on the Kalashnikov assault rifle. Created as part of Soviet efforts to standardise the armoury of the Red Army, the RPK replaced the RPD and is still in use to present day.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS: \n
+		With Misc. Weapons Pack: Specialized weapon mod kit</text>
 	</string>
 	<string id="st_wpn_rpk_worn">
 		<text>RPK (worn)</text>
@@ -1675,7 +1692,8 @@
 	</string>
 	<string id="st_wpn_spas12_descr">
 		<text>The SPAS-12 is a dual-mode shotgun, designed for combat and anti-riot measures. It is employed by many special military and police units around the world. With its distinctive heat shield and folding stock, the SPAS-12 is an iconic firearm. Notable for its reliability and tactical flexibility. Despite its heavy weight, complex mechanism and considerable cost, it is in demand in the Zone due to its effectiveness against mutants.\n \n
-		%c[ui_gray_2]COMPATIBLE MOD KITS: Custom weapon mod kit, Specialized weapon mod kit
+		%c[ui_gray_2]COMPATIBLE MOD KITS: Custom weapon mod kit\n
+		With Misc. Weapons Pack: Specialized weapon mod kit
 		</text>
 	</string>
 	<string id="st_wpn_spas12_nimble">
@@ -1730,7 +1748,8 @@
 		%c[ui_gray_2]ATTACHMENTS: \n
 		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1 scopes\n
 		%c[d_purple] • %c[ui_gray_2] KZRZP suppressor (after modification)\n \n
-		%c[ui_gray_2]COMPATIBLE MOD KITS: Custom weapon mod kit
+		%c[ui_gray_2]COMPATIBLE MOD KITS: Custom weapon mod kit\n
+		With Misc. Weapons Pack: Specialized weapon mod kit
 		</text>
 	</string>
 	<string id="st_wpn_svd_nimble">
@@ -1991,7 +2010,9 @@
 		<text>The Vepr-12 is a multi-purpose semi-automatic shotgun, created by Molot-Oruzhie Ltd. It is patterned after Kalashnikov rifles, and built on the heavy RPK light machine gun receiver. Like the Kalashnikov rifle, it is a rotating bolt, gas operated gun that feeds from a 10 round magazine.\n \n
 		%c[ui_gray_2]ATTACHMENTS: \n
 		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1 scopes\n
-		%c[d_purple] • %c[ui_gray_2] PBS-1 suppressor\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] PBS-1 suppressor\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		With Misc. Weapons Pack: Specialized weapon mod kit</text>
 	</string>
 	
 	<string id="st_wpn_vihr">
@@ -2206,7 +2227,9 @@
 	<string id="st_wpn_remington870_descr">
 		<text>Remington 870 is an American gun, first introduced in 1950 by Remington Arms. Due to its characteristic recharge is one of the most famous pump-action rifles in the world. Produced in various versions, it is suitable for both the military and the police, for hunters and athletes, as well as for self-defense.\n \n
 		%c[ui_gray_2]ATTACHMENTS: \n
-		%c[d_purple] • %c[ui_gray_2] Barska ES AC10632, C-more Railway Tactical, EOTech scopes\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] Barska ES AC10632, C-more Railway Tactical, EOTech scopes\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		With Misc. Weapons Pack: Specialized weapon mod kit</text>
 	</string>
 	
 	<string id="st_wpn_wa2000">
