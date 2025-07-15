@@ -1591,7 +1591,8 @@
 	</string>
 	<string id="cs_exo_outfit_description">
 		<text>%c[ui_gray_1]An experimental version of the army exoskeleton smuggled into the Zone from Ukrainian factories before being refurbished by Clear Sky technicians. Generally, suits like these are held in reserve, to be deployed only in times of true crisis. That said, especially trusted comrades and associates of the faction may eventually receive permission to acquire such a suit for their own personal uses, although not without great cost.\n \n
-		%c[ui_gray_2]COMPATIBLE MOD KITS: Loner scrap box
+		%c[ui_gray_2]COMPATIBLE MOD KITS: Loner scrap box\n
+		With Connelly's Unifying Nosorog Tweaks: 'Rhino' Heavy Assault Package
 		</text>
 	</string>
 
@@ -1600,7 +1601,8 @@
 	</string>
 	<string id="ecolog_exo_outfit_description">
 		<text>%c[ui_gray_1]An official version of the military exoskeleton, intended for use by the Ecologists' guards. The suit feels almost impervious to small arms, and its advanced servomotors make it an excellent choice for those in entrenched defensive positions, as it greatly aids in the use of heavy defensive weaponry. When out in the field, wearers of this suit are more commonly used to carrying the ludicrous amount of batteries, LLMCs, AAMs and other supplies an accompanying scientist might need when exploring the Zone.\n \n
-		%c[ui_gray_2]COMPATIBLE MOD KITS: Loner scrap box
+		%c[ui_gray_2]COMPATIBLE MOD KITS: Loner scrap box\n
+		With Connelly's Unifying Nosorog Tweaks: 'Rhino' Heavy Assault Package
 		</text>
 	</string>
 
@@ -1652,7 +1654,7 @@
 	<string id="nosorog_outfit_description">
 		<text>%c[ui_gray_1]A next generation exoskeleton, consisting of a doubly reinforced exosuit and an armoured Czech-M10 gas mask. This suit is rumoured to have been the brainchild of a now deceased stalker named "Fang", whose designs were later claimed by all sorts of powerful factions across the Zone. If regular exoskeletons allow stalkers to feel like a light vehicle, the Nosorog almost makes them believe they're a main battle tank, able to withstand incredible punishment while carrying tremendous ordnance. Typically only available to a faction's most valuable members, and even then only during exceptionally dangerous missions.\n \n
 		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
-		With Connelly's Nosorogs Unified Tweaks: Specialized Nosorog upgrade mod kit (Mercenary Nosorog only)
+		With Connelly's Unifying Nosorog Tweaks: Specialized Nosorog upgrade mod kit (Mercenary Nosorog only)
 		</text>
 	</string>
 	
