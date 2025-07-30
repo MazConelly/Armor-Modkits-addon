@@ -44,7 +44,7 @@
 		<text>9A-91</text>
 	</string>
 	<string id="st_wpn_9a91_descr">
-		<text>The 9A91 is a gas operated, rotating bolt weapon, which utilises a long stroke gas piston, located above the barrel, and a rotating bolt with 4 lugs. The receiver is made from steel stampings, the forend and pistol grip are made from polymer. The steel stock folds up and above the receiver when not in use. The flip up rear sight has settings for 100 and 200 metres range, but the relatively short sight base and steep trajectory of the subsonic bullet restricts the 9A-91 to ranges of about 100 metres.\n \n
+		<text>The 9A91 is a gas operated, rotating bolt weapon, which utilises a long stroke gas piston, located above the barrel, and a rotating bolt with 4 lugs. The receiver is made from steel stampings, the forend and pistol grip are made from polymer. The steel stock folds up and above the receiver when not in use. The flip up rear sight has settings for 100 and 200 meters range, but the relatively short sight base and steep trajectory of the subsonic bullet restricts the 9A-91 to ranges of about 100 meters.\n \n
 		%c[ui_gray_2]ATTACHMENTS: \n
 		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO,  PSO-1M2-1 scopes\n
 		%c[d_purple] • %c[ui_gray_2] 9A-91/VSK-94 suppressor\n \n</text>
@@ -759,7 +759,7 @@
 	<string id="st_wpn_g3_descr">
 		<text>The G3A3 is a battle rifle developed in the 1950s by the German arms manufacturer Heckler &amp; Koch GmbH in collaboration with the Spanish state owned design and development agency CETME (Centro de Estudios Tecnicos de Materiales Especiales). It is designed to use the 7.62x51mm NATO round, and uses a Roller-delayed blowback action. The rifle owes its design to the CETME mod. A, which was designed by the german engineer Dr. Ludwig Vorgrimler. In 1957, Heckler &amp; Koch bought the license to manufacture the rifle, where small modifications were made to the CETME design. Officially adopted into service in 1959, by the Bundeswehr as the G3, it remained in service until 1995 when it was replaced by the G36. Despite having been officially replaced by the German army, it is still in limited use.\n \n
 		%c[ui_gray_2]ATTACHMENTS: \n
-		%c[d_purple] • %c[ui_gray_2] 5.56x45 compatible suppressor\n
+		%c[d_purple] • %c[ui_gray_2] 7.62x51 compatible suppressor\n
 		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech scopes\n \n</text>
 	</string>
 	<string id="st_wpn_g3_worn">
@@ -972,7 +972,7 @@
 		<text>Karabiner 98 Kurz</text>
 	</string>
 	<string id="st_wpn_k98_descr">
-		<text>During World War II, certain Karabiner 98k rifles were selected for their exceptional accuracy and fitted with the ZF39 telescopic sight. These rifles were used by Nazi Germany as sniper rifles. In skilled hands, they had an effective range of up to 1000 metres.\n \n
+		<text>During World War II, certain Karabiner 98k rifles were selected for their exceptional accuracy and fitted with the ZF39 telescopic sight. These rifles were used by Nazi Germany as sniper rifles. In skilled hands, they had an effective range of up to 1000 meters.\n \n
 		%c[ui_gray_2]ATTACHMENTS: \n
 		%c[d_purple] • %c[ui_gray_2] ZF scope series\n
 		%c[d_purple] • %c[ui_gray_2] 5.56x45 compatible suppressor (alternate)\n \n</text>
@@ -1144,9 +1144,9 @@
 		%c[ui_gray_2]ATTACHMENTS: \n
 		%c[d_purple] • %c[ui_gray_2] 5.56x45 compatible suppressor\n
 		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech scopes\n
-		%c[d_purple] • %c[ui_gray_2] M203 grenade launcher\n \n
+		%c[d_purple] • %c[ui_gray_2] M203 grenade launcher\n
 		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
-		With Boomsticks and Sharpsticks: Custom weapon mod kit, Specialized weapon mod kit
+		With Boomsticks and Sharpsticks: Custom weapon mod kit, Specialized weapon mod kit, Freedom modification kit
 		</text>
 	</string>
 	<string id="st_wpn_m4_worn">
@@ -1167,7 +1167,7 @@
 		%c[ui_gray_2]ATTACHMENTS: \n
 		%c[d_purple] • %c[ui_gray_2] 5.56x45 compatible suppressor\n
 		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech scopes\n
-		%c[d_purple] • %c[ui_gray_2] M203 grenade launcher (after modification)\n \n
+		%c[d_purple] • %c[ui_gray_2] M203 grenade launcher (after modification)\n
 		%c[ui_gray_2]COMPATIBLE MOD KITS: Paint weapon kit, Custom weapon mod kit, Freedom modification kit
 		</text>
 	</string>
@@ -1755,7 +1755,7 @@
 		<text>SVD (customised)</text>
 	</string>
 	<string id="st_wpn_svd_descr">
-		<text>Originally intended for designated marksmen in every basic Soviet infantry unit, the Dragunov SVD was not designed for specialised sniper teams. Relatively light for a sniper rifle but well-balanced and having semiautomatic fire, its precision is good but not exceptional. It has an effective range of up to 800 metres.\n \n
+		<text>Originally intended for designated marksmen in every basic Soviet infantry unit, the Dragunov SVD was not designed for specialised sniper teams. Relatively light for a sniper rifle but well-balanced and having semiautomatic fire, its precision is good but not exceptional. It has an effective range of up to 800 meters.\n \n
 		%c[ui_gray_2]ATTACHMENTS: \n
 		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1 scopes\n
 		%c[d_purple] • %c[ui_gray_2] KZRZP suppressor (after modification)\n \n
@@ -1776,7 +1776,7 @@
 		<text>SVD (rusty)</text>
 	</string>
 	<string id="st_wpn_svd_rusty_descr">
-		<text>Originally intended for designated marksmen in every basic Soviet infantry unit, the Dragunov SVD was not designed for specialised sniper teams. Relatively light for a sniper rifle but well-balanced and having semiautomatic fire, its precision is good but not exceptional. It has an effective range of up to 800 metres. This variant is in bad condition, which results in higher misfire probability.\n \n
+		<text>Originally intended for designated marksmen in every basic Soviet infantry unit, the Dragunov SVD was not designed for specialised sniper teams. Relatively light for a sniper rifle but well-balanced and having semiautomatic fire, its precision is good but not exceptional. It has an effective range of up to 800 meters. This variant is in bad condition, which results in higher misfire probability.\n \n
 		%c[ui_gray_2]ATTACHMENTS: \n
 		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1 scopes\n%c[d_red] • %c[d_red] mounting suppressor is not possible\n \n</text>
 	</string>
@@ -2042,7 +2042,7 @@
 		<text>VSS Vintorez</text>
 	</string>
 	<string id="st_wpn_vintorez_1pn93_descr">
-		<text>Designed at TsNIITochMash by Peter Serdyukov and his team, the new rifle was intended for various Spetsnaz troops of the Soviet Army, KGB and MVD. The VSS is quite popular among its users for its stealthy capabilities and the great lethality of the heavy 9x39mm bullets. The effective range of the VSS is limited to 300-400 metres. Standard sighting equipment consists of side rail on the receiver, which usually accommodates the 4x  PSO-1M2-1 scope. Any other scope or night vision sight can be mounted on the appropriate mount. Backup iron sights consist of tangent rear and blade front. The rear sight is graduated for up to 400 metres.\n \n
+		<text>Designed at TsNIITochMash by Peter Serdyukov and his team, the new rifle was intended for various Spetsnaz troops of the Soviet Army, KGB and MVD. The VSS is quite popular among its users for its stealthy capabilities and the great lethality of the heavy 9x39mm bullets. The effective range of the VSS is limited to 300-400 meters. Standard sighting equipment consists of side rail on the receiver, which usually accommodates the 4x  PSO-1M2-1 scope. Any other scope or night vision sight can be mounted on the appropriate mount. Backup iron sights consist of tangent rear and blade front. The rear sight is graduated for up to 400 meters.\n \n
 		%c[ui_gray_2]ATTACHMENTS: \n
 		%c[d_purple] • %c[ui_gray_2] 1PN93 "Tot" scope (integrated)\n
 		%c[d_purple] • %c[ui_gray_2] VSS suppressor (integrated)\n
@@ -2054,7 +2054,7 @@
 		<text>VSS Vintorez (alternate)</text>
 	</string>
 	<string id="st_wpn_vintorez_descr">
-		<text>Designed at TsNIITochMash by Peter Serdyukov and his team, the new rifle was intended for various Spetsnaz troops of the Soviet Army, KGB and MVD. The VSS is quite popular among its users for its stealthy capabilities and the great lethality of the heavy 9x39mm bullets. The effective range of the VSS is limited to 300-400 metres. Standard sighting equipment consists of side rail on the receiver, which usually accommodates the 4x  PSO-1M2-1 scope. Any other scope or night vision sight can be mounted on the appropriate mount. Backup iron sights consist of tangent rear and blade front. The rear sight is graduated for up to 400 metres.\n \n
+		<text>Designed at TsNIITochMash by Peter Serdyukov and his team, the new rifle was intended for various Spetsnaz troops of the Soviet Army, KGB and MVD. The VSS is quite popular among its users for its stealthy capabilities and the great lethality of the heavy 9x39mm bullets. The effective range of the VSS is limited to 300-400 meters. Standard sighting equipment consists of side rail on the receiver, which usually accommodates the 4x  PSO-1M2-1 scope. Any other scope or night vision sight can be mounted on the appropriate mount. Backup iron sights consist of tangent rear and blade front. The rear sight is graduated for up to 400 meters.\n \n
 		%c[ui_gray_2]ATTACHMENTS: \n
 		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1M2-1 scopes\n
 		%c[d_purple] • %c[ui_gray_2] VSS suppressor (integrated)\n \n
@@ -2065,7 +2065,7 @@
 		<text>VSS Vintorez "Tide"</text>
 	</string>
 	<string id="st_wpn_vintorez_nimble_descr">
-		<text>A special variant of the famous VSS sniper rifle. This model has been extensively customised. Its internal mechanism has been replaced with a better one, which results in increased muzzle velocity and accuracy. It has an effective range of up to 600 metres.\n \n
+		<text>A special variant of the famous VSS sniper rifle. This model has been extensively customised. Its internal mechanism has been replaced with a better one, which results in increased muzzle velocity and accuracy. It has an effective range of up to 600 meters.\n \n
 		%c[ui_gray_2]ATTACHMENTS: \n
 		%c[d_purple] • %c[ui_gray_2] PSO-1 scope (integrated)\n
 		%c[d_purple] • %c[ui_gray_2] VSS suppressor (integrated)\n \n</text>
@@ -2325,7 +2325,7 @@ Grenades
 		<text>F1 grenade</text>
 	</string>
 	<string id="st_grenade_f1_descr">
-		<text>A defensive hand grenade, with fragments capable of piercing medium level body armour. The grenade has an approximately 4 metre kill radius. Stalkers get F1 grenades from trading with the military, who write them off as having been used for fighting mutants.\n \n
+		<text>A defensive hand grenade, with fragments capable of piercing medium level body armour. The grenade has an approximately 4 meter kill radius. Stalkers get F1 grenades from trading with the military, who write them off as having been used for fighting mutants.\n \n
 		%c[d_purple] • %c[ui_gray_2] Blast power: %c[ui_gray_1]high\n
 		%c[d_purple] • %c[ui_gray_2] Blast radius: %c[ui_gray_1]4.2 m\n
 		%c[d_purple] • %c[ui_gray_2] Fragments' radius: %c[ui_gray_1]48 m\n
@@ -2337,7 +2337,7 @@ Grenades
 		<text>RGD-5 grenade</text>
 	</string>
 	<string id="st_grenade_rgd5_descr">
-		<text>An offensive hand grenade with a small kill zone of about 3 metres. Often used by stalkers to "smoke out" mutants due to its relatively low cost.\n \n
+		<text>An offensive hand grenade with a small kill zone of about 3 meters. Often used by stalkers to "smoke out" mutants due to its relatively low cost.\n \n
 		%c[d_purple] • %c[ui_gray_2] Blast power: %c[ui_gray_1]medium\n
 		%c[d_purple] • %c[ui_gray_2] Blast radius: %c[ui_gray_1]3,2 m\n
 		%c[d_purple] • %c[ui_gray_2] Fragments' radius: %c[ui_gray_1]43 m\n
