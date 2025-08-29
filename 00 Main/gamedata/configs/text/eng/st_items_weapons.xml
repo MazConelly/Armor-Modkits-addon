@@ -355,7 +355,9 @@
 		%c[ui_gray_2]ATTACHMENTS: \n
 		%c[d_purple] • %c[ui_gray_2] PBS-1 suppressor\n
 		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1 scopes\n
-		%c[d_purple] • %c[ui_gray_2] GP-25 grenade launcher (after modification)\n \n</text>
+		%c[d_purple] • %c[ui_gray_2] GP-25 grenade launcher (after modification)\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		With Boomsticks and Sharpsticks: Custom weapon mod kit</text>
 	</string>
 	<string id="st_wpn_akm_worn">
 		<text>AKMN (worn)</text>
@@ -1140,7 +1142,7 @@
 		<text>M4A1 RAS</text>
 	</string>
 	<string id="st_wpn_m4_descr">
-		<text>The M4 Carbine descends from a family of firearms tracing its lineage back to earlier carbine versions of the M16, all based on the original AR-15 made by ArmaLite. It is a shorter and lighter version of the M16 assault rifle, sharing 80% of its parts. The M4 fires 5.56x45mm NATO ammunition and are gas operated, air cooled, magazine fed, selective fire firearms with a 4 position telescoping stock. As with many carbines, the M4 is handy and more convenient to carry than a full length rifle. It has been adopted by United States Special Operations Command (USSOCOM) and is the preferred weapon of the U.S. Army Special Forces and Navy SEALs.\n \n
+		<text>The M4 Carbine descends from a family of firearms tracing its lineage back to earlier carbine versions of the M16, all based on the original AR-15 made by ArmaLite. It is a shorter and lighter version of the M16 assault rifle, sharing 80% of its parts. The M4 fires 5.56x45mm NATO ammunition and are gas operated, air cooled, magazine fed, selective fire firearms with a 4 position telescoping stock. As with many carbines, the M4 is handy and more convenient to carry than a full length rifle. It has been adopted by United States Special Operations Command (USSOCOM) and is the preferred weapon of the U.S. Army Special Forces and Navy SEALs.\n
 		%c[ui_gray_2]ATTACHMENTS: \n
 		%c[d_purple] • %c[ui_gray_2] 5.56x45 compatible suppressor\n
 		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech scopes\n
@@ -1163,12 +1165,13 @@
 		<text>M4A1 (custom)</text>
 	</string>
 	<string id="st_wpn_m4a1_descr">
-		<text>Ideal for CQC (Close Quarters Combat), the M4A1 carbine is a fully automatic variant of the M16A2 assault rifle. In military use, it has largely replaced the submachine guns firing pistol cartridges that are inadequate against modern body armour. The M4A1 is a modified variant of the M4 carbine able to fire automatic or semi-automatic.\n \n
+		<text>Ideal for CQC (Close Quarters Combat), the M4A1 carbine is a fully automatic variant of the M16A2 assault rifle. In military use, it has largely replaced the submachine guns firing pistol cartridges that are inadequate against modern body armour. The M4A1 is a modified variant of the M4 carbine able to fire automatic or semi-automatic.\n
 		%c[ui_gray_2]ATTACHMENTS: \n
 		%c[d_purple] • %c[ui_gray_2] 5.56x45 compatible suppressor\n
 		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech scopes\n
 		%c[d_purple] • %c[ui_gray_2] M203 grenade launcher (after modification)\n
-		%c[ui_gray_2]COMPATIBLE MOD KITS: Paint weapon kit, Custom weapon mod kit, Freedom modification kit
+		%c[ui_gray_2]COMPATIBLE MOD KITS: Paint weapon kit, Custom weapon mod kit, Freedom modification kit\n
+		With M4 Re-imagined: Only Freedom modification kit
 		</text>
 	</string>
 	<string id="st_wpn_m4a1_freedom">
@@ -1962,9 +1965,9 @@
 		<text>USP45 (custom)</text>
 	</string>
 	<string id="st_wpn_usp_descr">
-		<text>Originally designed for the American market, the USP, Universal Self loading Pistol, is known as an accurate and reliable handgun. U.S. law enforcement and military provided much of the design criteria for the USP. The controls are uniquely American, influenced by famous designs like the Government Model 1911 pistol. All USPs use a fibre-reinforced polymer frame stiffened by stainless steel inserts at areas subject to stress and friction. Incorporating several successful handgun design elements, the USP Compact .45 is a part of the USP family of handguns designed by H&amp;K. Able to withstand extreme punishment and adverse conditions, it is used by several countries' police and special forces units.\n \n
+		<text>Originally designed for the American market, the USP, Universal Self loading Pistol, is known as an accurate and reliable handgun. U.S. law enforcement and military provided much of the design criteria for the USP. The controls are uniquely American, influenced by famous designs like the Government Model 1911 pistol. All USPs use a fibre-reinforced polymer frame stiffened by stainless steel inserts at areas subject to stress and friction. Incorporating several successful handgun design elements, the USP Compact .45 is a part of the USP family of handguns designed by H&amp;K. Able to withstand extreme punishment and adverse conditions, it is used by several countries' police and special forces units.\n
 		%c[ui_gray_2]ATTACHMENTS: \n
-		%c[d_purple] • %c[ui_gray_2] .45 ACP suppressor (after modification)
+		%c[d_purple] • %c[ui_gray_2] .45 ACP suppressor (after modification)\n
 		%c[ui_gray_2]COMPATIBLE MOD KITS: Replacement weapon mod kit, Custom weapon mod kit
 		</text>
 	</string>
