@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<string id="st_wpn_ak101_sp_descr">
+		<text>The AK-101 Custom has been modified by technicians of the Zone to enhance the charactersitsc of the original AK-101. The front guard rail, dust cover, and stock have all been upgraded for better accuracy and modularity when it comes to accessories.
+		The muzzle device has also been replaced with one better suited to 5.56 rounds and as a result can also use a SOCOM supressor. Because the barrel is enclosed by the front guard, the "Guard" 30mm grenade launcher must be used instead of the standard GP-25.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Specialized weapon mod kit</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+<!-- Novice outfits -->
+	<string id="novice_outfit_description">
+		<text>%c[ui_gray_1]A warm leather anorak worn over a cosy turtleneck sweater, tucked into sturdy jeans and hiking boots. The outfit of choice among naive or inexperienced stalkers, veterans consider it barely a step above walking around the Zone in your underwear.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Jacket patching, Loner scrap box\n</text>
+	</string>
+
+	<string id="novice_outfit_camo_description">
+		<text>%c[ui_gray_1]A warm leather anorak worn over a cosy turtleneck sweater, tucked into sturdy jeans and hiking boots. Formerly owned by a typical firearm enthusiast, it sports several advantages over an ordinary jacket - namely a camouflage pattern and a higher quality material choice alongside a more educated weight distribution system. Still utterly inadequate for the Zone's harsh conditions.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Jacket patching kit\n</text>
+	</string>
+
+	<string id="novice_outfit_tourist_description">
+		<text>%c[ui_gray_1]A warm leather anorak with an integrated backpack, worn over a cosy turtleneck sweater, tucked into sturdy jeans and hiking boots. It seems the previous owner was a real lover for hikes. The educated choice of materials and weight management system makes this more useful than most leather jackets, but is still unsuitable for anything more than quiet walks along the Zone's borders.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Jacket patching kit\n</text>
+	</string>
+
+	<string id="csky_novice_outfit_description">
+		<text>%c[ui_gray_1]A soft blue leather anorak worn over a cosy turtleneck sweater, tucked into sturdy jeans and hiking boots. These simple suits are assembled in large quantities by Clear Sky's tailors for use within the faction. Not recommended for use outside the southernmost parts of the Zone.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Clear Sky modification kit\n</text>
+	</string>
+
+
+
+<!-- Overcoats -->
+	<string id="trenchcoat_outfit_description">
+		<text>%c[ui_gray_1]A long, thick overcoat. The protection offered by this apparel can vary tremendously depending on the tailor, but as a general rule is only slightly less useless than the leather jacket. Still, many newer stalkers will swear by it simply because it looks so damn cool.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Overcoat leather tools, Duty, Freedom, Monolith modification kits\n</text>
+	</string>
+
+	<string id="trenchcoat_brown_outfit_description">
+		<text>%c[ui_gray_1]A long, thick overcoat worn over a butchered scientist suit. Although the closed cycle system and several other features seem to have been stripped off for whatever reason, the end result still compares favourably to many basic stalker suits.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Overcoat leather tools kit\n
+		%c[d_purple] • %c[ui_gray_2] Expanded Armor Pack: Mercenary modification kit\n</text>
+	</string>
+
+	<string id="trenchcoat_green_outfit_description">
+		<text>%c[ui_gray_1]A long, thick green overcoat worn over a butchered scientist suit. Although the closed cycle system and several other features seem to have been stripped off for whatever reason, the end result still compares favourably to many basic stalker suits.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Overcoat leather tools kit\n</text>
+	</string>
+
+	
+
+<!-- Exploration -->
+	<string id="wastelander_outfit_description">
+		<text>%c[ui_gray_1]A Zone-assembled suit that has been handmade by local craftsmen as a matter of survival. This particular outfit is of high quality, and comes with an integrated Czech-M10 gas mask. It compares favourably to many other locally made suits, but is often held back by its incompatability with other helmets, a trait which cuts down on how useful or adaptable the suit can be.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] New High End Outfits: SKAT armor mod kit\n</text>
+	</string>
+
+<!-- CS outfits -->
+	<string id="csky_light_novice_outfit_description">
+		<text>%c[ui_gray_1]A light suit worn by Clear Sky's novice researchers. It provides more than adequate protection from the anomalous phenomena in the Swamps, but does little to protect from physical threats or radiological phenomena.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Clear Sky modification kit\n</text>
+	</string>
+
+	<string id="csky_medium_outfit_description">
+		<text>%c[ui_gray_1]A heavier but still comfortable outfit worn by members of Clear Sky that provides more than adequate general protection, especially in combat. However, the armour is also highly conductive and susceptible to corrosion.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: SKAT armor mod kit\n</text>
+	</string>
+
+	
+
+<!-- NBC outfits -->
+	<string id="nbc_outfit_description">
+		<text>%c[ui_gray_1]A budget CBRN suit with a kevlar vest. Outfits like these are mass-produced in factories outside the Zone for use in long-term military operations and disaster clean-ups all over the world. It comes standard with a GP-5 gas mask using a hose leading to a modern filter. Although clearly not made with the Zone's specific conditions in mind, it's nonetheless a popular choice among those who appreciate efficient weight distribution systems, and the overall protection is still comparable to an average stalker suit.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Clear Sky, Duty, Freedom, Mercenary, Monolith modification kits\n
+		%c[d_purple] • %c[ui_gray_2] Expanded Armor Pack: Mercenary, Loner Scrap Box kits\n</text>
+	</string>
+
+	
+	
+<!-- Assault vest -->
+	<string id="light_loner_outfit_description">
+		<text>%c[ui_gray_1]An old IBA suit imported from the West and modified for the Zone's conditions. It's a little heavy, but provides fair anomaly protection along with good anti-ballistic characteristics. Sometimes worn by stalkers hired as auxiliaries to help fight wars between factions, this suit significantly improves one's chance of surviving a skirmish compared to regular stalker gear.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Duty, Freedom, Mercenary, Monolith modification kits\n</text>
+	</string>
+
+
+
+<!-- Sunrise suits -->
+	<string id="stalker_outfit_description">
+		<text>%c[ui_gray_1]A Zone-assembled suit that has been handmade by local craftsmen as a matter of survival. Made of twin-layered rubberised cloth with plexiglass lining and integrated body armour, the Sunrise is one of the oldest stalker suits in existence. It is also widely considered the BARE MINIMUM protection a stalker should have for serious trips into the Zone. Despite this, it enjoys immense popularity among rookies and veteran stalkers alike thanks to its economical use and great modification potential.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: 'Sunrise' Camouflage, 'Pathfinder' SEVA Upgrade, 'Ace' SEVA Upgrade, Exoskeleton Installation, Clear Sky, Duty, Freedom, Loner scrap box kits\n</text>
+	</string>
+
+	<string id="stalker_drought_outfit_description">
+		<text>%c[ui_gray_1]A Zone-assembled suit that has been handmade by local craftsmen as a matter of survival. For a stalker suit, the Drought possesses marginally better ballistic protection than average, but is also considerably less comfortable to wear. On the plus side, it comes with several belt slots. While intended for artefacts, these slots are most often filled with camelbacks to offset the extra weight of the suit, which is partially what earned it the ironic nickname of "Drought". Like the Sunrise, it is hugely popular for its relatively low cost and great modification potential.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: 'Sunrise' Camouflage Mod kit\n</text>
+	</string>
+
+	<string id="stalker_predator_outfit_description">
+		<text>%c[ui_gray_1]A Zone-assembled suit that has been handmade by local craftsmen as a matter of survival. An overall upgrade over the "Drought" suit, the "Predator" features similar protection in a gunfight while also being significantly more comfortable to wear. For this reason, it can be a favoured choice among any stalker who needs a little more protection and a lot more mobility than what the average stalker suit can afford. Like most stalker suits, it enjoys popularity among greenhorns and experts alike thanks to its low maintenance costs and great modification potential.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: 'Sunrise' Camouflage Mod kit\n</text>
+	</string>
+
+	<string id="stalker_autumn_outfit_description">
+		<text>%c[ui_gray_1]A Zone-assembled suit that has been handmade by local craftsmen as a matter of survival. This suit is a favourite among newer artefact hunters and creative hitmen, as it allows one to either traverse - or hide within - chemical anomaly fields with much greater ease than a stalker suit would normally allow. It is also slightly more comfortable to wear than the average stalker suit, despite further featuring enhanced ballistic protecion. As it is only slightly more expensive than the Sunrise suit, it's a good choice for stalkers willing to spring that little bit further with their Rubles.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: 'Sunrise' Camouflage Mod kit\n</text>
+	</string>
+
+	<string id="stalker_bear_outfit_description">
+		<text>%c[ui_gray_1]A Zone-assembled suit, handmade by local craftsmen as a matter of survival. Slightly heavier than other stalker suits, some still take it along due to its improved protection against ballistics and potent insulation against thermal threats. Sadly this insulation is achieved not through conventional fabrics, but rather through an unnamed home-made anomalous compound created through trial and error. The side effect of this is that the wearer's body is much more likely to be overloaded by electrical shocks. Most often used by stalkers working in the Burner anomalies near Yantar.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: 'Sunrise' Camouflage Mod kit\n</text>
+	</string>
+
+	<string id="stalker_salamander_outfit_description">
+		<text>%c[ui_gray_1]A Zone-assembled suit that has been handmade by local craftsmen as a matter of survival. This suit was designed for stalkers who place value on observation and exploration - it has about average protection for a stalker suit in combat (which can be avoided) or against anomalies (which can be spotted), but grants exceptional defence against radiation. A good choice for those who are highly aware of their surroundings and simply need something to stave off the Invisible Killer. Ironically, for something dubbed the "Salamander", it demonstrates a poor ability to safely channel heat. Like all stalker suits, however, it is an economical choice with great upgrade potential.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: 'Sunrise' Camouflage Mod kit\n</text>
+	</string>
+
+	<string id="stalker_graphite_outfit_description">
+		<text>%c[ui_gray_1]A Zone-assembled suit that has been handmade by local craftsmen as a matter of survival. It was independently designed by a few optimistic stalkers who were expecting to take measurements of psy-storms out in the open. Naturally, this endeavour failed, but their designs were later recovered and used to produce a stalker suit, able to shelter the wearer's nervous system. Somewhat prone to overheating and not too good against chemical spills. An infrequent, and somewhat outdated, joke among modern stalkers is to throw the suit on the floor and then pretend it isn't there.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: 'Sunrise' Camouflage Mod kit\n</text>
+	</string>
+
+	<string id="stalker_tigerstripe_outfit_description">
+		<text>%c[ui_gray_1]A Zone-assembled suit that has been handmade by local craftsmen as a matter of survival. One of the heavier stalker suits available, this outfit was designed for those who prefer to make their money as hired killers or fighters instead of looting artefacts or skinning mutants. Compared to the average stalker suit, it provides marginally better protection against ballistics and a genuine improvement in defence against shrapnel, cuts and blunt impacts. Compared to many other combat suits, however, this apparel's main draw lies simply in how cheap it is to maintain.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: 'Sunrise' Camouflage Mod kit\n</text>
+	</string>
+
+	<string id="ecologist_guard_outfit_description">
+		<text>%c[ui_gray_1]A basic suit originally intended as spare equipment for Professor Hermann's "Iskra Scientific Research and Investigation Team", it has since become a relatively cheap protective bodysuit for Ecologist guards working all over the Zone. Boasts more than adequate anomaly protection for its price, but will generally struggle to stop more than a pistol bullet. Most guards will spring for a SEVA or SSP-99M when they can. Those who expect to take part in serious combat actions will rather stick to proper Military combat suits.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Exoskeleton Installation kit\n</text>
+	</string>
+
+	<string id="cs_stalker_outfit_description">
+		<text>%c[ui_gray_1]Unlike other suits in the CS-1, 2 and 3 series, this body armour was only created after the faction's massive losses at the Chernobyl NPP. It is widely considered to be the first proper successor to the CS-1 suit as it focuses on keeping the wearer safe from anomalous environments over armouring them for battle. Provides adequate physical protection and good environmental resistances.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Exoskeleton Installation, Clear Sky, Loner scrap box kits\n</text>
+	</string>
+
+
+<!-- STS (Special Tactical Suits) -->
+	<string id="svoboda_light_outfit_description">
+		<text>%c[ui_gray_1]This comfortable stalker bodysuit is made by Freedom craftsmen. The suit’s fabric is treated with Horizon, a special solution developed by the faction by trial and error, to increase resistance to chemical anomalies. One can only guess what the side effects might be.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Exoskeleton Installation kit\n</text>
+	</string>
+
+	<string id="monolith_outfit_description">
+		<text>%c[ui_gray_1]A mysterious outfit associated with the Monolith faction. It consists of an environmental bodysuit that provides more than adequate chemical and radiological protection, underneath a ballistic vest capable of stopping weak pistol rounds. Its anomaly protection, however, is subpar. Previously of unknown origin, scores of these suits were found in containers and lockers underneath the X18 facility in Dark Valley. Although the stalkers who found this cache have since all mysteriously disappeared, this discovery has nonetheless launched thousands of conspiracy theories among stalkers of other factions, the premise of many claiming that these suits predate the creation of the Zone itself.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Exoskeleton Installation kit\n</text>
+	</string>
+
+	<string id="merc_sun_outfit_description">
+		<text>%c[ui_gray_1]A Zone-assembled suit, made by local craftsmen as a matter of survival. Clearly, the resident Mercenaries have taken a leaf out of the Free Stalkers' book, and have begun to locally produce some of their own outfits. Shows signs of inspiration from the Monolith X-18 suit - an outfit the Mercs no doubt try to salvage from their costly skirmishes in Limansk. Overall of good quality, most Mercenaries find it more than adequate for mid-level operations south of Radar.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Mercenary Tactical mod kit\n</text>
+	</string>
+
+	<string id="merc_nighthunter_outfit_description">
+		<text>%c[ui_gray_1]Sometimes nicknamed the "Nighthunter", this outfit is a slightly heavy special tactical suit, used by Mercenaries in both nocturnal and urban combat scenarios. In terms of design and performance, it strikes a good balance between typical Spetsnaz armour and a common stalker suit. It possesses more than adequate protection for skirmishes, but is generally considered mediocre by those who prefer artefact hunting contracts over fulfilling hit jobs.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Mercenary Tactical mod kit\n</text>
+	</string>
+
+	<string id="merc_wolven_outfit_description">
+		<text>%c[ui_gray_1]Sometimes nicknamed the "Wolven", this outfit is a comfortable special tactical suit, used by Mercenaries in both exploratory expeditions and stealth operations. This suit possesses good anomaly protection for its class, allowing the wearer to move through - or hide in - dangerous anomalous fields in relative safety. Naturally useful for artefact hunting, this protection also allows large teams of Mercenaries to set up ambushes in unexpected locations, allowing them to take down targets considered too tough for more orthodox methods.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Mercenary Tactical mod kit\n</text>
+	</string>
+
+	<string id="isg_merc_outfit_description">
+		<text>%c[ui_gray_1]An improvement over the original Mk-1 design, this outfit is much better suited for the Zone's conditions. Its overall protection against anomalies is more than adequate, and particularly great protection is afforded against chemical, toxic or thermal hazards. These improvements were commissioned by UNISG based on the limited data that could be recovered from their less fortunate predecessors. Still, wearers are encouraged to avoid contact with local stalkers as often as possible.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Exoskeleton Installation kit\n</text>
+	</string>
+	
+	
+<!-- LCS (Light Combat Suit) -->
+	<string id="merc_outfit_description">
+		<text>%c[ui_gray_1]The "Light Combat Suit" is one of the most common outfits used by the Zone's Mercenaries. Its design is based on the suit used by the special forces of Western armies. Due to a special treatment of the fabric, the armour has a strengthened stability during the physical movement of its plates. Adequate for basic operations, but quite poor in quality compared to standard Spetsnaz gear, and was quite obviously not designed with the existence of anomalies in mind.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Mercenary Light Armor Mod kit\n</text>
+	</string>
+
+	<string id="merc_fighter_outfit_description">
+		<text>%c[ui_gray_1]Sometimes bitterly referred to as the "Fighter" by sarcastic Mercenaries, this suit is a variation of the standard LC outfit that has sacrificed a great deal of protection for increased mobility, better thermal protection and a belt slot for artefacts. It can perform surprisingly well in operations where stealth and speed are imperative, and thus finds limited used among Merc scouts and hitmen who operate in the less irradiated parts of the Zone.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Mercenary Light Armor Mod kit\n</text>
+	</string>
+
+	<string id="merc_sunset_outfit_description">
+		<text>%c[ui_gray_1]A Mercenary Light Combat Suit modified for better use in the Zone. Possessing overall improvements over the standard LC suit across the board, it is generally considered more than adequate for light combat engagements, but a little uncomfortable to use in anomalous areas. Still, this suit is a genuine improvement all around for most newer Mercenaries, and - for general use - is not a bad alternative to the faction's special tactical suits.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Mercenary Light Armor Mod kit\n</text>
+	</string>
+
+	<string id="merc_scout_outfit_description">
+		<text>%c[ui_gray_1]Nicknamed the "Scout", this outfit is, essentially, an LC-F suit modified to fill a more specialized niche. While a little heavier and less protective in combat than an LC-F, it is still a very comfortable suit. A cheap source of environmental protection, this suit's modifications make it a good choice for Mercenaries who want to explore the Zone's anomalies on a budget.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Mercenary Light Armor Mod kit\n</text>
+	</string>
+
+	<string id="merc_jackal_outfit_description">
+		<text>%c[ui_gray_1]A light tactical suit, nicknamed "Jackal" after the now dead Merc leader who was assigned to crack open a laboratory named X-8 over six years ago. This outfit provides more-or-less adequate protection from the Zone's dangers, but what sets it apart is how marvellously comfortable it is on top of possessing a fairly sophisticated weight distribution system. This, on top of a relatively affordable price, makes it a favourite among slightly more experienced Mercenaries.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Mercenary Light Armor Mod kit\n</text>
+	</string>
+
+	<string id="merc_coyote_outfit_description">
+		<text>%c[ui_gray_1]A medium tactical suit, nicknamed the "Coyote". Widely considered the successor of the LTS-J body suit, this outfit boasts better physical protection on top of an even better weight distribution system. Naturally, its price is higher than that of its predecessor, but this won't stop most Mercs from springing for it when they are able.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Mercenary Light Armor Mod kit\n</text>
+	</string>
+
+	<string id="dolg_voin_outfit_description">
+		<text>%c[ui_gray_1]A modern, updated variant of the original PS5-M universal protection bodysuit. Is more than adequate for all of the Zone's conditions as well as being markedly comfortable for a Duty suit. Originally intended to replace its predecessor entirely, its higher production cost put this goal on hold in the face of Duty's multitude of recent losses.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Duty PS5 Armor Mod kit\n
+		%c[d_purple] • %c[ui_gray_2] New High End Outfits: SKAT armor mod kit\n</text>
+	</string>
+
+
+
+<!-- Berill-5M Armoured Suits -->
+	<string id="specops_outfit_description">
+		<text>%c[ui_gray_1]This item comprises military PS5 series body armour with beryllium sputter modified for use in the Zone. Designed for intense rapid-insertion assault operations, this outfit is standard issue for most Spetsnaz operators in the Zone, but requires a high quality respirator to counteract its weaknesses against radiation and anomalies. Occasionally, this suit will be sold to ordinary stalkers in exchange for various "favours".\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Duty, Freedom, Mercenary modification kits\n</text>
+	</string>
+
+	<string id="specops_dolg_outfit_description">
+		<text>%c[ui_gray_1]This item comprises military PS5 series body armour with beryllium sputter modified for use in the Zone. Compared to a standard PS5-M universal protection suit, this outfit is more ergonomic and protective overall, but is slightly less insulated and provides much less defence against heavy impacts, like a poltergeist's telekinetic attack.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Duty modification kit\n</text>
+	</string>
+
+	<string id="svoboda_heavy_outfit_description">
+		<text>%c[ui_gray_1]A set of Spetsnaz body armour that has been "liberated" for use in the Freedom faction. This suit has been treated with "Sovereign", an anomalous compound invented by the faction through trial and error. As such, it provides reasonable protection against the Zone's hazards on top of being a good combat suit. Any Freedomer expected to help defend the Barrier will do their best to get their hands on this suit, or at least something like it.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] New High End Outfits: SKAT armor mod kit\n</text>
+	</string>
+
+
+
+<!-- PS5-M Universal protection suit -->
+	<string id="dolg_outfit_description">
+		<text>%c[ui_gray_1]This old version of the Duty bodysuit is better suited for recruits who may prefer the familiarity of stalker suits over frontline battle armour. Unlike the PSZ series, the suit provides reasonable protection against anomalies while also being capable of stopping a pistol bullet.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Duty PS5 Armor, Exoskeleton Installation, SKAT armor mod kits\n</text>
+	</string>
+
+	<string id="dolg_scout_outfit_description">
+		<text>%c[ui_gray_1]An old Duty suit that was developed alongside the PS5-M universal protection outfit. This armour was intended to protect Duty scouts in the early days of the Zone's existence. These days, however, the only parts of the Zone left to be explored are far too dangerous for a light bodysuit like this. As such, these suits are mostly retired now, kept in reserve only to outfit Duty recruits in desperate circumstances.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Duty PS5 Armor Mod kit\n</text>
+	</string>
+
+	<string id="dolg_red_outfit_description">
+		<text>%c[ui_gray_1]A somewhat heavier variant of the PS5-M universal protection suit, specifically designed for Dutyers intending to hunt mutants. A small amount of ballistic protection is sacrificed in favour of much better protection against common mutant attacks, along with greater protection from the environments such mutants are likely to be found in. Compares well even to modern Duty suits.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Duty PS5 Armor Mod kit\n</text>
+	</string>
+
+	
+	
+<!-- Skat-9 Military Armoured Suits -->
+	<string id="military_outfit_description">
+		<text>%c[ui_gray_1]An excellent protective suit for the Zone. This heavy military-grade armour is designed for major battle operations in anomalous areas. Comprises a PSZ-12p heavy military armoured suit, built-in compensation suit, and an anomalous protection bodysuit. The armour provides excellent protection against bullet and fragmentation damage, without greatly reducing the wearer’s mobility. Although originally intended for the sole use of Military stalkers and experienced Spetsnaz operators, this armour occasionally finds its way into factions outside of the Military through unknown means.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Exoskeleton Installation, Clear Sky, Duty, Freedom, Mercenary, Monolith modification kits (faction kits only work on Army version)\n
+		%c[d_purple] • %c[ui_gray_2] Expanded Armor Pack: SKAT armor mod, Loner Scrap Box kits (both only on Army Skat-9 suit)\n
+		%c[d_purple] • %c[ui_gray_2] New High End Outfits: SKAT armor mod kit (CS-4b suit only)\n</text>
+	</string>
+
+	<string id="dolg_heavy_outfit_description">
+		<text>%c[ui_gray_1]Developed by defence research institutes in Kiev, the first iteration of this Duty bodysuit began as a simple old set of Spetsnaz PSZ-9 body armour, modified for the Zone. Its design has since been continuously improved over the years, yet curiously never took on a new designation. These days, this armour's latest design is capable of stopping a rifle bullet, and boasts great protection against the Zone's myriad horrors in general. The main drawbacks are - naturally - both its bulkiness and its price. It is uncommon for armour as prized as this to be issued to any Dutyer who hasn't proven themselves in some significant manner.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Exoskeleton Installation, SKAT armor mod, Duty modification kits\n</text>
+	</string>
+
+
+
+<!-- Scientific outfits -->
+	<string id="scientific_outfit_description">
+		<text>%c[ui_gray_1]This suit was produced by one of Kiev's defence research institutes and represents an excellent alternative to hand-made stalker suits. It combines a closed cycle breathing system and an integrated system of anomalous field suppression with a more than adequate ballistic vest. Due to the perfect materials, this suit is a good choice. Still, it is expensive, and those who prefer pitched battle over careful anomaly investigation are advised to look elsewhere.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Clear Sky, Duty, Freedom, Mercenary, Monolith modification kits\n
+		%c[d_purple] • %c[ui_gray_2] Custom Uniforms Module: Exoskeleton Installation kit\n</text>
+	</string>
+
+	<string id="svoboda_scientific_outfit_description">
+		<text>%c[ui_gray_1]Produced by Freedom craftsmen especially for observing anomalous phenomena in the Zone. The closed system of breathing and special treatment materials provide excellent protection against harmful radiation and anomalous effects. However, the built-in "Sentinel" body armour isn’t the best and can break somewhat easily, so is not suitable for active hostilities.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Custom Uniforms Module: Exoskeleton Installation kit\n</text>
+	</string>
+
+	<string id="monolith_scientific_outfit_description">
+		<text>%c[ui_gray_1]The Monolith scientific suit includes a flak vest of unknown origin and also features unique modifications for greater resistance to radiation at the cost of being more vulnerable to psy-fields. The anomaly protection system otherwise matches the SEVA bodysuit. Curiously, according to some legends, these suits are most often worn by the soldiers who defend the Brain Scorcher in Radar, although no one outside the Monolith faction can easily confirm.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Custom Uniforms Module: Exoskeleton Installation kit\n</text>
+	</string>
+
+	<string id="cs_scientific_outfit_description">
+		<text>%c[ui_gray_1]An unofficial version of the SEVA scientific suit, fresh off the smuggling route. Typically used by exploratory groups of the Clear Sky faction. Offers good protection from radiation, but is otherwise of mediocre quality for a SEVA suit.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: 'Pathfinder' SEVA Upgrade, Clear Sky modification kits\n
+		%c[d_purple] • %c[ui_gray_2] Custom Uniforms Module: Exoskeleton Installation kit\n</text>
+	</string>
+
+	<string id="bandit_scientific_outfit_description">
+		<text>%c[ui_gray_1]Bandits have never been terribly interested in the science and research of anomalous fields, but, nevertheless, they use protective suits such as these to organise ambushes and attacks on stalkers where they are not expected at all: in anomalous fields and radiation pockets. The suit has a closed breathing system and an external insulation coating, which provides good protection against all kinds of anomalous effects. Due to a lack of any protection from physical impacts, the suit provides very low protection from bullets or shrapnel.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Custom Uniforms Module: Exoskeleton Installation kit\n</text>
+	</string>
+
+	<string id="isg_scientific_outfit_description">
+		<text>%c[ui_gray_1]Commissioned by UNISG from one of Kiev's defence research institutes especially for research in the Zone. The closed system of breathing and special treatment materials provide excellent protection against harmful radiation and anomalous effects, even compared to other SEVA suits. However, the built-in body armour isn’t the best and can break somewhat easily, so is not suitable for active hostilities.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Custom Uniforms Module: Exoskeleton Installation kit\n</text>
+	</string>
+
+	<string id="merc_scientific_outfit_description">
+		<text>%c[ui_gray_1]A variant of the SEVA bodysuit that was commissioned by Mercenaries. A reasonable amount of physical protection was sacrificed for the sake of greater mobility. Used by veteran Mercs hunting artefacts near the centre of the Zone, often accompanied by a group of trusted guards who are more prepared for combat than the wearer. Has excellent anomaly protection overall, even for a SEVA, but suffers a little in thermal and psy anomalies.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: 'Pathfinder' SEVA Upgrade, Mercenary modification kits\n
+		%c[d_purple] • %c[ui_gray_2] Custom Uniforms Module: Exoskeleton Installation kit\n</text>
+	</string>
+
+	<string id="dolg_scientific_outfit_description">
+		<text>%c[ui_gray_1]A wonderful protective suit for the Zone, mostly appreciated because it combines excellent anomaly protection with more than adequate bullet-proofing qualities. It includes the PS5-M suit, a closed cycle breathing system and an integrated system of anomalous field suppression. Provides greater insulation and protection from blunt trauma than a standard SEVA suit with negligible resulting downsides.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: 'Pathfinder' SEVA Upgrade, Duty modification kits\n
+		%c[d_purple] • %c[ui_gray_2] Custom Uniforms Module: Exoskeleton Installation kit\n</text>
+	</string>
+
+	<string id="renegade_scientific_outfit_description">
+		<text>%c[ui_gray_1]This comfortable bodysuit, originally intended for research in the Zone, makes for a great alternative to the various Light Combat or hand-made suits one might have access to. Provides genuinely excellent protection against thermal and chemical hazards, along with good protection against blunt trauma. Still, for a SEVA suit, this armour is fairly mediocre overall.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Custom Uniforms Module: Exoskeleton Installation kit\n</text>
+	</string>
+
+
+
+<!-- SSP-99 -->
+	<string id="st_ecologist_outfit_orange_description">
+		<text>%c[ui_gray_1]A SSP-99 chemical protection suit specially designed for the Zone conditions. It is used by scientific expeditions and the eco-stalkers who cooperate with them. It has an integrated air-filtering and air-conditioning system. It is heat and electricity resistant, provides good protection from radiation and biological anomalies. It is resistant to chemically aggressive environments. It is not designed for combat, so it provides neither bullet, nor splinter protection.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: SSP Insulation Kit "Gemstone"\n</text>
+	</string>
+
+	<string id="st_ecologist_outfit_grn_description">
+		<text>%c[ui_gray_1]High quality modified SSP-99 suit. It provides increased body protection from bullet and splinter damage. It is designed for the guards working with scientific expeditions. It provides good protection from radiation and biological anomalies. It is resistant to chemically aggressive environments and other effects dangerous to the body.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: SSP Insulation Kit "Gemstone"\n</text>
+	</string>
+
+	<string id="st_ecologist_outfit_white_description">
+		<text>%c[ui_gray_1]A SSP-99 chemical protection suit specially designed for the Zone’s harsh conditions. It is used by scientific expeditions and the eco-stalkers who cooperate with them. It has an integrated air-filtering and air-conditioning system, thus providing excellent protection from radiation. The Diamond variant gives superior protection from electricity. Also has an integrated system for suppressing anomalies’ activity, which provides an average protection against chemicals and high temperatures. It is not designed to conduct military operations, therefore it doesn’t provide any protection from bullets or from shrapnel.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: SSP Insulation Kit "Gemstone"\n</text>
+	</string>
+
+	<string id="st_ecologist_outfit_blue_description">
+		<text>%c[ui_gray_1]High quality modified SSP-99 suit. It provides increased body protection from bullet and splinter damage. It is designed for the guards working with scientific expeditions. The Sapphire model provides excellent protection against psi exposure. It provides good protection from radiation and biological anomalies. It is resistant to chemically aggressive environments and other effects dangerous to the body.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: SSP Insulation Kit "Gemstone"\n</text>
+	</string>
+
+	<string id="st_ecologist_outfit_red_description">
+		<text>%c[ui_gray_1]High quality modified SSP-99 suit. It provides increased body protection from bullet and splinter damage. It is designed for the guards working with scientific expeditions. The ‘Ruby’ model gives excellent protection against mutant attacks, as well as a wound healing system integrated in the suit. It provides good protection from radiation and biological anomalies. It is resistant to chemically aggressive environments and other effects dangerous to the body.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: SSP Insulation Kit "Gemstone"\n</text>
+	</string>
+
+	<string id="st_ecologist_outfit_yello_description">
+		<text>%c[ui_gray_1]A SSP-99 chemical protection suit specially designed for the Zone conditions. It is used by scientific expeditions and the eco-stalkers who cooperate with them. The Topaz model provides excellent protection against radiation. It has an integrated air-filtering and air-conditioning system. It is heat and electricity resistant, provides good protection from radiation and biological anomalies. It is resistant to chemically aggressive environments. It is not designed for combat, so it provides neither bullet, nor splinter protection.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: SSP Insulation Kit "Gemstone"\n</text>
+	</string>
+
+
+<!-- Heavy combat suits -->
+	<string id="exolight_outfit_description">
+		<text>The "underwear" of an exoskeleton, sometimes mistakenly known as the "Radsuit". This outfit provides almost all the protection one can expect from a full exoskeleton, but due to being stripped of its servos and batteries, it provides none of the strength enhancement. On the positive side, this means the suit is now easier to maintain and, unlike a full exoskeleton, does not prevent the wearer from sprinting. Consists of an integrated tactical helmet, a heavy armoured vest and a reinforced environmental jumpsuit.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: 'Pathfinder' SEVA Upgrade, Exoskeleton Installation, Clear Sky, Duty, Freedom, Mercenary, Monolith modification kits\n
+		%c[d_purple] • %c[ui_gray_2] Expanded Armor Pack: Loner Scrap Box\n</text>
+	</string>
+
+	<string id="dolg_exolight_outfit_description">
+		<text>The "underwear" of an exoskeleton, sometimes mistakenly known as the "Radsuit". This outfit provides almost all the protection one can expect from a full exoskeleton, but due to being stripped of its servos and batteries, it provides none of the strength enhancement. On the positive side, this means the suit is now easier to maintain and, unlike a full exoskeleton, does not prevent the wearer from sprinting. This suit is typically found in the hands of elite Duty warriors, especially those assigned to guard VIPs or launch exceedingly dangerous raids.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: 'Pathfinder' SEVA Upgrade, Duty, Loner scrap box kits\n</text>
+	</string>
+
+	<string id="svoboda_exolight_outfit_description">
+		<text>The "underwear" of an exoskeleton, sometimes mistakenly known as the "Radsuit". This outfit provides almost all the protection one can expect from a full exoskeleton, but due to being stripped of its servos and batteries, it provides none of the strength enhancement. On the positive side, this means the suit is now easier to maintain and, unlike a full exoskeleton, does not prevent the wearer from sprinting. Only the most respected members of Freedom will ever be found wearing a suit like this, and even then only in the most dire of need.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Exoskeleton Installation, Loner scrap box kits\n</text>
+	</string>
+
+	<string id="merc_exolight_outfit_description">
+		<text>The "underwear" of an exoskeleton, sometimes mistakenly known as the "Radsuit". This outfit provides almost all the protection one can expect from a full exoskeleton, but due to being stripped of its servos and batteries, it provides none of the strength enhancement. On the positive side, this means the suit is now easier to maintain and, unlike a full exoskeleton, does not prevent the wearer from sprinting. An outfit of choice for the captains and bodyguards of Mercenary companies when actively working out in the field.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: 'Pathfinder' SEVA Upgrade, Mercenary, Loner scrap box kits\n</text>
+	</string>
+
+	<string id="bandit_exolight_outfit_description">
+		<text>The "underwear" of an exoskeleton, sometimes mistakenly known as the "Radsuit". This outfit provides almost all the protection one can expect from a full exoskeleton, but due to being stripped of its servos and batteries, it provides none of the strength enhancement. On the positive side, this means the suit is now easier to maintain and, unlike a full exoskeleton, does not prevent the wearer from sprinting. Both imposing and highly intimidating in appearance, this outfit is a favourite among the Zone's most powerful and pitiless outlaws.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Exoskeleton Installation, Loner scrap box kits\n</text>
+	</string>
+
+	<string id="monolith_exolight_outfit_description">
+		<text>The "underwear" of an exoskeleton, sometimes mistakenly known as the "Radsuit". This outfit provides almost all the protection one can expect from a full exoskeleton, but due to being stripped of its servos and batteries, it provides none of the strength enhancement. On the positive side, this means the suit is now easier to maintain and, unlike a full exoskeleton, does not prevent the wearer from sprinting. A favourite among the Monolith's battle preachers and tactical masters, who claim the confines of the suit to be as comforting as the Sarcophagus itself.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Exoskeleton Installation, Loner scrap box kits\n</text>
+	</string>
+
+	<string id="military_exolight_outfit_description">
+		<text>The "underwear" of an exoskeleton, sometimes mistakenly known as the "Radsuit". This outfit provides almost all the protection one can expect from a full exoskeleton, but due to being stripped of its servos and batteries, it provides none of the strength enhancement. On the positive side, this means the suit is now easier to maintain and, unlike a full exoskeleton, does not prevent the wearer from sprinting. Considered highly experimental by the Ukrainian government, these suits are never issued to any unit or individual. Thus soldiers - most often Military stalkers and the occasional old veterans - who wish to use such armour must always find and pay for it through their own means.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Exoskeleton Installation, Loner scrap box kits\n</text>
+	</string>
+
+	<string id="cs_exolight_outfit_description">
+		<text>The "underwear" of an exoskeleton, sometimes mistakenly known as the "Radsuit". This outfit provides almost all the protection one can expect from a full exoskeleton, but due to being stripped of its servos and batteries, it provides none of the strength enhancement. On the positive side, this means the suit is now easier to maintain and, unlike a full exoskeleton, does not prevent the wearer from sprinting. These outfits are smuggled in from Ukrainian factories before being refurbished by the faction's head technician.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Exoskeleton Installation, Loner scrap boxkits\n</text>
+	</string>
+
+	<string id="isg_exolight_outfit_description">
+		<text>The "underwear" of an exoskeleton, sometimes mistakenly known as the "Radsuit". This outfit provides almost all the protection one can expect from a full exoskeleton, but due to being stripped of its servos and batteries, it provides none of the strength enhancement. On the positive side, this means the suit is now easier to maintain and, unlike a full exoskeleton, does not prevent the wearer from sprinting. The UN reserves these suits for only its most successful agents and talented commanders.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Exoskeleton Installation, Loner scrap boxkits\n</text>
+	</string>
+
+	<string id="exo_dolg_outfit_description">
+		<text>The "underwear" of an exoskeleton, sometimes mistakenly known as the "Radsuit". This outfit provides almost all the protection one can expect from a full exoskeleton, but due to being stripped of its servos and batteries, it provides none of the strength enhancement. On the positive side, this means the suit is now easier to maintain and, unlike a full exoskeleton, does not prevent the wearer from sprinting. This suit is typically found in the hands of elite Duty warriors, especially those assigned to guard VIPs or launch exceedingly dangerous raids.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Exoskeleton Installation, Duty, Loner scrap box kits\n		
+		%c[d_purple] • %c[ui_gray_2] Expanded Armor Pack: Mercenary modification kit\n</text>
+	</string>
+
+	<string id="exo_merc_grass_outfit_description">
+		<text>The "underwear" of an exoskeleton, sometimes mistakenly known as the "Radsuit". This outfit provides almost all the protection one can expect from a full exoskeleton, but due to being stripped of its servos and batteries, it provides none of the strength enhancement. On the positive side, this means the suit is now easier to maintain and, unlike a full exoskeleton, does not prevent the wearer from sprinting. An outfit of choice for the captains and bodyguards of Mercenary companies when actively working out in the field, particularly in areas of high thermal energy.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Mercenary modification kit\n</text>
+	</string>
+
+
+<!-- Proptotype Exoskeleton -->
+	<string id="stalker_proto_exo_outfit_description">
+		<text>%c[ui_gray_1]A stalker bodysuit, specially designed to be fitted with the servos and batteries of an exoskeleton, allowing the wearer to carry significantly more equipment than they could under any other circumstances, but lacking the armour of a proper exosuit. Compared to a full exoskeleton, it provides less protection and has less efficient servos, but is also considerably cheaper to maintain.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Clear Sky, Duty, Freedom modification kits\n
+		%c[d_purple] • %c[ui_gray_2] Custom Uniforms Module: SKAT armor mod kit\n</text>
+	</string>
+
+
+	
+<!-- Exoskeletons -->
+	<string id="exo_outfit_description">
+		<text>%c[ui_gray_1]An experimental sample of a military exoskeleton. Was never mass-produced due to extraordinary cost and some design flaws. Despite this, it is in demand due to its ability to take on the weight of all carried equipment, and therefore small batches are made in underground facilities outside Ukraine. Consists of a three-part exosuit (tactical helmet, tactical vest and a kevlar environmental jumpsuit) fitted with modern powered servos.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Clear Sky, Duty, Freedom, Mercenary, Monolith modification kits\n</text>
+	</string>
+
+	<string id="dolg_exo_outfit_description">
+		<text>%c[ui_gray_1]Excellent high-tech armour. Domestically developed by one of the research institutes, specifically for the Duty faction. That said, this armour is slowly being phased out in favour of cheaper, more practical suits, and the few exosuits in active service tend to be in the hands of Duty's oldest veterans. Consists of a three-part exosuit (tactical helmet, tactical vest and a kevlar environmental jumpsuit) fitted with modern powered servos.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: 'Rhino' Heavy Assault Package, Loner scrap box kits\n</text>
+	</string>
+
+	<string id="svoboda_exo_outfit_description">
+		<text>%c[ui_gray_1]Produced by Freedom’s finest artisans. Experimenting with different modifications, after numerous attempts they managed to create a really successful design. While not always the most practical suit to maintain, it is undeniably powerful, and as such is entrusted only to Freedom's finest warriors and guardsmen. Consists of a three-part exosuit (tactical helmet, tactical vest and a kevlar environmental jumpsuit) fitted with modern powered servos.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: 'Rhino' Heavy Assault Package, Loner scrap box kits\n</text>
+	</string>
+
+	<string id="merc_exo_outfit_description">
+		<text>%c[ui_gray_1]An experimental sample of a military exoskeleton of western production for equipping Mercenaries and other armed groups. While not always the most practical suit to maintain in the Zone, it simultaneously allows the wearer to be both heavily armed and extremely well armoured, with enough strength to carry weeks worth of supplies. Most often worn as a morale booster and highly protective utility suit by veteran Mercenary captains expected to lead their men through hellish conditions. Consists of a three-part exosuit (tactical helmet, tactical vest and a kevlar environmental jumpsuit) fitted with modern powered servos.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: 'Rhino' Heavy Assault Package, Loner scrap box kits\n</text>
+	</string>
+
+	<string id="monolith_exo_outfit_description">
+		<text>%c[ui_gray_1]High-tech armour, made on the basis of a military exoskeleton. However, study samples have revealed that its servos are made of alloys and materials unknown to any field of science in any other part of the world. Consists of a three-part exosuit (tactical helmet, tactical vest and an anti-ballistic environmental jumpsuit) fitted with modern, if somewhat alien, powered servos. Wearing this suit feels like being buried under the concrete of the Sarcophagus itself - terrifyingly claustrophobic for most stalkers, but eerily comforting for true servants of the Monolith.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: 'Rhino' Heavy Assault Package, Loner scrap box kits\n</text>
+	</string>
+
+	<string id="bandit_exo_outfit_description">
+		<text>%c[ui_gray_1]A stolen military exoskeleton customised by outlaws to attack well-guarded facilities and to plunder well-armed stalkers. More martially inclined aspiring Bandit Lords tend to favour this armour, using it as a stark and unquestionable symbol of their strength and authority over lesser criminals. After all, for one to keep wearing such a coveted suit among murderers and thieves, one must by necessity possess great strength and cunning.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Loner scrap box\n</text>
+	</string>
+
+	<string id="military_exo_outfit_description">
+		<text>%c[ui_gray_1]The official version of a military exoskeleton. Released in limited quantities by special order to the Military Stalkers, who must pay for it themselves. Designed to carry heavy weapons like grenade launchers and machine guns, along with enough ammunition, food and meds to keep the unit supplied for long periods of time. Occasionally fielded in lieu of light vehicles.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: 'Rhino' Heavy Assault Package, Loner scrap box kits\n</text>
+	</string>
+
+	<string id="cs_exo_outfit_description">
+		<text>%c[ui_gray_1]An experimental version of the army exoskeleton smuggled into the Zone from Ukrainian factories before being refurbished by Clear Sky technicians. Generally, suits like these are held in reserve, to be deployed only in times of true crisis. That said, especially trusted comrades and associates of the faction may eventually receive permission to acquire such a suit for their own personal uses, although not without great cost.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Loner scrap box\n
+		%c[d_purple] • %c[ui_gray_2] Connelly's Unifying Nosorog Tweaks: 'Rhino' Heavy Assault Package\n</text>
+	</string>
+
+	<string id="ecolog_exo_outfit_description">
+		<text>%c[ui_gray_1]An official version of the military exoskeleton, intended for use by the Ecologists' guards. The suit feels almost impervious to small arms, and its advanced servomotors make it an excellent choice for those in entrenched defensive positions, as it greatly aids in the use of heavy defensive weaponry. When out in the field, wearers of this suit are more commonly used to carrying the ludicrous amount of batteries, LLMCs, AAMs and other supplies an accompanying scientist might need when exploring the Zone.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Loner scrap box\n
+		%c[d_purple] • %c[ui_gray_2] Connelly's Unifying Nosorog Tweaks: 'Rhino' Heavy Assault Package\n</text>
+	</string>
+
+	<string id="renegade_exo_outfit_description">
+		<text>%c[ui_gray_1]One of a few exoskeletons assembled by the Renegades back in 2011 to help secure their final push into Clear Sky's base. Unfortunately, they were virtually wiped out before their final victory ever came, thanks to the interference of a Mercenary with a trench coat and a marksman rifle. Modern Renegades who wear this armour always go into battle like a man possessed, eager to mete vengeance upon their most hated foes. That is to say, almost everyone else.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Loner scrap box\n</text>
+	</string>
+
+	<string id="isg_exo_outfit_description">
+		<text>%c[ui_gray_1]The official version of the UNISG exoskeleton. Released in limited quantities by special order of the United Nations. While it still possesses many of the design flaws of other exoskeletons, it's nonetheless seen as a great alternative to light, command and scout vehicles, which would have great trouble navigating the Zone anyway, and thus is deployed in their stead.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: 'Rhino' Heavy Assault Package, Loner scrap box kits\n</text>
+	</string>
+
+	<string id="greh_exo_outfit_description">
+		<text>%c[ui_gray_1]High-tech armour, based on the original experimental military designs. However, as far as anyone can see, its servos are made of alloys and materials unknown to any field of science in any other part of the world. Consists of a three-part exosuit (tactical helmet, tactical vest and an anti-ballistic environmental jumpsuit) fitted with modern, if somewhat alien, powered servos. Wearing this suit creates an unnatural feeling of bliss and calm within the wearer, although whether this sense of security is genuine or not remains to be seen.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Loner scrap box\n</text>
+	</string>
+
+
+<!-- Nosorog exskeletal armour -->
+	<string id="nosorog_outfit_description">
+		<text>%c[ui_gray_1]A next generation exoskeleton, consisting of a doubly reinforced exosuit and an armoured Czech-M10 gas mask. This suit is rumoured to have been the brainchild of a now deceased stalker named "Fang", whose designs were later claimed by all sorts of powerful factions across the Zone. If regular exoskeletons allow stalkers to feel like a light vehicle, the Nosorog almost makes them believe they're a main battle tank, able to withstand incredible punishment while carrying tremendous ordnance. Typically only available to a faction's most valuable members, and even then only during exceptionally dangerous missions.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Connelly's Unifying Nosorog Tweaks: Specialized Nosorog upgrade mod kit (Mercenary Nosorog only)\n</text>
+	</string>
+
+</string_table>

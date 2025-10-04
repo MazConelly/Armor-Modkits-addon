@@ -32,10 +32,10 @@ map_tiers = {
     
     ["zaton"]					= "paintkit_ace,1", -- Zaton
 	
-    ["l12_stancia"]				= "paintkit_exo,1", -- Chernobyl NPP South
-    ["l12u_sarcofag"]			= "paintkit_exo,2", -- Sarcophagus (NPP North)
+    ["l12_stancia"]				= "gunkit_mono,1", -- Chernobyl NPP South
+    ["l12u_sarcofag"]			= "paintkit_exo,1", -- Sarcophagus (NPP North)
     ["l12_stancia_2"]			= "paintkit_nosorog,1", -- Chernobyl NPP North
-    ["l13_generators"]			= "paintkit_nosorog,2", -- Generators
+    ["l13_generators"]			= "paintkit_nosorog,1", -- Generators
 	
     ["labx8"]					= "gunkit_scope,1", -- Lab X-8 (Outskirts)
     ["l12u_control_monolith"]	= "gunkit_scope,2", -- Monolith Control Center (NPP North)

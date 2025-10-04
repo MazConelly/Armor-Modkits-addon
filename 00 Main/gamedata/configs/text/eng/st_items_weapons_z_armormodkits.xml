@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<string id="st_wpn_abakan_descr">
+		<text>A key improvement of the AN-94 over the AK-74 is the introduction of the additional 2-round burst mode. Nikonov design delays the force of recoil until the fired rounds have left the barrel, which along with a unique 1800 rpm two-shot burst function increases body armour piercing capabilities of this firearm. Used by Spetsnaz operators as well as Duty members to take out armoured targets at relatively long ranges.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] GP-25 grenade launcher (after modification)\n
+		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1 scopes\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Paint weapon kit</text>
+	</string>
+
+	<string id="st_wpn_aek971_descr">
+		<text>Based on previous AK rifles in internal design and layout, the AEK-971 is also equipped with a recoil-balancing mechanism, resulting in more controllable automatic fire. Small batches of this rifle were manufactured for the Russian MVD.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1 scopes\n
+		%c[d_purple] • %c[ui_gray_2] TGP-A suppressor\n
+		%c[d_purple] • %c[ui_gray_2] GP-25 grenade launcher\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Duty modification kit</text>
+	</string>
+
+	<string id="st_wpn_ak_descr">
+		<text>The AK-47 can be described as a hybrid of previous rifle technology. Mikhail Kalashnikov designed this automatic rifle combining the best features of the American M1 and the German StG44. The Kalashnikov is a gas operated 7.62x39 assault rifle and by far the most prolific small arm of the 2nd half of the 20th century. It had been and still is, in more or less modified form, manufactured in dozens of countries and has been used in hundreds of conflicts since its introduction.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] PBS-1 suppressor\n
+		%c[d_purple] • %c[d_red] No optics can be mounted due to the absence of a dovetail mount\n
+		%c[d_purple] • %c[ui_gray_2] GP-25 grenade launcher (after modification)\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Misc. Weapons Pack: Specialized modification kit</text>
+	</string>
+
+	<string id="st_wpn_ak101_descr">
+		<text>The AK-101 is an assault rifle of the Kalashnikov family designed for the export market, using 5.56x45mm NATO cartridges; the standard of most NATO countries. The AK-101 is marketed at those looking for a weapon that combines the logistical compatibility and familiarity of the 5.56x45mm NATO round with the reliability of a Kalashnikov. It is designed with modern and composite materials, including plastics to reduce weight and to improve accuracy. Many of the improvements found in the AK-101 are also present in the AK-103 and the rest of the AK-10x series of rifles.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] GP-25 grenade launcher (after modification)\n
+		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech, EKP-8-02 Kobra, 1P29, PSO-1 scopes\n
+		%c[d_purple] • %c[ui_gray_2] ATG suppressor\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Paint weapon kit</text>
+	</string>
+
+	<string id="st_wpn_ak103_descr">
+		<text>The AK-103 assault rifle is a derivative of the AK-74M chambered for 7.62x39mm, same as the AKM and AK-47. The AK-103 can be fitted with a variety of sights including: laser, night vision, and telescopic sights, plus a suppressor and the GP-25 grenade launcher. It uses plastic components where ever possible instead of wood or metal to reduce weight.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] GP-25 grenade launcher (after modification)\n
+		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1 scopes\n
+		%c[d_purple] • %c[ui_gray_2] ATG suppressor\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Paint weapon kit</text>
+	</string>
+
+	<string id="st_wpn_ak104_descr">
+		<text>The AK-104 is a 7.62x39mm carbine version of the AK-103 rifle. It features a shortened barrel that makes it a middle ground between a full rifle and the more compact AKS-74U. The rifle's receiver is made of stamped steel; the magazine is made out of reinforced fibreglass and the stock is made of hollow plastic, making it lighter, more durable, and allowing a field kit to be stored inside of it.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1 scopes\n
+		%c[d_purple] • %c[ui_gray_2] ATG suppressor\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Boomsticks and Sharpsticks: Custom modification kit</text>
+	</string>
+
+	<string id="st_wpn_ak105_descr">
+		<text>The AK-105 is a 5.45x39mm carbine version of the AK-74M rifle. The AK-105 is supplementing AKS-74U carbines in Russian Army service. Ideal for CQC (close quarters combat), it's not intended for long range combat. The rifle's reiver is made of stamped steel; the magazine is made out of reinforced fibreglass and the stock is made of hollow plastic, making it lighter, more durable, and allowing a field kit to be stored inside of it.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] EKP 1S-03 "Kobra", 1P29, PSO-1 scopes\n
+		%c[d_purple] • %c[ui_gray_2] TGP-A suppressor\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Boomsticks and Sharpsticks: Clear Sky, Duty, and Mercenary modification kits</text>
+	</string>
+
+	<string id="st_wpn_ak74_descr">
+		<text>The AK-74 is a 5.45x45mm assault rifle developed in the early 1970s by Mikhail Kalashnikov to replace the earlier AKM. It was introduced in 1974 and first saw service with Soviet forces engaged in the Afghanistan Conflict. The AKM rifle was adapted to fire smaller 5.45x45mm cartridge and fitted with a large muzzle brake.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] GP-25 grenade launcher (after modification)\n
+		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1 scopes\n
+		%c[d_purple] • %c[ui_gray_2] TGP-A suppressor\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Gunsmith, Replacement, Custom, Specialized, and Duty modification kits</text>
+	</string>
+
+	<string id="st_wpn_ak74m_descr">
+		<text>In 1991, the Izhmash factory began production of an improved AK-74 - the AK-74M assault rifle. Apart from several minor production improvements, the rifle also features a new foldable synthetic stock made from a black, glass-filled polyamide. The AK-74M also uses a reinforced muzzle device and dust cover. Each AK-74M is fitted with a side-rail bracket for mounting optics. The AK-74M has been accepted as the new service rifle of the Russian Federation.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] GP-25 grenade launcher (after modification)\n
+		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1 scopes\n
+		%c[d_purple] • %c[ui_gray_2] TGP-A suppressor\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Paint, Replacement, Custom, Specialized, and Duty modification kits</text>
+	</string>
+
+	<string id="st_wpn_ak74u_descr">
+		<text>The AKS-74U was intended for use mainly by Spetsnaz units, airborne infantry, rear-echelon support units and armoured vehicle crews, who require a compact but relatively powerful individual automatic weapon. The AKS-74U is significantly more manoeuvrable in tight quarters than the AKS-74, but a significant decline in muzzle velocity resulted in a decrease in effective range.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1 scopes\n
+		%c[d_purple] • %c[ui_gray_2] PBS-4 suppressor\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Paint, Custom, and Specialized modification kits\n
+		%c[d_purple] • %c[ui_gray_2] Misc. Weapons Pack: Specialized modification kit (for AKS-74UN *custom*)</text>
+	</string>
+
+	<string id="st_wpn_akm_descr">
+		<text>The AKM is a 7.62x39mm assault rifle designed by Mikhail Kalashnikov. It is an improved version of the AK-47 rifle and was developed in the 1950s. Introduced to the Red Army in 1959, the AKM is the most ubiquitous variant of the AK series of firearms and it has found widespread use with the former Warsaw Pact states and its many African and Asian allies. The production of AKM rifles was carried out at the Tula Arsenal and Izhevsk Mechanical Works.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] PBS-1 suppressor\n
+		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1 scopes\n
+		%c[d_purple] • %c[ui_gray_2] GP-25 grenade launcher (after modification)\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Boomsticks and Sharpsticks: Custom modification kit</text>
+	</string>
+
+	<string id="st_wpn_akms_descr">
+		<text>A variant of the AKM, equipped with an under-folding metal shoulder stock in place of the fixed wooden stock. The metal stock of the AKMS is somewhat different from the folding stock of the previous AK-47 model as it has a modified locking mechanism, which locks both support arms of the AKMS stock instead of just one.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] PBS-1 suppressor\n
+		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1 scopes\n
+		%c[d_purple] • %c[ui_gray_2] GP-25 grenade launcher (after modification)\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Replacement modification kit</text>
+	</string>
+
+	<string id="st_wpn_aks74_descr">
+		<text>A more accurate and reliable rifle than the AKM, the AK-74 is still used by the majority of countries of the former USSR. The AKS-74 is the foldable stock version of AK-74 and its stock has a triangular shape and lacks the folding shoulder pad of the AKMS and is folded to the left side of the receiver.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] GP-25 grenade launcher (after modification)\n
+		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1 scopes\n
+		%c[d_purple] • %c[ui_gray_2] TGP-A suppressor\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Gunsmith modification kit</text>
+	</string>
+
+	<string id="st_wpn_aps_descr">
+		<text>The Stechkin APS is a Russian selective fire machine pistol, bearing the name of its designer Igor Stechkin. The Stechkin automatic pistol was originally chambered for 7.62x25mm Tokarev but was changed to the 9x18mm calibre used in the new Makarov pistol, as it became clear that this cartridge was set to become the new service ammunition for handguns in the Soviet Army. In 1951, both the Makarov and Stechkin were introduced into the Soviet military arsenal, replacing the ageing TT-33.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] APS suppressor\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Boomsticks and Sharpsticks: Specialized modification kit</text>
+	</string>
+
+	<string id="st_wpn_aug_descr">
+		<text>The AUG is an Austrian bullpup 5.56mm assault rifle, designed in the 1960s by Steyr Mannlicher GmbH &amp; Co KG (formerly Steyr-Daimler-Puch). The AUG (Armee-Universal-Gewehr "universal army rifle") was adopted by the Austrian Army as the StG 77 (Sturmgewehr 77) in 1978, where it replaced the 7.62mm StG 58 automatic rifle (a licence-built FN FAL). In production since 1978, it is the standard small arm of the Austrian Bundesheer and various national police units.\n \n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] NATO suppressor\n
+		%c[d_purple] • %c[ui_gray_2] 1.5x scope (integrated).\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Gunsmith, Custom, Freedom, and Mercenary modification kits\n
+		%c[d_purple] • %c[ui_gray_2] Boomsticks and Sharpsticks: Specialized modification kit</text>
+	</string>
+
+	<string id="st_wpn_beretta_descr">
+		<text>The 92F is perhaps best known as the standard pistol of the US Military, replacing the legendary M1911. It is a short-recoil operated, locked-breech weapon with an aluminium frame and a hard chromed barrel bore. A popular sidearm adopted by several countries, it is especially popular among criminals for its high-powered rounds and high-capacity magazine.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] 9mm suppressor (after modification)
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Paint, Gunsmith, and Replacement modification kits</text>
+	</string>
+
+	<string id="st_wpn_bm16_full_descr">
+		<text>A powerful weapon that every Stalker can afford, the TOZ 66 is a close range firearm possessing both reliability and effectiveness. However, being large and unwieldy, many Stalkers prefer to spend their hard-earned rubles on a modern handgun instead.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Gunsmith modification kit</text>
+	</string>
+
+	<string id="st_wpn_colt1911_camo_descr">
+		<text>The M1911 was the standard-issue side arm for the US military from 1911 to 1985. An extremely reliable and robust weapon, it's been adopted for military, police and civilian use around the world and remains a very popular firearm to this day. This is a unique model with red stains on dark-beige colour.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] .45 ACP suppressor (after modification)
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Paint, Gunsmith, Replacement, Custom, Duty, and Mercenary modification kits</text>
+	</string>
+
+	<string id="st_wpn_desert_eagle_descr">
+		<text>The IMI Desert Eagle is a semi-automatic handgun notable for chambering the largest centrefire cartridge of any magazine fed, self-loading pistol and also being the heaviest and blockiest gun of its type. No one knows why IMI thought shooting a calibre of this size out of a handgun was a good idea, even though there are plenty of rounds out there that can do the job without breaking your wrist; this one assumes because of a pissing contest between the .44 and .50 AE. Not only is it heavy and harsh in recoil, you can also use it to bludgeon your enemies to death because of its blockiness and weight. Although militaries and law enforcement around the world, in their moment of sanity, never adopted this brick; Hollywood did, mostly because of its "cool factor" and now is the poster child for gangsters and pimps and a status symbol for those who reached a certain rank in a certain console shooter. Rumour is that there's a Stalker with a crowbar wandering around the Zone with a rechambered version of this gun, but it's just a rumour.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Gunsmith, Custom, and Specialized modification kits\n
+		%c[d_purple] • %c[ui_gray_2] Misc. Weapons Pack: Specialized modification kit (for Desert Eagle *custom*)</text>
+	</string>
+
+	<string id="st_wpn_fn2000_descr">
+		<text>From the late 1980s to early 1990s, FN Herstal began to develop a new rifle. The aim was to produce a modern and modular weapon resulting in the FN F2000 rifle, first displayed to the public in 2001. The F2000 offers all of the popular features of the modern assault rifle such as a compact bullpup layout, ambidextrous handling and a modular design with plenty of options and addons available. So far, the FN F2000 rifle has found only a few buyers, including the Armed Forces of Slovenia and Belgian Special Operations Forces.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] FN2000 scope (integrated)\n
+		%c[d_purple] • %c[ui_gray_2] NATO suppressor\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS: Paint, Custom, and Specialized modification kits</text>
+	</string>
+
+	<string id="st_wpn_fn57_descr">
+		<text>The Five-seveN is a delayed blowback operated, semi-automatic firearm. The Five-seveN pistol was designed by FN Herstal as a complimentary sidearm for the P90 submachine gun. The P90 and Five-seveN share the same ammunition, the 5.7x28mm SS190 cartridge. The idea behind the ammunition and weapon is to provide good penetration against targets protected by body armour, while keeping the weapon's weight, dimensions and recoil at reasonable levels.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Boomsticks and Sharpsticks: Specialized modification kit</text>
+	</string>
+
+	<string id="st_wpn_fnp45_descr">
+		<text>The FN FNP pistol is a series of semi-automatic, polymer framed pistols manufactured in Columbia, South Carolina by FNH USA, a division of Fabrique Nationale de Herstal. Debuted in early 2006, the FNP series weapons are hammer fired weapons utilizing a Browning cam system with an external extractor. The trigger module is housed inside the polymer frame as an individual unit connected to the hammer. The magazine release button is held in place by a retention pin which can be removed to allow the button to be reversed.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] GemTech suppressor\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Custom modification kit</text>
+	</string>
+
+	<string id="st_wpn_fnx45_descr">
+		<text>The FNX line of pistols were introduced in 2009 by FNH USA, a US based subsidiary of the Belgian gun company FN Herstal. Originally developed to the requirements of the US Joint Combat Pistol Program, these pistols are manufactured in US and intended for military, law enforcement and civilian use. All FNX handguns are semi-automatic pistols with double/single action trigger and external hammer. Frame of the every FNX pistol is made from impact resistant polymer, with removable backstraps of different sizes. FNX-45 Tactical is a specialised variant of the basic FNX-45, that features extended threaded barrel and raised sights, to be used with detachable sound suppressor.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] FNX Tactical sight (integrated)\n
+		%c[d_purple] • %c[ui_gray_2] GemTech suppressor (integrated)
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Replacement, and Custom modification kits</text>
+	</string>
+
+	<string id="st_wpn_g36_descr">
+		<text>The H&amp;K G-36 was known as the HK-50 project in early 1990s. After the cancellation of the G11 and G41 projects, the Bundeswehr was left with outdated G3 rifles; Heckler &amp; Koch was set to develop a new assault rifle for both the German army and for export. The new 5.56x45mm assault rifle was adopted by the Bundeswehr in 1995 and also found its way into the hands of various law enforcement agencies worldwide, including British police and some US police departments. So far, there have been very few complaints about this rifle. The more common ones being the overheating of the handguards during sustained fire, and the loss of zero on the built in scope of G36KE rifles. Some German soldiers also complained about the position of the dual optical sights and it being easily fogged in bad weather. Otherwise, it is accurate, reliable and simple in maintenance.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] NATO suppressor\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Paint weapon kit\n
+		%c[d_purple] • %c[ui_gray_2] Misc. Weapons Pack: Specialized modification kit</text>
+	</string>
+
+	<string id="st_wpn_galil_descr">
+		<text>Formally accepted into service with the IDF in 1972, the IMI Galil is designed for operation in arid conditions and is based on the Finnish RK 62, which itself was derived from the Soviet AK-47. The Galil is noted for its reliability in combat conditions, and ease of maintenance. It has a line chambered for 5.56x45mm and one for 7.62x51mm.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] PBS-1 suppressor\n
+		%c[d_purple] • %c[ui_gray_2] Galil 4x scope (after modification)\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Gunsmith, and Custom modification kits</text>
+	</string>
+
+	<string id="st_wpn_glock_descr">
+		<text>The Glock 19 is a smaller version of the Glock 17. Its reduced size made the Glock 19 easier to conceal and carry by military and police forces. The pistol was debuted by Glock GbmH of Austria in 1988. When compared to the Glock 17, the Glock 19 retains the weight of its slide to keep the short recoil operation in check while at the same time shortening the grip and barrel. Many components of the Glock 19 were made interchangeable with the Glock 17, including the magazine. Simply put, the Glock 19 is a compact version of the 17.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] GemTech suppressor (after modification)
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Gunsmith, and Custom modification kits</text>
+	</string>
+
+	<string id="st_wpn_gsh18_descr">
+		<text>The GSh-18 is a 9x19mm semi-automatic pistol developed in the early 1990s at the KBP Instrument Design Bureau in Tula. The pistol's name is derived from its designers - Gryazev and Shipunow, and the number 18 denotes the magazine capacity. The GSh-18 is a recoil-operated, locked breech pistol. The weapon has an unusual cam-rotated barrel with 10 locking lugs. The GSh-18 is striker fired and features a pre-set trigger that pre-cocks the pistol when the slide recoils after firing a shot, the striker firing pin is then fully cocked by pulling the trigger back to the rear. With the 7N21 and 7N31 armour-piercing bullets, it can pierce 8mm of steel at 20 metres.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Custom modification kit</text>
+	</string>
+
+	<string id="st_wpn_hpsa_descr">
+		<text>The Browning Hi-Power is a single-action, 9mm semi-automatic pistol. It is based on the ideas of American firearms inventor John Browning, created and patented in 1922, later patented by FN Herstal. Browning died in 1926, before he had finished developing a production version, but FN arms designer Dieudonne Saive fully developed it. The Hi-Power pistol was noted for its 13 round magazine capacity, twice that of contemporary designs such as the Luger or Mauser 1910. This modified variant of the Browning HP pistol, despite its venerable age, enjoys popularity around the world.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] 9mm suppressor (after modification)
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Replacement modification kit\n
+		%c[d_purple] • %c[ui_gray_2] Misc. Weapons Pack: Specialized modification kit</text>
+	</string>
+
+	<string id="st_wpn_kiparis_descr">
+		<text>OTs-02 "Kiparis" (Cypress) is a sub-machine gun, developed in 1972 by order of the Ministry of Defence of the USSR by weapon designers from TsKIB COO of Tula. The layout is based on the Czechoslovak sub-machine gun Scorpion Vz.61 (1961 variant). The OTs-02 "Kiparis" automatic mechanism is powered by a free bolt recoil. Shots are fired from closed bolt, which increases the accuracy of fire. To increase stability of the weapon, a folding stock is used, which in the compact position is folded on top of the receiver. In the Zone, this weapon is not uncommon and usually used by bandits and loners who can't afford a better weapon.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] 9mm suppressor\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Boomsticks and Sharpsticks: Loner, Duty, and Specialized modification kits</text>
+	</string>
+
+	<string id="st_wpn_l85a2_descr">
+		<text>The development of the SA80 system, which included two weapons - the SA80 IW assault rifle and SA80 LSW light machine gun, began in the late 1960s when the British Army decided to develop a new rifle, to replace the ageing 7.62x51mm L1 SLR British made FN FAL. The standard individual weapon for the British armed forces, the L85 (in its original A1 version) had numerous performance issues. The improved L85A2 is extremely reliable over a range of climates for various operational scenarios. The current L85A2 rifles are recognised as reliable and accurate, especially when using standard issue SUSAT telescope sights.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] SUSAT 4x scope (integrated)\n
+		%c[d_purple] • %c[ui_gray_2] NATO suppressor (after modification)\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Gunsmith, Replacement, Custom modification kits</text>
+	</string>
+
+	<string id="st_wpn_l85_descr">
+		<text>The development of the SA80 system, which included two weapons - the SA80 IW assault rifle and SA80 LSW light machine gun, began in the late 1960s when the British Army decided to develop a new rifle, to replace the ageing 7.62x51mm L1 SLR British made FN FAL. The standard individual weapon for the British armed forces, the L85 (in its original A1 version) had numerous performance issues. The improved L85A1 is extremely reliable over a range of climates for various operational scenarios. The current L85A1 rifles are recognised as reliable and accurate, especially when using standard issue SUSAT telescope sights.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] SUSAT scope (integrated)\n
+		%c[d_purple] • %c[ui_gray_2] NATO suppressor (after modification)\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Gunsmith, Replacement, Custom modification kits</text>
+	</string>
+
+	<string id="st_wpn_lr300_descr">
+		<text>Based on the AR-15, the LR-300 is an excellent weapon system suitable for military use in close quarters battle. Its folding skeletal stock makes it ideal for aggressive and rapid building entries requiring a compact yet powerful selective fire weapon. With excellent ergonomics and lightweight, this weapon is highly accurate but it is sensitive to dirt and is not ideal for difficult field conditions. A few years ago, this was standard rifle of the Mercenaries and is still common amongst them.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] NATO suppressor\n
+		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech scopes\n
+		%c[d_purple] • %c[ui_gray_2] M203 grenade launcher (after modification)\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Paint, Custom modification kits\n
+		%c[d_purple] • %c[ui_gray_2] Misc. Weapons Pack: Specialized modification kit</text>
+	</string>
+
+	<string id="st_wpn_m16_descr">
+		<text>The M16 is the U.S. military designation for a family of rifles derived from the ArmaLite AR-15 and further developed by Colt starting in the 1960s. The M16 rifle family including the M16/A1/A2/A3/A4 has been the primary infantry rifle of the United States military since the 1960s. With its variants, it has been in use by 15 NATO countries, and is the most produced firearm in its calibre. The M16 is a lightweight, 5.56x45mm calibre, air cooled, gas operated, magazine fed assault rifle, with a rotating bolt, actuated by direct impingement gas operation. The rifle is made of steel, aluminium, and composite plastics.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] NATO suppressor\n
+		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech scopes\n
+		%c[d_purple] • %c[ui_gray_2] M203 grenade launcher\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Misc. Weapons Pack: Specialized modification kit</text>
+	</string>
+
+	<string id="st_wpn_m4_descr">
+		<text>The M4 Carbine descends from a family of firearms tracing its lineage back to earlier carbine versions of the M16, all based on the original AR-15 made by ArmaLite. It is a shorter and lighter version of the M16 assault rifle, sharing 80% of its parts. The M4 fires 5.56x45mm NATO ammunition and are gas operated, air cooled, magazine fed, selective fire firearms with a 4 position telescoping stock. As with many carbines, the M4 is handy and more convenient to carry than a full length rifle. It has been adopted by United States Special Operations Command (USSOCOM) and is the preferred weapon of the U.S. Army Special Forces and Navy SEALs.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] NATO suppressor\n
+		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech scopes\n
+		%c[d_purple] • %c[ui_gray_2] M203 grenade launcher\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Boomsticks and Sharpsticks: Custom, Specialized, Freedom modification kits</text>
+	</string>
+
+	<string id="st_wpn_m4a1_descr">
+		<text>Ideal for CQC (Close Quarters Combat), the M4A1 carbine is a fully automatic, shortened variant of the M16A2 assault rifle. In military use, it has largely replaced the submachine guns firing pistol cartridges that are inadequate against modern body armour. The M4A1 is a modified variant of the M4 carbine able to fire automatic or semi-automatic.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] NATO suppressor\n
+		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech scopes\n
+		%c[d_purple] • %c[ui_gray_2] M203 grenade launcher (after modification)\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Paint, Custom weapon, Freedom modification kits\n</text>
+	</string>
+
+	<string id="st_wpn_mosin_descr">
+		<text>The "Russian 3-line" rifle is a very well-known rifle of the Second World War. This model is a basic version of the Mosin with a gently worn action. The M1891/30 was produced for standard issue to all Soviet infantry from 1930 to 1945. It was extremely successful in the war as a sniper rifle when it was equipped with a 4x PE or a 3.5x PU scope. Now very common in the Zone due to its ubiquitous nature within Eastern Europe.\n
+		%c[ui_gray_2]ATTACHMENTS:\n%c[d_purple]• %c[ui_gray_2] PU scope\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Simple Weapons Pack: Gunsmith modification kit</text>
+	</string>
+
+	<string id="st_wpn_mp153_descr">
+		<text>The MP-153 self-loading shotgun was the first semi-automatic shotgun designed and manufactured by Izhevsk Mechanical Plant. It was developed along with the pump action MP-133 shotgun and shares many parts and assemblies with it. The MP-153 is one of the most popular semi-automatic shotguns of Russian origin, and is widely used to hunt various games in Russia. It is also sold for export, it is known as Remington "Spartan" SPR-453 autoloader in the US. MP-153 shotguns are known for solid but somewhat heavy construction and reliability.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Boomsticks and Sharpsticks: Specialized modification kit</text>
+	</string>
+
+	<string id="st_wpn_mp5_descr">
+		<text>The MP5 is one of the most famous and wide spread firearms of its class. The MP5's compactness, accuracy and reliability have made it a favourite of numerous military, law enforcement, intelligence and security organisations the world over. The MP5A3 is fitted with a retractable metal stock. Not surprisingly, having flooded the global black markets, it eventually made its way to the Zone.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632 scopes\n
+		%c[d_purple] • %c[ui_gray_2] 9mm suppressor (after modification)\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Replacement, Custom, Specialized modification kits</text>
+	</string>
+
+	<string id="st_wpn_mp5sd_descr">
+		<text>A variant of the MP5 with an integrated suppressor. The holes in the barrel near the chamber lower the bullet's velocity below the speed of sound, eliminating the noise of a sonic boom. In the Zone, mercenaries prefer this variant to the normal one.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632 scopes, EOTech scopes\n
+		%c[d_purple] • %c[ui_gray_2] special MP5SD suppressor (integrated)\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Gunsmith, Custom, Specialized modification kits</text>
+	</string>
+
+	<string id="st_wpn_oc33_descr">
+		<text>OTs-33 "Pernach" (Russian for multivaned mace) is a recent entry into the small class of Russian automatic pistols. The OTs-33 is a blowback-operated weapon firing the 9x18mm Makarov pistol cartridge in automatic and semi-automatic mode. The Pernach was developed in 1995 to replace the Stechkin APS pistol in special paramilitary units. Designed in 1995 by Igor Stechkin at the TSKIB SOO, Central Design Bureau for Sporting and Hunting arms, Tula, Russia, the same designer who developed the APS.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] APB suppressor (after modification)
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Misc. Weapons Pack: Specialized modification kit</text>
+	</string>
+
+	<string id="st_wpn_pb_descr">
+		<text>The PB (Pistolet Besshumnyj or Silent Pistol), also known in the Soviet army as 6P9, has been developed in 1967 for Spetsnaz units of the Soviet Army, as well as for KGB operatives. The pistol is based on a modified Makarov PM pistol and features an unique integral two part suppressor. Issued into service in 1967, the PB (GRAU index 6P9) is a Soviet silenced pistol based on the Makarov PM. It was intended for use by the KGB and army reconnaissance groups. The front part of the suppressor is detachable, so that the pistol can be broken down into two parts for convenient carry. The PB's integral suppressor also reduces the bullet velocity to below subsonic levels. Today, this firearm is infamous for being the official weapon used for executions in Belarus.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] 6P9 suppressor (integrated)\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Custom modification kit</text>
+	</string>
+
+	<string id="st_wpn_pkp_descr">
+		<text>The PKP "Pecheneg" is a Russian light machine gun chambered for the 7.62x54mmR round. It is a modernised PKM machine gun. The Pecheneg is said to be more accurate than all its predecessors due to a heavier, non-removable, forced air cooling barrel with radial cooling ribs and a handle which eliminates the haze effect from hot gases and keeps the barrel cooler, making the weapon more reliable.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Boomsticks and Sharpsticks: Specialized modification kit</text>
+	</string>
+
+	<string id="st_wpn_pm_descr">
+		<text>This Soviet legacy is the most common pistol in the Zone and is one of the best compact self-defence handguns available. It is small, highly reliable, easy to use and maintain in working order. It also suffers from several drawbacks, including short range, low firing accuracy and poor stopping power, while also losing out to modern pistols in its class in terms of weight and magazine size. In 1951, the Pistol Makarova was selected because of its simplicity, easy manufacturing, accuracy, and reasonable stopping power.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Custom modification kit\n
+		%c[d_purple] • %c[ui_gray_2] Misc. Weapons Pack: Specialized modification kit</text>
+	</string>
+
+	<string id="st_wpn_ppsh41_descr">
+		<text>A major infantry weapon of the Soviet armed forces during World War II, the PPSh-41 was a durable, low-maintenance weapon made of cheap, easily-obtained components. It was invented by Georgy Shpagin and utilises the 7.62x25mm cartridge.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Paint, Gunsmith modification kits\n
+		%c[d_purple] • %c[ui_gray_2] Boomsticks and Sharpsticks: Clear Sky modification kit\n
+		%c[d_purple] • %c[ui_gray_2] Simple Weapons Pack: Specialized modification kit</text>
+	</string>
+
+	<string id="st_wpn_protecta_descr">
+		<text>The uniquely designed Armsel Protecta is a rotating cylinder fed 12-gauge shotgun developed for riot control and combat. Antiquated now by the Russian Saiga-12 and the American AA-12, the Protecta was a revolutionary weapon created by the Apartheid government in the 1980s. This smoothbore combat revolver-type shotgun was intended to provide extreme firepower for militarised units. The weapon benefits from a large magazine and a high effective rate of fire, but its bulkiness and considerable weight, combined with a long reload time, are the price to be paid for these advantages. Rare in the Zone and used primarily to clear confined spaces of mutants.
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Paint, Custom, Specialized modification kits</text>
+	</string>
+
+	<string id="st_wpn_rp_descr">
+		<text>Fitted with a skeleton buttstock made from wood as well as a hinged buttplate and a wooden pistol grip. The rear part of the buttstock houses a cleaning kit, and a disassembled cleaning rod is stored in the right leg of the bipod. A very reliable general-purpose machine gun used in a few different forms by the USSR and the states that once made it up since 1961.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Boomsticks and Sharpsticks: Specialized modification kit</text>
+	</string>
+
+	<string id="st_wpn_rpk_descr">
+		<text>The RPK is a Soviet light machine gun, developed by Mikhail Kalashnikov in 1961 based on the Kalashnikov assault rifle. Created as part of Soviet efforts to standardise the armoury of the Red Army, the RPK replaced the RPD and a modernized version is still in use to present day.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Misc. Weapons Pack: Specialized modification kit</text>
+	</string>
+
+	<string id="st_wpn_rpk74_descr">
+		<text>The RPK-74 (Ruchnoy Pulemyot Kalashnikova or Kalashnikov hand-held machine gun) is a 5.45x45mm light machine gun, developed by Mikhail Kalashnikov in the late 1950s. It was created as part of a program designed to standardise the small arms inventory of the Red Army, where it replaced the 7.62x39mm RPD light machine gun. Today, the RPK continues to be used by the armed forces of countries of the former Soviet Union and certain African and Asian nations. The Polish Army adopted the weapon in 1974, where it is used in airborne assault, reconnaissance and special operations units. The RPK was also manufactured under license in Bulgaria and Romania.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1 scopes\n
+		%c[d_purple] • %c[ui_gray_2] TGP-A suppressor\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Boomsticks and Sharpsticks: Specialized modification kit</text>
+	</string>
+
+	<string id="st_wpn_scar_descr">
+		<text>The Special Operations Forces Combat Assault Rifle (SCAR) is a modular rifle made by FN Herstal for SOCOM to satisfy the requirements of the SCAR competition. This family of rifle consist of two types, the SCAR-H and SCAR-L. The SCAR-H (Heavy) is chambered in 7.62x51mm NATO cartridge.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] NATO suppressor\n
+		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech scopes\n
+		%c[d_purple] • %c[ui_gray_2] M203 grenade launcher\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Gunsmith, Custom modification kits\n
+		%c[d_purple] • %c[ui_gray_2] Boomsticks and Sharpsticks: Replacement, Custom, Specialized modification kits</text>
+	</string>
+
+	<string id="st_wpn_sig220_descr">
+		<text>The SIG-Sauer P220, manufactured in the late 1970s by J.P. Sauer &amp; Son Company, is often considered the best out of the box .45 calibre double action pistol. An instant success, the P220 was adopted by the Swiss and Japanese SDF and by many European police organisations. This pistol also found its way into the US, first through the Browning Arms Company of Utah and since the 1980s, through the SIGARMS Company of New Hampshire.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] .45 ACP Suppressor\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Custom modification kit\n
+		%c[d_purple] • %c[ui_gray_2] Boomsticks and Sharpsticks: Gunsmith, Specialized modification kits</text>
+	</string>
+
+	<string id="st_wpn_sig550_descr">
+		<text>Renowned for its high production quality and good performance, the SG 550 is often referred to as the finest 5.56 mm rifle ever made. It has a side-folding skeletonised buttstock and a lightweight aluminium bipod that folds into grooves in the lower handguard.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] NATO suppressor\n
+		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech scopes\n
+		%c[d_purple] • %c[ui_gray_2] M203 grenade launcher\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Paint, Replacement, Custom modification kits\n
+		%c[d_purple] • %c[ui_gray_2] Boomsticks and Sharpsticks: Specialized modification kit</text>
+	</string>
+
+	<string id="st_wpn_sig552_descr">
+		<text>The SG 552 Commando is designed for urban combat, making it the most compact member of SIG's renowned SG 550 family, which enhances its CQC capabilities.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] NATO suppressor\n
+		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech scopes\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Boomsticks and Sharpsticks: Specialized modification kit</text>
+	</string>
+
+	<string id="st_wpn_sks_descr">
+		<text>The SKS, designed by S. G. Simonov is one of the first weapons chambered for the 7.62x39mm round. Replaced in Soviet front-line service by the AK-47 in the early 1950s, it remained in second-line service for decades and is still used as a ceremonial arm today.\n
+		%c[ui_gray_2]ATTACHMENTS:\n%c[d_purple]• %c[ui_gray_2] PU scope\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Gunsmith modification kit\n
+		%c[d_purple] • %c[ui_gray_2] Simple Weapons Pack: Replacement modification kit</text>
+	</string>
+
+	<string id="st_wpn_spas12_descr">
+		<text>The SPAS-12 is a dual-mode shotgun, designed for combat and anti-riot measures. It is employed by many special military and police units around the world. With its distinctive heat shield and folding stock, the SPAS-12 is an iconic firearm. Notable for its reliability and tactical flexibility. Despite its heavy weight, complex mechanism and considerable cost, it is in demand in the Zone due to its effectiveness against mutants.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Custom modification kit\n
+		%c[d_purple] • %c[ui_gray_2] Misc. Weapons Pack: Specialized modification kit</text>
+	</string>
+
+	<string id="st_wpn_sv98_descr">
+		<text>The SV-98 (Snaiperskaya Vintovka Model 1998) is a Russian bolt action sniper rifle designed by Vladimir Stronskiy. In 2003 special operations troops were armed with the 7.62 mm 6S11 sniper system comprising the SV-98 sniper rifle (index 6V10) and 7N14 sniper enhanced penetration round. The rifle has been used in combat during operations in Chechnya.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] PKS-07 scope (integrated)\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Custom modification kit</text>
+	</string>
+
+	<string id="st_wpn_svd_descr">
+		<text>Originally intended for designated marksmen in every basic Soviet infantry unit, the Dragunov SVD was not designed for specialised sniper teams. Relatively light for a sniper rifle but well-balanced and having semiautomatic fire, its precision is good but not exceptional. It has an effective range of up to 800 meters.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1 scopes\n
+		%c[d_purple] • %c[ui_gray_2] KZRZP suppressor (after modification)\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Custom modification kit</text>
+	</string>
+
+	<string id="st_wpn_svt40_descr">
+		<text>The SVT-40 is a surplus semi-automatic rifle designed by F. V. Tokarev, chambered in the 7.62x54mmR round. It saw widespread use in the Red Army and Wehrmacht during WWII.\n
+		%c[ui_gray_2]ATTACHMENTS:\n%c[d_purple]• %c[ui_gray_2] PU special scope\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Gunsmith modification kit (for regular variant)\n
+		%c[d_purple] • %c[ui_gray_2] Simple Weapons Pack: Replacement modification kit</text>
+	</string>
+
+	<string id="st_wpn_svu_descr">
+		<text>The OTs-03 SVU is a rare, compact version of the SVD sniper rifle, created for use by the airborne infantry, but later employed mainly by the Russian Ministry of Internal Affairs. The main difference between it and the SVD is it's compact size and thus improved handling, thanks to a bullpup configuration and shortened barrel, making it sought after by Stalkers in the Zone.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1 scopes\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Replacement modification kit</text>
+	</string>
+
+	<string id="st_wpn_toz34_descr">
+		<text>Intended for professional and amateur hunting the TOZ-34 is an over/under shotgun. Though lacking in capacity, only 2 rounds, it compares well with high-grade shotguns due to its high accuracy of hits. The TOZ 34 was designed by N. I. Korovyakov and V. P. Ochnev in 1965. Affordable in price, with high damage output and its ability to unload both rounds instantly make it a popular weapon among rookies on the outskirts of the Zone. Especially useful against mutants thanks to its accuracy and stopping power.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Paint, Gunsmith, Custom, Specialized modification kits</text>
+	</string>
+
+	<string id="st_wpn_toz34_obrez_descr">
+		<text>Intended for professional and amateur hunting the TOZ-34 is a over/under shotgun. Modifications made to this gun by removing much of the barrel and the stock makes this shotgun more compact and easier to carry. Popular among rookies and bandits as they can hide it easily in their trench coats.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Paint, Custom modification kits</text>
+	</string>
+
+	<string id="st_wpn_type63_descr">
+		<text>The Type 63, often incorrectly referred to as Type 68 by Western sources, is a Chinese-designed rifle with a resemblance to the SKS. However, the weapon uses a rotating bolt working system from the AK-47 rifle instead of the tilting bolt system of the SKS.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] PU scope\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Gunsmith modification kit</text>
+	</string>
+
+	<string id="st_wpn_ump45_descr">
+		<text>The UMP was developed by H&amp;K in the 1990s, first appearing on the market in 1999. The idea behind the UMP was to create lightweight and powerful submachine gun, that was also cheaper than the MP5. The UMP, being targeted primarily for US law enforcement, appeared in .45ACP and .40SW chamberings, and later in 9mm. Providing greater stopping power than the MP5, the UMP45 also produces more recoil. This makes controlling full automatic fire more difficult. The UMP45's cyclic rate of fire was lowered significantly to combat this problem.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech scopes\n
+		%c[d_purple] • %c[ui_gray_2] Gemtech suppressor\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Custom modification kit</text>
+	</string>
+
+	<string id="st_wpn_usp_descr">
+		<text>Originally designed for the American market, the USP, Universal Self loading Pistol, is known as an accurate and reliable handgun. U.S. law enforcement and military provided much of the design criteria for the USP. The controls are uniquely American, influenced by famous designs like the Government Model 1911 pistol. All USPs use a fibre-reinforced polymer frame stiffened by stainless steel inserts at areas subject to stress and friction. Incorporating several successful handgun design elements, the USP Compact .45 is a part of the USP family of handguns designed by H&amp;K. Able to withstand extreme punishment and adverse conditions, it is used by several countries' police and special forces units.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] .45 ACP suppressor (after modification)\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Replacement, Custom modification kits</text>
+	</string>
+
+	<string id="st_wpn_usp_match_descr">
+		<text>An enhanced USP by HK with distinct characteristics that make it more attractive to the target shooter. With the O-Ring barrel first seen in the Mark 23, the Match includes compensator that helps reduce the relatively mild kick of the 9x19. The Match also features polygonal rifling, a trigger stop, and fully adjustable rear sight.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] GemTech suppressor (after modification)\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:
+		%c[d_purple] • %c[ui_gray_2] Boomsticks and Sharpsticks: Specialized modification kit</text>
+	</string>
+
+	<string id="st_wpn_val_descr">
+		<text>The AS Val is widely used by Russian Army recon units, as well as by MVD (Internal Affairs Ministry) and FSB (Federal Security Bureau) Special Forces. The AS-VAL is a gas operated, integrally suppressed weapon. The receiver is machined from steel forging for improved strength. It has a standard side-mounted rail for optical, night vision or red dot scopes but has no provision for mounting a bayonet or a grenade launcher. The integral suppressor could be easily detached for maintenance, repair, or compact storage, but the rifle should not be fired with the suppressor removed due to safety and reliability issues.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1M2-1 scopes\n
+		%c[d_purple] • %c[ui_gray_2] VSS suppressor (integrated)\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Gunsmith modification kit\n
+		%c[d_purple] • %c[ui_gray_2] Boomstics and Sharpstics: Specialized modification kit</text>
+	</string>
+
+	<string id="st_wpn_val_modern_descr">
+		<text>The AS Val is widely used by Russian Army recon units, as well as by MVD (Internal Affairs Ministry) and FSB (Federal Security Bureau) Special Forces. The AS-VAL is a gas operated, integrally suppressed weapon. The receiver is machined from steel forging for improved strength. It has a standard side-mounted rail for optical, night vision or red dot scopes but has no provision for mounting a bayonet or a grenade launcher. The integral suppressor could be easily detached for maintenance, repair, or compact storage, but the rifle should not be fired with the suppressor removed due to safety and reliability issues.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1 scopes\n
+		%c[d_purple] • %c[ui_gray_2] VSS suppressor (integrated)\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Boomstics and Sharpstics: Specialized modification kit</text>
+	</string>
+
+	<string id="st_wpn_vepr12_descr">
+		<text>The Vepr-12 is a multi-purpose semi-automatic shotgun, created by Molot-Oruzhie Ltd. It is patterned after Kalashnikov rifles, and built on the heavy RPK light machine gun receiver. Like the Kalashnikov rifle, it is a rotating bolt, gas operated gun that feeds from a 10 round magazine.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1 scopes\n
+		%c[d_purple] • %c[ui_gray_2] PBS-1 suppressor\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Misc. Weapons Pack: Specialized modification kit</text>
+	</string>
+
+	<string id="st_wpn_vintorez_1pn93_descr">
+		<text>Designed at TsNIITochMash by Peter Serdyukov and his team, the new rifle was intended for various Spetsnaz troops of the Soviet Army, KGB and MVD. The VSS is quite popular among its users for its stealthy capabilities and the great lethality of the heavy 9x39mm bullets. The effective range of the VSS is limited to 300-400 metres. Standard sighting equipment consists of side rail on the receiver, which usually accommodates the 4x  PSO-1M2-1 scope, but this model comes equipped with a 1PN93. Backup iron sights consist of tangent rear and blade front. The rear sight is graduated for up to 400 metres.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] 1PN93 "Tot" scope (integrated)\n
+		%c[d_purple] • %c[ui_gray_2] VSS suppressor (integrated)\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Boomsticks and Sharpsticks: Specialized modification kit</text>
+	</string>
+
+	<string id="st_wpn_vintorez_descr">
+		<text>Designed at TsNIITochMash by Peter Serdyukov and his team, the new rifle was intended for various Spetsnaz troops of the Soviet Army, KGB and MVD. The VSS is quite popular among its users for its stealthy capabilities and the great lethality of the heavy 9x39mm bullets. The effective range of the VSS is limited to 300-400 meters. Standard sighting equipment consists of side rail on the receiver, which usually accommodates the 4x  PSO-1M2-1 scope. Any other scope or night vision sight can be mounted on the appropriate mount. Backup iron sights consist of tangent rear and blade front. The rear sight is graduated for up to 400 meters.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1M2-1 scopes\n
+		%c[d_purple] • %c[ui_gray_2] VSS suppressor (integrated)\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Replacement, Specialized modification kits</text>
+	</string>
+
+	<string id="st_wpn_vz61_descr">
+		<text>Originally chambered for .32 ACP when adopted by the Czechoslovak Army in 1961, mass production of the 9mm Skorpions never took place. Even so, a large number of pre-production vz. 68 and vz. 65 models made their way into the Zone.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] 9mm suppressor (after modification)\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Paint, Replacement, Freedom modification kits\n
+		%c[d_purple] • %c[ui_gray_2] Boomsticks and Sharpsticks: Gunsmith modification kit</text>
+	</string>
+
+	<string id="st_wpn_walther_descr">
+		<text>Ergonomics being a key focus in its design, the Walther P99 is a recoil-operated pistol with a fibreglass polymer frame. Developed for law enforcement and the civilian shooting market, it's employed by police units in a number of countries.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] 9mm suppressor\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Custom modification kit\n
+		%c[d_purple] • %c[ui_gray_2] Boomsticks and Sharpsticks: Specialized modification kit</text>
+	</string>
+
+	<string id="st_wpn_aug_a3_descr">
+		<text>Steyr AUG (Armee Universal Gewehr - Army Universal Rifle) is an Austrian 5.56x45mm NATO bullpup assault rifle, designed in the 1960s by Steyr-Daimler-Puch and now manufactured by Steyr Mannlicher GmbH & Co KG. The Steyr AUG A3 differs from the base model in the presence of four Picatinny slats: the top one is used for attaching sights, a grenade launcher or a vertical front handle can be attached to the bottom, and a laser pointer or other necessary additional equipment is attached to the side.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] NATO suppressor\n
+		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, C-more Railway Tactical, EOTech scopes\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Boomsticks and Sharpsticks: Specialized modification kit</text>
+	</string>
+
+	<string id="st_wpn_remington700_descr">
+		<text>The Remington Model 700 is a very common bolt-action hunting rifle manufactured by Remington Arms since 1962. In the Zone, it is often used as a sniper rifle by Stalkers who are looking for something more simple, reliable, and cheap then an SVD.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] KZRZP suppressor (after modification)\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Boomsticks and Sharpsticks: Gunsmith, Custom, Specialized, Mercenary modification kits</text>
+	</string>
+
+	<string id="st_wpn_remington870_descr">
+		<text>Remington 870 is an American gun, first introduced in 1950 by Remington Arms. Due to its characteristic recharge is one of the most famous pump-action shotguns in the world. Produced in various versions, it is suitable for both the military and the police, for hunters and athletes, as well as for self-defense.\n
+		%c[ui_gray_2]ATTACHMENTS:\n
+		%c[d_purple] • %c[ui_gray_2] Barska ES AC10632, C-more Railway Tactical, EOTech scopes\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Misc. Weapons Pack: Specialized modification kit</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<string id="st_wpn_mosin_carbine_descr">
+		<text>The Mosin-Nagant M38 Carbine is a shorter, more manageable version of the classic rifle, offering solid stopping power with improved mobility.\n
+		In the Zone, it's favored by seasoned stalkers who need reliable, hard-hitting firepower without the bulk of its full length brother.\n
+		Ideal for navigating tighter spaces such as in the underground labs, this may give a slight edge when it matters.\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Gunsmith modification kit</text>
+	</string>
+
+	<string id="st_wpn_mosin_k_descr">
+		<text>The Mosin-Nagant is a rugged, bolt-action rifle known for its long-range accuracy and powerful 7.62?54mmR round.\n
+		It has always been a trusted relic favored by sharpshooters, hunters, and old-school stalkers who value simplicity, durability, and raw stopping power over modern flash.\n
+		%c[ui_gray_2]ATTACHMENTS: PU Scope, KZRZP suppressor\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Gunsmith modification kit</text>
+	</string>
+
+	<string id="st_wpn_obrez_descr">
+		<text>The Mosin-Nagant Obrez is a sawn-off version of the Mosin-Nagant bolt-action rifle, with its barrel and stock cut down to create a much shorter, more concealable weapon.\n
+		This modification was historically used by Stalkers who needed a powerful firearm in a compact form; albeit at the cost of accuracy, control, and safety.\n
+		%c[ui_gray_2]ATTACHMENTS: PU Scope, KZRZP suppressor\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Specialized modification kit</text>
+	</string>
+
+</string_table>

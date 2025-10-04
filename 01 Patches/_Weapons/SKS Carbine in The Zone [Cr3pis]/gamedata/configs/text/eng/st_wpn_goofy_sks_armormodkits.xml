@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+<string id="st_wpn_sks_new_descr">
+    <text>A Soviet 7.62x39mm semi-automatic carbine produced in the early 1950s. Cosmetically worn, but mechanically intact.\n
+    %c[0,255,255,255]PROPERTIES:\n
+    %c[d_cyan] • %c[0,255,255,255]Origin: %c[ui_gray_1]Soviet Union\n
+    %c[d_cyan] • %c[0,255,255,255]Manufacturer: %c[ui_gray_1]Tula Arsenal\n
+    %c[d_cyan] • %c[0,255,255,255]Production Year: %c[ui_gray_1]1951\n
+    %c[ui_gray_2]ATTACHMENTS:\n
+    %c[d_purple] • %c[ui_gray_2] None\n
+	%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+	%c[d_purple] • %c[ui_gray_2] Simple Weapons Pack: Replacement modification kit</text>
+</string>
+</string_table>

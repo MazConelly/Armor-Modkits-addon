@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="st_wpn_glock_auto_descr">
+		<text>The Glock 18 is one of the most famous variants of the Glock 17. This handgun offers a really high RoF in exchange for precision and handling.\n
+		%c[d_purple] - %c[ui_gray_2] Tritium sights\n
+		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
+		%c[d_purple] • %c[ui_gray_2] Default: Specialized weapon mod kit</text>
+	</string>
+</string_table>

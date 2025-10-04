@@ -35,27 +35,21 @@
         <text>Mercenary Light Armor Mod kit</text>
     </string>
     <string id="st_paintkit_lcs_descr">
-        <text>
-            Package containing various flexible armor components, pouches and straps, all painted and styled the Mercenary colors. Most Mercenaries in the Zone do not stay for long, at least not long enough to warrant investing heavily in better equipment. As such, the standard LCS suit is designed with modularity in mind, able to be quickly modified to adapt to the unique conditions in the Zone.
-        </text>
+        <text>Package containing various flexible armor components, pouches and straps, all painted and styled the Mercenary colors. Most Mercenaries in the Zone do not stay for long, at least not long enough to warrant investing heavily in better equipment. As such, the standard LCS suit is designed with modularity in mind, able to be quickly modified to adapt to the unique conditions in the Zone.</text>
     </string>
 
     <string id="st_paintkit_dooty">
         <text>Duty PS5 Armor Mod kit</text>
     </string>
     <string id="st_paintkit_dooty_descr">
-        <text>
-            Package containing various ballistic and insulating fabrics, commonly used by Dutyers to customize their suits. Duty's long presence in the Zone and relatively stable position in Rostok has allowed them to experiment with various types of physical and environmental protection. As such, new recruits issued their PS5 suits are encouraged to customize their equipment to suit their needs.
-        </text>
+        <text>Package containing various ballistic and insulating fabrics, commonly used by Dutyers to customize their suits. Duty's long presence in the Zone and relatively stable position in Rostok has allowed them to experiment with various types of physical and environmental protection. As such, new recruits issued their PS5 suits are encouraged to customize their equipment to suit their needs.</text>
     </string>
 
     <string id="st_paintkit_eco">
         <text>SSP Insulation Kit "Gemstone"</text>
     </string>
     <string id="st_paintkit_eco_descr">
-        <text>
-            A very big and colorful set of insulation materials stamped with the official seal of the Ministry of Science. These sets are designed to maintain and modify standard SSP environmental protection suits. While officially this is a repair kit to maintain several SSP suits, unofficially these kits can be used to alter and modify SSP suits to tailor them to specific situations. In addition to the insulation materials, there is also a guide that tells you how to reset the SSP life support unit.
-        </text>
+        <text>A very big and colorful set of insulation materials stamped with the official seal of the Ministry of Science. These sets are designed to maintain and modify standard SSP environmental protection suits. While officially this is a repair kit to maintain several SSP suits, unofficially these kits can be used to alter and modify SSP suits to tailor them to specific situations. In addition to the insulation materials, there is also a guide that tells you how to reset the SSP life support unit.</text>
     </string>
 
     <string id="st_paintkit_exo">
@@ -76,18 +70,14 @@
         <text>'Pathfinder' SEVA Upgrade kit</text>
     </string>
     <string id="st_paintkit_seva_descr">
-        <text>
-            Special toolkit used to enhance SEVA bodysuits. Produced exclusively by the Clear Sky faction, these sets are assembled with Novikov's decades of experience in designing and building protective gear for the Zone and released in extremely limited quantity. The choice of materials here are extremely expensive and difficult to get ahold of, but their light weight and excellent insulating qualities make them second to none in terms of anomalous protection. With this set, you can upgrade certain SEVA suits into their 'Pathfinder' variants.
-        </text>
+        <text>Special toolkit used to enhance SEVA bodysuits. Produced exclusively by the Clear Sky faction, these sets are assembled with Novikov's decades of experience in designing and building protective gear for the Zone and released in extremely limited quantity. The choice of materials here are extremely expensive and difficult to get ahold of, but their light weight and excellent insulating qualities make them second to none in terms of anomalous protection. With this set, you can upgrade certain SEVA suits into their 'Pathfinder' variants.</text>
     </string>
 
     <string id="st_paintkit_ace">
         <text>'Ace' SEVA Upgrade kit</text>
     </string>
     <string id="st_paintkit_ace_descr">
-        <text>
-            Special toolkit used to enhance SEVA bodysuits. This outfit set was put together by Novikov on a special contract to create the best possible scientific suit for a wealthy Mercenary client with no expense spared. The material here is the best of the best, simultaneously light, breathable, durable, and highly protective. Fortunately for you, however, said Mercenary client has met their end at the claws of a Chimera before collecting on their suit, so now this upgrade kit is available for you to buy.
-        </text>
+        <text>Special toolkit used to enhance SEVA bodysuits. This outfit set was put together by Novikov on a special contract to create the best possible scientific suit for a wealthy Mercenary client with no expense spared. The material here is the best of the best, simultaneously light, breathable, durable, and highly protective. Fortunately for you, however, said Mercenary client has met their end at the claws of a Chimera before collecting on their suit, so now this upgrade kit is available for you to buy.</text>
     </string>
 
 <!-- NEW ARMOR KITS -->
@@ -95,40 +85,32 @@
         <text>Jacket patching kit</text>
     </string>
     <string id="st_paintkit_novice_descr">
-        <text>
-		Package of various common tailoring materials. Nothing special, seems it was prepared to modify and improve simple clothes. As poor a protection as it is, newcomers tend to wear nothing better than the jacket they arrived to the Zone with, so such a package can help change them into something more capable to confront the needs of the Zone, though not as much as proper outfits.
-		</text>
+        <text>Package of various common tailoring materials. Nothing special, seems it was prepared to modify and improve simple clothes. As poor a protection as it is, newcomers tend to wear nothing better than the jacket they arrived to the Zone with, so such a package can help change them into something more capable to confront the needs of the Zone, though not as much as proper outfits.</text>
     </string>
 
 	<string id="st_paintkit_trenchcoat">
         <text>Overcoat leather tools kit</text>
     </string>
     <string id="st_paintkit_trenchcoat_descr">
-        <text>
-		Package of various tailoring materials suited for working wth leather. It also includes armor bits and pieces butchered from a scientist suit. Overcoats don't make for particularly protective outfits, but with this kit a patient stalker should be able to convert it into something a bit more respectable, at cost of double the weight. The included specialized tools should also allow one to recover the coat from such a conversion with minimal damage.
-		</text>
+        <text>Package of various tailoring materials suited for working wth leather. It also includes armor bits and pieces butchered from a scientist suit. Overcoats don't make for particularly protective outfits, but with this kit a patient stalker should be able to convert it into something a bit more respectable, at cost of double the weight. The included specialized tools should also allow one to recover the coat from such a conversion with minimal damage.</text>
     </string>
 
     <string id="st_paintkit_merc_tactical">
         <text>Mercenary Tactical mod kit</text>
     </string>
     <string id="st_paintkit_merc_tactical_descr">
-        <text>
-            Package containing various ballistic and insulating fabrics, all painted and styled the Mercenary colors. For the few Mercenaries that stay long in the Zone, improved protection is essential. And when the LCS suit comes short, the locally crafted Tactical suit steps up. While not as modular, it stills allows a degree of customization with the proper adjustments and materials.
-		</text>
+        <text>Package containing various ballistic and insulating fabrics, all painted and styled the Mercenary colors. For the few Mercenaries that stay long in the Zone, improved protection is essential. And when the LCS suit comes short, the locally crafted Tactical suit steps up. While not as modular, it stills allows a degree of customization with the proper adjustments and materials.</text>
     </string>
 
 	<string id="st_paintkit_skat">
         <text>SKAT armor mod kit</text>
     </string>
     <string id="st_paintkit_skat_descr">
-        <text>
-		Special toolkit used to work with SKAT body armor, allowing one to improve an existing one or upgrade lesser outfits. The task of turning goverment issued military gear (the expensive kind, at that) into something usable by unaffiliated stalkers isn't a simple one. Some parts are not practical to be maintained in the Zone without army support, and they must be swapped by others of similar quality but easier to be repaired with the means available. There are other parts that must be removed, like geo localization devices, lest you find yourself with unexpected visitors one day.\n
+        <text>Special toolkit used to work with SKAT body armor, allowing one to improve an existing one or upgrade lesser outfits. The task of turning goverment issued military gear (the expensive kind, at that) into something usable by unaffiliated stalkers isn't a simple one. Some parts are not practical to be maintained in the Zone without army support, and they must be swapped by others of similar quality but easier to be repaired with the means available. There are other parts that must be removed, like geo localization devices, lest you find yourself with unexpected visitors one day.\n
 		Most factions providing SKAT armors to their members don't have to worry about this, whether by virtue of force of numbers, possesing the technical means, or straight up not caring. But unaffiliated stalkers would be prudent to "clean" the prospective outfit themselves before thinking about using it. Restoring those parts should also be possible, though unless one is affiliated with the Army, it would beg the question of "why?"
-		-Can improve certain SKAT armors into a better version. \n
-		-Can improve certain lesser outfits closer to the standards of SKAT armor. \n
-		NOTE: Previous upgrades might need to be removed first (or lost).
-		</text>
+		-Can improve certain SKAT armors into a better version.\n
+		-Can improve certain lesser outfits closer to the standards of SKAT armor.\n
+		NOTE: Previous upgrades might need to be removed first (or lost).</text>
     </string>
 
 <!-- GUN KITS -->
@@ -136,59 +118,50 @@
         <text>Paint weapon kit</text>
     </string>
     <string id="st_paintkit_gunkit_paint_descr">
-        <text>
-		Package of various painting tools suitable for weapons. It should allow the user to change the appareance of their gun, including applying an appropiate camouflage pattern. There's also some parts that you can't decide if they're intended to support the paint or improve the weapon, but you won't complain. \n
-		Some included tools should also help add engravings into a gun; some swear by the added looks, but as experienced soldiers could tell you, engravings have no tactical advantage whatsoever. \n
-		-Can turn any regular gun into their camouflaged version, and back. \n
-		-Can turn any regular shotgun into its engraved version. \n
-		NOTE: Previous upgrades might need to be removed first (or lost).
-		</text>
+        <text>Package of various painting tools suitable for weapons. It should allow the user to change the appareance of their gun, including applying an appropiate camouflage pattern. There's also some parts that you can't decide if they're intended to support the paint or improve the weapon, but you won't complain.\n
+		Some included tools should also help add engravings into a gun; some swear by the added looks, but as experienced soldiers could tell you, engravings have no tactical advantage whatsoever.\n
+		-Can turn any regular gun into their camouflaged version, and back.\n
+		-Can turn any regular shotgun into its engraved version.\n
+		NOTE: Previous upgrades might need to be removed first (or lost).</text>
     </string>
 	
     <string id="st_paintkit_gunkit_gunsmith">
         <text>Gunsmith weapon mod kit</text>
     </string>
     <string id="st_paintkit_gunkit_gunsmith_descr">
-        <text>
-		Package of various basic gunsmithing materials. Seems it has enough things to modify and improve weapons in simple ways. You could repair an old gun, or turn any dime a dozen weapon into something more proper of the times, and more accepting of further improvements. There's also a saw for some reason, that could be useful in shortening a shotgun barrel. \n
-		-Can upgrade any gun in an order such as: regular > new > modern. \n
-		-Can turn any shotgun into its sawn-off version. \n
-		NOTE: Previous upgrades might need to be removed first (or lost).
-		</text>
+        <text>Package of various basic gunsmithing materials. Seems it has enough things to modify and improve weapons in simple ways. You could repair an old gun, or turn any dime a dozen weapon into something more proper of the times, and more accepting of further improvements. There's also a saw for some reason, that could be useful in shortening a shotgun barrel.\n
+		-Can upgrade any gun in an order such as: regular > new > modern.\n
+		-Can turn any shotgun into its sawn-off version.\n
+		NOTE: Previous upgrades might need to be removed first (or lost).</text>
     </string>
 	
     <string id="st_paintkit_gunkit_replace">
         <text>Replacement weapon mod kit</text>
     </string>
     <string id="st_paintkit_gunkit_replace_descr">
-        <text>
-		Package of various gunsmithing materials. Straight out of the fabrication chain, one could use these parts to slighlty change a compatible weapon. Not neccesarily as an improvement, but a sidegrade can have its own advantages. \n
-		-Can turn any regular weapon into its alternate version. \n
-		NOTE: Previous upgrades might need to be removed first (or lost).
-		</text>
+        <text>Package of various gunsmithing materials. Straight out of the fabrication chain, one could use these parts to slighlty change a compatible weapon. Not neccesarily as an improvement, but a sidegrade can have its own advantages.\n
+		-Can turn any regular weapon into its alternate version.\n
+		-Can rechamber certain weapons.\n
+		NOTE: Previous upgrades might need to be removed first (or lost).</text>
     </string>
 	
     <string id="st_paintkit_gunkit_custom">
         <text>Custom weapon mod kit</text>
     </string>
     <string id="st_paintkit_gunkit_custom_descr">
-        <text>
-		Package of various gunsmithing materials of good quality. One should be able to modify any properly cleaned up weapon into something more suitable to their needs, and even add some extra upgrades during the process. \n
-		-Can turn any regular weapon into its custom version. \n
-		NOTE: Previous upgrades might need to be removed first (or lost).
-		</text>
+        <text>Package of various gunsmithing materials of good quality. One should be able to modify any properly cleaned up weapon into something more suitable to their needs, and even add some extra upgrades during the process.\n
+		-Can turn any regular weapon into its custom version.\n
+		NOTE: Previous upgrades might need to be removed first (or lost).</text>
     </string>
 
     <string id="st_paintkit_gunkit_scope">
         <text>Specialized weapon mod kit</text>
     </string>
     <string id="st_paintkit_gunkit_scope_descr">
-        <text>
-		Package of various gunsmithing materials for specialized purposes, including railings, optics for them, and even barrel threading. While integrating attachments into a weapon limits their usefulness in some ways, it can make them excell in others as they become specialized in them. \n
-		Luckily, this package includes the very attachment you needed. No, you don't know which one is it. Yes, yes, you were that lucky. It's the Zone, shut up, don't question it. \n
-		-Can be used on any applicable regular weapon. \n
-		NOTE: Previous upgrades might need to be removed first (or lost).
-		</text>
+        <text>Package of various gunsmithing materials for specialized purposes, including railings, optics for them, and even barrel threading. While integrating attachments into a weapon limits their usefulness in some ways, it can make them excell in others as they become specialized in them.\n
+		Luckily, this package includes the very attachment you needed. No, you don't know which one is it. Yes, yes, you were that lucky. It's the Zone, shut up, don't question it.\n
+		-Can be used on any applicable regular weapon.\n
+		NOTE: Previous upgrades might need to be removed first (or lost).</text>
     </string>
 
     <string id="st_paintkit_gunkit_duty">
@@ -203,22 +176,47 @@
 	   <string id="st_paintkit_gunkit_cs">
         <text>Clear Sky modification kit</text>
     </string>
+	<string id="st_paintkit_gunkit_mono">
+		<text>Monolith Purification kit</text>
+	</string>
 	<string id="st_paintkit_gunkit_loner">
         <text>Loner scrap box</text>
     </string>
     <string id="st_paintkit_gunkit_faction_descr">
-        <text>Package of various materials of good quality. Some of these parts are intended to improve some weapons or outfits in certain ways, and sometimes help the user declare their allegiance more clearly. \n
-		-Can turn certain regular weapons and outfits into a faction appropiate version. \n
-		-Can improve certain faction equipment into a better version. \n
-		NOTE: Previous upgrades might need to be removed first (or lost).
-		</text>
+        <text>Package of various materials of good quality. Some of these parts are intended to improve some weapons or outfits in certain ways, and sometimes help the user declare their allegiance more clearly.\n
+		-Can turn certain regular weapons and outfits into a faction appropiate version.\n
+		-Can improve certain faction equipment into a better version.\n
+		NOTE: Previous upgrades might need to be removed first (or lost).</text>
     </string>
 	<string id="st_paintkit_gunkit_loner_descr">
-        <text>Package of miscellaneous materials of varied quality. You could improve some outfits with these, or salvage "lost" advanced equipment belonging to one of the main factions. \n
-		-Can improve certain low tier outfits. \n
-		-Can turn a factional version of some outfits into a neutral "loner" one. \n
-		NOTE: Previous upgrades might need to be removed first (or lost).
-		</text>
+        <text>Package of miscellaneous materials of varied, though rarely good, quality. You could improve some outfits with these, or salvage "lost" advanced equipment belonging to one of the main factions.\n
+		-Can improve certain low tier outfits.\n
+		-Can turn a factional version of some outfits into a neutral "loner" one.\n
+		NOTE: Previous upgrades might need to be removed first (or lost).</text>
     </string>
 
+
+
+    <string id="st_gunkit_rechamber">
+        <text>Gunsmith rechambering mod kit</text>
+    </string>
+    <string id="st_gunkit_rechamber_descr">
+        <text>Package of various gunsmithing materials for specialized purposes, including half a set of gunsmithing tools.	Not only it eases changing parts on a gun, it helps with the work of rechambering a weapon for a different ammunition type.\n
+		Fairly cheap, considering most of these tools look weathered and ready to break soon.\n
+		NOTE: Previous upgrades might need to be removed first (or lost).</text>
+    </string>
+
+
+<!-- 	<string id="st_itm_ammokit">
+		<text>Gunsmithing tools</text>
+	</string>
+	<string id="st_itm_ammokit_descr">
+		<text>A decent set of old gunsmithing tools and accessories. Contains various tools, that with enough knowledge and experience, can be used for recycling damaged ammunition and the creation of better variants, as well as rechambering weapons.\n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_purple] • %c[ui_gray_2] usable on mechanic's workshop for crafting\n
+		%c[d_blue] • %c[ui_gray_2] high quality\n
+		%c[d_blue] • %c[ui_gray_2] valuable\n
+		%c[d_red] • %c[ui_gray_2] requires suitable materials\n</text>
+	</string>
+ -->
 </string_table>
