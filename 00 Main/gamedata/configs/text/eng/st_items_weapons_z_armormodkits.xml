@@ -20,16 +20,6 @@
 		%c[d_purple] • %c[ui_gray_2] Default: Duty modification kit</text>
 	</string>
 
-	<string id="st_wpn_ak_descr">
-		<text>The AK-47 can be described as a hybrid of previous rifle technology. Mikhail Kalashnikov designed this automatic rifle combining the best features of the American M1 and the German StG44. The Kalashnikov is a gas operated 7.62x39 assault rifle and by far the most prolific small arm of the 2nd half of the 20th century. It had been and still is, in more or less modified form, manufactured in dozens of countries and has been used in hundreds of conflicts since its introduction.\n
-		%c[ui_gray_2]ATTACHMENTS:\n
-		%c[d_purple] • %c[ui_gray_2] PBS-1 suppressor\n
-		%c[d_purple] • %c[d_red] No optics can be mounted due to the absence of a dovetail mount\n
-		%c[d_purple] • %c[ui_gray_2] GP-25 grenade launcher (after modification)\n
-		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
-		%c[d_purple] • %c[ui_gray_2] Misc. Weapons Pack: Specialized modification kit</text>
-	</string>
-
 	<string id="st_wpn_ak101_descr">
 		<text>The AK-101 is an assault rifle of the Kalashnikov family designed for the export market, using 5.56x45mm NATO cartridges; the standard of most NATO countries. The AK-101 is marketed at those looking for a weapon that combines the logistical compatibility and familiarity of the 5.56x45mm NATO round with the reliability of a Kalashnikov. It is designed with modern and composite materials, including plastics to reduce weight and to improve accuracy. Many of the improvements found in the AK-101 are also present in the AK-103 and the rest of the AK-10x series of rifles.\n
 		%c[ui_gray_2]ATTACHMENTS:\n
@@ -94,8 +84,7 @@
 		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1 scopes\n
 		%c[d_purple] • %c[ui_gray_2] PBS-4 suppressor\n
 		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
-		%c[d_purple] • %c[ui_gray_2] Default: Paint, Custom, and Specialized modification kits\n
-		%c[d_purple] • %c[ui_gray_2] Misc. Weapons Pack: Specialized modification kit (for AKS-74UN *custom*)</text>
+		%c[d_purple] • %c[ui_gray_2] Default: Paint, Custom, and Specialized modification kits</text>
 	</string>
 
 	<string id="st_wpn_akm_descr">
@@ -171,8 +160,7 @@
 	<string id="st_wpn_desert_eagle_descr">
 		<text>The IMI Desert Eagle is a semi-automatic handgun notable for chambering the largest centrefire cartridge of any magazine fed, self-loading pistol and also being the heaviest and blockiest gun of its type. No one knows why IMI thought shooting a calibre of this size out of a handgun was a good idea, even though there are plenty of rounds out there that can do the job without breaking your wrist; this one assumes because of a pissing contest between the .44 and .50 AE. Not only is it heavy and harsh in recoil, you can also use it to bludgeon your enemies to death because of its blockiness and weight. Although militaries and law enforcement around the world, in their moment of sanity, never adopted this brick; Hollywood did, mostly because of its "cool factor" and now is the poster child for gangsters and pimps and a status symbol for those who reached a certain rank in a certain console shooter. Rumour is that there's a Stalker with a crowbar wandering around the Zone with a rechambered version of this gun, but it's just a rumour.\n
 		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
-		%c[d_purple] • %c[ui_gray_2] Default: Gunsmith, Custom, and Specialized modification kits\n
-		%c[d_purple] • %c[ui_gray_2] Misc. Weapons Pack: Specialized modification kit (for Desert Eagle *custom*)</text>
+		%c[d_purple] • %c[ui_gray_2] Default: Gunsmith, Custom, and Specialized modification kits</text>
 	</string>
 
 	<string id="st_wpn_fn2000_descr">
@@ -180,7 +168,7 @@
 		%c[ui_gray_2]ATTACHMENTS:\n
 		%c[d_purple] • %c[ui_gray_2] FN2000 scope (integrated)\n
 		%c[d_purple] • %c[ui_gray_2] NATO suppressor\n
-		%c[ui_gray_2]COMPATIBLE MOD KITS: Paint, Custom, and Specialized modification kits</text>
+		%c[ui_gray_2]COMPATIBLE MOD KITS: Paint, and Custom modification kits</text>
 	</string>
 
 	<string id="st_wpn_fn57_descr">
@@ -211,8 +199,7 @@
 		%c[ui_gray_2]ATTACHMENTS:\n
 		%c[d_purple] • %c[ui_gray_2] NATO suppressor\n
 		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
-		%c[d_purple] • %c[ui_gray_2] Default: Paint weapon kit\n
-		%c[d_purple] • %c[ui_gray_2] Misc. Weapons Pack: Specialized modification kit</text>
+		%c[d_purple] • %c[ui_gray_2] Default: Paint weapon kit</text>
 	</string>
 
 	<string id="st_wpn_galil_descr">
@@ -280,18 +267,7 @@
 		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech scopes\n
 		%c[d_purple] • %c[ui_gray_2] M203 grenade launcher (after modification)\n
 		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
-		%c[d_purple] • %c[ui_gray_2] Default: Paint, Custom modification kits\n
-		%c[d_purple] • %c[ui_gray_2] Misc. Weapons Pack: Specialized modification kit</text>
-	</string>
-
-	<string id="st_wpn_m16_descr">
-		<text>The M16 is the U.S. military designation for a family of rifles derived from the ArmaLite AR-15 and further developed by Colt starting in the 1960s. The M16 rifle family including the M16/A1/A2/A3/A4 has been the primary infantry rifle of the United States military since the 1960s. With its variants, it has been in use by 15 NATO countries, and is the most produced firearm in its calibre. The M16 is a lightweight, 5.56x45mm calibre, air cooled, gas operated, magazine fed assault rifle, with a rotating bolt, actuated by direct impingement gas operation. The rifle is made of steel, aluminium, and composite plastics.\n
-		%c[ui_gray_2]ATTACHMENTS:\n
-		%c[d_purple] • %c[ui_gray_2] NATO suppressor\n
-		%c[d_purple] • %c[ui_gray_2] ACOG, Barska ES AC10632, EOTech scopes\n
-		%c[d_purple] • %c[ui_gray_2] M203 grenade launcher\n
-		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
-		%c[d_purple] • %c[ui_gray_2] Misc. Weapons Pack: Specialized modification kit</text>
+		%c[d_purple] • %c[ui_gray_2] Default: Paint, Custom modification kits</text>
 	</string>
 
 	<string id="st_wpn_m4_descr">
@@ -312,13 +288,6 @@
 		%c[d_purple] • %c[ui_gray_2] M203 grenade launcher (after modification)\n
 		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
 		%c[d_purple] • %c[ui_gray_2] Default: Paint, Custom weapon, Freedom modification kits\n</text>
-	</string>
-
-	<string id="st_wpn_mosin_descr">
-		<text>The "Russian 3-line" rifle is a very well-known rifle of the Second World War. This model is a basic version of the Mosin with a gently worn action. The M1891/30 was produced for standard issue to all Soviet infantry from 1930 to 1945. It was extremely successful in the war as a sniper rifle when it was equipped with a 4x PE or a 3.5x PU scope. Now very common in the Zone due to its ubiquitous nature within Eastern Europe.\n
-		%c[ui_gray_2]ATTACHMENTS:\n%c[d_purple]• %c[ui_gray_2] PU scope\n
-		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
-		%c[d_purple] • %c[ui_gray_2] Simple Weapons Pack: Gunsmith modification kit</text>
 	</string>
 
 	<string id="st_wpn_mp153_descr">
@@ -364,16 +333,13 @@
 	<string id="st_wpn_pm_descr">
 		<text>This Soviet legacy is the most common pistol in the Zone and is one of the best compact self-defence handguns available. It is small, highly reliable, easy to use and maintain in working order. It also suffers from several drawbacks, including short range, low firing accuracy and poor stopping power, while also losing out to modern pistols in its class in terms of weight and magazine size. In 1951, the Pistol Makarova was selected because of its simplicity, easy manufacturing, accuracy, and reasonable stopping power.\n
 		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
-		%c[d_purple] • %c[ui_gray_2] Default: Custom modification kit\n
-		%c[d_purple] • %c[ui_gray_2] Misc. Weapons Pack: Specialized modification kit</text>
+		%c[d_purple] • %c[ui_gray_2] Default: Custom modification kit</text>
 	</string>
 
 	<string id="st_wpn_ppsh41_descr">
 		<text>A major infantry weapon of the Soviet armed forces during World War II, the PPSh-41 was a durable, low-maintenance weapon made of cheap, easily-obtained components. It was invented by Georgy Shpagin and utilises the 7.62x25mm cartridge.\n
 		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
-		%c[d_purple] • %c[ui_gray_2] Default: Paint, Gunsmith modification kits\n
-		%c[d_purple] • %c[ui_gray_2] Boomsticks and Sharpsticks: Clear Sky modification kit\n
-		%c[d_purple] • %c[ui_gray_2] Simple Weapons Pack: Specialized modification kit</text>
+		%c[d_purple] • %c[ui_gray_2] Default: Paint, Gunsmith modification kits</text>
 	</string>
 
 	<string id="st_wpn_protecta_descr">
@@ -386,12 +352,6 @@
 		<text>Fitted with a skeleton buttstock made from wood as well as a hinged buttplate and a wooden pistol grip. The rear part of the buttstock houses a cleaning kit, and a disassembled cleaning rod is stored in the right leg of the bipod. A very reliable general-purpose machine gun used in a few different forms by the USSR and the states that once made it up since 1961.\n
 		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
 		%c[d_purple] • %c[ui_gray_2] Boomsticks and Sharpsticks: Specialized modification kit</text>
-	</string>
-
-	<string id="st_wpn_rpk_descr">
-		<text>The RPK is a Soviet light machine gun, developed by Mikhail Kalashnikov in 1961 based on the Kalashnikov assault rifle. Created as part of Soviet efforts to standardise the armoury of the Red Army, the RPK replaced the RPD and a modernized version is still in use to present day.\n
-		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
-		%c[d_purple] • %c[ui_gray_2] Misc. Weapons Pack: Specialized modification kit</text>
 	</string>
 
 	<string id="st_wpn_rpk74_descr">
@@ -447,15 +407,13 @@
 		<text>The SKS, designed by S. G. Simonov is one of the first weapons chambered for the 7.62x39mm round. Replaced in Soviet front-line service by the AK-47 in the early 1950s, it remained in second-line service for decades and is still used as a ceremonial arm today.\n
 		%c[ui_gray_2]ATTACHMENTS:\n%c[d_purple]• %c[ui_gray_2] PU scope\n
 		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
-		%c[d_purple] • %c[ui_gray_2] Default: Gunsmith modification kit\n
-		%c[d_purple] • %c[ui_gray_2] Simple Weapons Pack: Replacement modification kit</text>
+		%c[d_purple] • %c[ui_gray_2] Default: Gunsmith modification kit</text>
 	</string>
 
 	<string id="st_wpn_spas12_descr">
 		<text>The SPAS-12 is a dual-mode shotgun, designed for combat and anti-riot measures. It is employed by many special military and police units around the world. With its distinctive heat shield and folding stock, the SPAS-12 is an iconic firearm. Notable for its reliability and tactical flexibility. Despite its heavy weight, complex mechanism and considerable cost, it is in demand in the Zone due to its effectiveness against mutants.\n
 		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
-		%c[d_purple] • %c[ui_gray_2] Default: Custom modification kit\n
-		%c[d_purple] • %c[ui_gray_2] Misc. Weapons Pack: Specialized modification kit</text>
+		%c[d_purple] • %c[ui_gray_2] Default: Custom modification kit</text>
 	</string>
 
 	<string id="st_wpn_sv98_descr">
@@ -479,8 +437,7 @@
 		<text>The SVT-40 is a surplus semi-automatic rifle designed by F. V. Tokarev, chambered in the 7.62x54mmR round. It saw widespread use in the Red Army and Wehrmacht during WWII.\n
 		%c[ui_gray_2]ATTACHMENTS:\n%c[d_purple]• %c[ui_gray_2] PU special scope\n
 		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
-		%c[d_purple] • %c[ui_gray_2] Default: Gunsmith modification kit (for regular variant)\n
-		%c[d_purple] • %c[ui_gray_2] Simple Weapons Pack: Replacement modification kit</text>
+		%c[d_purple] • %c[ui_gray_2] Default: Replacement modification kit</text>
 	</string>
 
 	<string id="st_wpn_svu_descr">
@@ -555,15 +512,6 @@
 		%c[d_purple] • %c[ui_gray_2] Boomstics and Sharpstics: Specialized modification kit</text>
 	</string>
 
-	<string id="st_wpn_vepr12_descr">
-		<text>The Vepr-12 is a multi-purpose semi-automatic shotgun, created by Molot-Oruzhie Ltd. It is patterned after Kalashnikov rifles, and built on the heavy RPK light machine gun receiver. Like the Kalashnikov rifle, it is a rotating bolt, gas operated gun that feeds from a 10 round magazine.\n
-		%c[ui_gray_2]ATTACHMENTS:\n
-		%c[d_purple] • %c[ui_gray_2] EKP-8-02 Kobra, 1P29, PSO-1 scopes\n
-		%c[d_purple] • %c[ui_gray_2] PBS-1 suppressor\n
-		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
-		%c[d_purple] • %c[ui_gray_2] Misc. Weapons Pack: Specialized modification kit</text>
-	</string>
-
 	<string id="st_wpn_vintorez_1pn93_descr">
 		<text>Designed at TsNIITochMash by Peter Serdyukov and his team, the new rifle was intended for various Spetsnaz troops of the Soviet Army, KGB and MVD. The VSS is quite popular among its users for its stealthy capabilities and the great lethality of the heavy 9x39mm bullets. The effective range of the VSS is limited to 300-400 metres. Standard sighting equipment consists of side rail on the receiver, which usually accommodates the 4x  PSO-1M2-1 scope, but this model comes equipped with a 1PN93. Backup iron sights consist of tangent rear and blade front. The rear sight is graduated for up to 400 metres.\n
 		%c[ui_gray_2]ATTACHMENTS:\n
@@ -615,14 +563,6 @@
 		%c[d_purple] • %c[ui_gray_2] KZRZP suppressor (after modification)\n
 		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
 		%c[d_purple] • %c[ui_gray_2] Boomsticks and Sharpsticks: Gunsmith, Custom, Specialized, Mercenary modification kits</text>
-	</string>
-
-	<string id="st_wpn_remington870_descr">
-		<text>Remington 870 is an American gun, first introduced in 1950 by Remington Arms. Due to its characteristic recharge is one of the most famous pump-action shotguns in the world. Produced in various versions, it is suitable for both the military and the police, for hunters and athletes, as well as for self-defense.\n
-		%c[ui_gray_2]ATTACHMENTS:\n
-		%c[d_purple] • %c[ui_gray_2] Barska ES AC10632, C-more Railway Tactical, EOTech scopes\n
-		%c[ui_gray_2]COMPATIBLE MOD KITS:\n
-		%c[d_purple] • %c[ui_gray_2] Misc. Weapons Pack: Specialized modification kit</text>
 	</string>
 
 </string_table>
