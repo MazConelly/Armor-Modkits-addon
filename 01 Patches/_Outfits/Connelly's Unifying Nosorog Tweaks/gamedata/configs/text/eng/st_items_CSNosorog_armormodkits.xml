@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 
-	<string id="csky_nosorogmk1_outfit_desc">
+	<string id="csky_nosorog_outfit_desc">
 		<text>%c[ui_gray_1]One of Novikov's "little" projects. Clear Sky veterans had raised concerns about the new exoskeleton models fielded by the more well equiped factions. While there is little worry of hostilities with Duty or Freedom, they were troubled by the thought of Spetsnaz squads or unscrupulous mercs encouraged to assault the Great Swamp behind a Nosorog armor, or worse, Monolith cultists finally breaking past the Barrier.\n
 		Calling a favor from friendly merc contacts, the technician got to work into designing an answer to the Nosorogs fielded by other factions. Being last to the race has its own benefits in learning from others's mistakes and successes. But only the most trusted members of the faction are considered for carrying this armor.\n
 		%c[ui_gray_2]COMPATIBLE WITH: Clear Sky's specialized Nosorog mod kit</text>
